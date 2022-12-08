@@ -1,0 +1,28 @@
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '10 */6 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v3
+    - name: Fetch latest data
+      run: |-
+        curl "https://data.cityofnewyork.us/api/views/6xgr-kwjq/rows.csv?accessType=DOWNLOAD" | sort -t ',' -k 9 -n > ccrb-complaints-database-allegations.csv
+        curl "https://data.cityofnewyork.us/api/views/2mby-ccnw/rows.csv?accessType=DOWNLOAD" | sort -t ',' -k 2 -n > ccrb-complaints-database-complaints.csv
+        curl "https://data.cityofnewyork.us/api/views/2fir-qns4/rows.csv?accessType=DOWNLOAD" | sort -t ',' -k 2 -n > ccrb-complaints-database-officers.csv
+        curl "https://data.cityofnewyork.us/api/views/keep-pkmh/rows.csv?accessType=DOWNLOAD" | sort > ccrb-complaints-database-penalties.csv
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
