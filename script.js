@@ -19,9 +19,10 @@ async function start() {
 
     let records = parse(csv, { columns: true, cast: true })
 
-    // strip date to allow useful diffs
     records = records.map(record => {
-      delete record['As Of Date']
+      delete record['As Of Date'] // strip date to allow useful diffs
+      delete record['Complaint Officer Number'] // strip officer number as they change 
+
       return record
     })
 
