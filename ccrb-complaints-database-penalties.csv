@@ -3972,7 +3972,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 201116462,12770,Substantiated (Instructions),,06/28/2013,No,,,,,,No penalty
 201116483,43747,Substantiated (Command Discipline),,06/28/2013,No,,,,,,No penalty
 201116483,47759,Substantiated (Command Discipline),,06/28/2013,No,,,,,,No penalty
-201116526,23095,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 8 days,,Closed: Guilty after trial,06/17/2014,Vacation: 8 days
+201116526,23095,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 8 days,,Closed: Guilty after trial,06/17/2014,Forfeit vacation 8 days
 201116557,7412,Substantiated (Instructions),,05/28/2013,No,,,,,,Command Discipline - B
 201116562,34174,Substantiated (Charges),,05/28/2013,No,,,,,,Instructions
 201116562,52275,Substantiated (Charges),,05/28/2013,No,,,,,,Instructions
@@ -4176,7 +4176,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 201207108,59101,Substantiated (Command Discipline),,11/28/2013,No,,,,,,Instructions
 201207140,65950,Substantiated (Command Discipline),,08/28/2013,No,,,,,,No penalty
 201207151,80877,Substantiated (Charges),,,Yes,Forfeit vacation 10 days,Forfeit vacation 5 days,,Closed: Guilty after trial,10/13/2015,Forfeit vacation 5 days
-201207175,72160,Substantiated (Charges),,,Yes,Forfeit vacation 5 days,Reprimand,,Closed: Guilty after trial,11/10/2014,Reprimand
+201207175,72160,Substantiated (Charges),,,Yes,Forfeit vacation 5 days,Reprimand,,Closed: Guilty after trial,11/10/2014,Instructions
 201207181,51788,Substantiated (Charges),,,Yes,Forfeit vacation 3 days,,,Closed: Not guilty after trial,02/26/2015,
 201207181,59615,Substantiated (Charges),,,Yes,Forfeit vacation 3 days,,,Closed: Not guilty after trial,02/26/2015,
 201207214,47828,Substantiated (Charges),,,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,10/17/2014,Forfeit vacation 3 days
@@ -9415,6 +9415,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 202104024,28660,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: Resigned,11/23/2022,
 202104047,7107,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202104047,86793,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202104085,52440,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202104100,8446,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202104100,8626,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202104100,8786,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
