@@ -3972,7 +3972,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 201116462,12770,Substantiated (Instructions),,06/28/2013,No,,,,,,No penalty
 201116483,43747,Substantiated (Command Discipline),,06/28/2013,No,,,,,,No penalty
 201116483,47759,Substantiated (Command Discipline),,06/28/2013,No,,,,,,No penalty
-201116526,23095,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 8 days,,Closed: Guilty after trial,06/17/2014,Forfeit vacation 8 days
+201116526,23095,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 8 days,,Closed: Guilty after trial,06/17/2014,Vacation: 8 days
 201116557,7412,Substantiated (Instructions),,05/28/2013,No,,,,,,Command Discipline - B
 201116562,34174,Substantiated (Charges),,05/28/2013,No,,,,,,Instructions
 201116562,52275,Substantiated (Charges),,05/28/2013,No,,,,,,Instructions
@@ -4101,7 +4101,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 201203143,55530,Substantiated (Command Discipline),,08/28/2013,No,,,,,,Instructions
 201203163,6090,Substantiated (No Recommendations),,01/28/2014,No,,,,,,
 201203163,53844,Substantiated (No Recommendations),,01/28/2014,No,,,,,,
-201203165,21687,Substantiated (Charges),,,Yes,,,Forfeit vacation 3 days,"Closed: Plea set aside, Formalized Training",08/26/2014,Instructions
+201203165,21687,Substantiated (Charges),,,Yes,,,Forfeit vacation 3 days,"Closed: Plea set aside, Formalized Training",08/26/2014,Formalized Training
 201203165,70287,Substantiated (Charges),,,Yes,,,,Closed: Deceased,05/22/2013,No penalty
 201203262,34851,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,,,Closed: Not guilty after trial,12/19/2014,
 201203262,51470,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,,,Closed: Not guilty after trial,12/19/2014,
@@ -8471,7 +8471,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 202003817,66679,Substantiated (Command Discipline A),,05/28/2022,No,,,,,,Command Discipline - A
 202003822,35054,Substantiated (Charges),,,Yes,,,,"Closed: Previously adjudicated, with discipline",11/08/2021,Forfeit vacation 30 days
 202003834,387,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202003834,1252,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202003834,1252,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: Resigned,12/29/2022,
 202003834,1351,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003834,2753,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003834,83821,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 11 days,Closed: Resolved by plea,11/23/2022,Forfeit vacation 11 days
@@ -8482,7 +8482,7 @@ Complaint Id,Randomized Officer Id,CCRB Substantiated Officer Disposition,Board 
 202003854,17442,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003860,57751,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003867,6084,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202003879,21431,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202003879,21431,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",12/29/2022,Command Discipline A
 202003893,27161,Substantiated (Command Discipline A),,12/28/2021,No,,,,,,Command Discipline - A
 202003901,86118,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003903,13543,Substantiated (Command Discipline A),Substantiated (Command Discipline A),05/28/2022,No,,,,,,Command Discipline - A (Vacation: 3 days)
