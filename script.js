@@ -30,7 +30,7 @@ async function start() {
       const FIELDS = [
         'Allegation Record Identity',
         'Complaint Id',
-        'Randomized Officer Id',
+        'Tax ID',
         'Complaint Officer Number'
       ]
       for (const field of FIELDS) {
