@@ -7812,7 +7812,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201908805,966002,Substantiated (Command Lvl Instructions),,03/28/2021,No,,,,,,Instructions
 201908809,955705,Substantiated (Command Discipline B),,11/28/2021,No,,,,,,No penalty
 201908809,956575,Substantiated (Command Discipline B),,11/28/2021,No,,,,,,No penalty
-201908813,955633,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+201908813,955633,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 1 days,"Closed: Plea set aside, Comm. Disc. A",09/21/2022,Command Discipline A 1 days
 201908813,960412,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: Other,12/30/2020,
 201908824,902473,Substantiated (Command Discipline A),Substantiated (Command Discipline B),10/28/2021,No,,,,,,No penalty
 201908824,928041,Substantiated (Command Discipline A),Substantiated (Command Discipline B),10/28/2021,No,,,,,,No penalty
@@ -8553,7 +8553,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202004301,954114,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: Retired,04/22/2022,
 202004301,964169,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202004307,936323,Substantiated (Command Discipline B),Substantiated (Command Discipline B),03/28/2022,No,,,,,,No penalty
-202004307,956822,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202004307,956822,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,"Closed: Plea set aside, Comm. Disc. A",09/21/2022,Command Discipline A 1 days
 202004307,957588,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202004315,947634,Substantiated (Command Discipline B),Substantiated (Command Discipline B),04/28/2022,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202004315,947929,Substantiated (Command Discipline A),Substantiated (Command Discipline A),04/28/2022,No,,,,,,No penalty
