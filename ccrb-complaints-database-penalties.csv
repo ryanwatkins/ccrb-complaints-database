@@ -8420,7 +8420,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202003689,958765,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/28/2022,No,,,,,,No penalty
 202003690,958127,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003692,957510,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202003695,948368,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202003695,948368,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,Forfeit vacation 40 days,,,Closed: Not guilty after trial,01/13/2023,
 202003695,960376,Substantiated (Command Discipline A),Substantiated (Command Discipline A),05/28/2022,No,,,,,,Command Discipline - A
 202003697,958799,Substantiated (Charges),,,Yes,,,,Pending,,APU - Decision Pending
 202003703,951244,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",09/28/2022,Dismissal Probation
@@ -9509,7 +9509,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202104717,936446,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/28/2022,No,,,,,,No penalty
 202104737,953767,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/28/2022,No,,,,,,No penalty
 202104740,925589,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202104748,933395,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202104748,933395,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2023,No,,,,,,No penalty
 202104750,946248,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 202104752,948177,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202104754,961622,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
