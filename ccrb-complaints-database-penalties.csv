@@ -8166,7 +8166,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202002387,937192,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202002387,957510,Substantiated (Command Discipline B),Substantiated (Command Discipline B),10/28/2022,No,,,,,,No penalty
 202002393,955191,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/28/2022,No,,,,,,No penalty
-202002393,955457,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202002393,955457,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Closed: SOL Expired prior to APU,02/24/2023,
 202002394,965087,Substantiated (Command Discipline A),Substantiated (Command Discipline A),05/28/2022,No,,,,,,Command Discipline - A
 202002396,964908,Substantiated (Command Discipline A),Substantiated (Command Discipline A),06/28/2022,No,,,,,,No penalty
 202002402,935794,Substantiated (Command Discipline A),Substantiated (Command Discipline A),05/28/2022,No,,,,,,No penalty
@@ -9687,7 +9687,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202106165,968390,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202106172,937625,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202106172,969687,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202106173,953263,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202106173,953263,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202106202,938663,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2022,No,,,,,,Command Discipline - A
 202106202,951637,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2022,No,,,,,,Command Discipline - A
 202106215,939268,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",06/22/2021,Instructions
