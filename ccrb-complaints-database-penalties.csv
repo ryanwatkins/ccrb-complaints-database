@@ -49,7 +49,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200001655,911652,Substantiated (Charges),,,No,,,,,,
 200001668,887988,Substantiated (Instructions),,,No,,,,,,
 200001691,921305,Substantiated (Instructions),,,No,,,,,,
-200001865,910189,Substantiated (Charges),,11/28/2003,No,,,,,,
+200001865,910189,Substantiated (Charges),,11/28/2003,No,,,,,,No penalty
 200001912,887312,Substantiated (Charges),,,No,,,,,,
 200001913,878241,Substantiated (Charges),,,No,,,,,,
 200001946,881127,Substantiated (Command Discipline),,,No,,,,,,
@@ -499,7 +499,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200108309,924576,Substantiated (Instructions),,05/28/2003,No,,,,,,Instructions
 200108311,905044,Substantiated (Charges),,04/28/2004,No,,,,,,No penalty
 200108311,923397,Substantiated (Charges),,04/28/2004,No,,,,,,No penalty
-200200019,915709,Substantiated (Charges),,01/28/2003,No,,,,,,
+200200019,915709,Substantiated (Charges),,01/28/2003,No,,,,,,Command Discipline - A
 200200036,899698,Substantiated (Charges),,06/28/2003,No,,,,,,Command Discipline - A
 200200036,912013,Substantiated (Charges),,06/28/2003,No,,,,,,Command Discipline - A
 200200060,912964,Substantiated (Charges),,05/28/2003,No,,,,,,Instructions
@@ -524,7 +524,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200200450,890216,Substantiated (Charges),,05/28/2003,No,,,,,,Instructions
 200200450,922134,Substantiated (Charges),,05/28/2003,No,,,,,,Instructions
 200200468,892347,Substantiated (Command Discipline),,02/28/2003,No,,,,,,Command Discipline - B
-200200468,922646,Substantiated (Command Discipline),,02/28/2003,No,,,,,,
+200200468,922646,Substantiated (Command Discipline),,02/28/2003,No,,,,,,Command Discipline - B
 200200498,902482,Substantiated (Charges),,06/28/2003,No,,,,,,Instructions
 200200515,899478,Substantiated (Charges),,07/28/2003,No,,,,,,Instructions
 200200523,902730,Substantiated (Charges),,03/28/2003,No,,,,,,
@@ -537,7 +537,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200200777,911719,Substantiated (Charges),,06/28/2003,No,,,,,,Instructions
 200200777,923359,Substantiated (Charges),,06/28/2003,No,,,,,,Instructions
 200200777,925416,Substantiated (Charges),,06/28/2003,No,,,,,,Instructions
-200200822,900102,Substantiated (Command Discipline),,01/28/2003,No,,,,,,
+200200822,900102,Substantiated (Command Discipline),,01/28/2003,No,,,,,,Command Discipline - B
 200200894,902623,Substantiated (Charges),,05/28/2003,No,,,,,,
 200200981,893540,Substantiated (Instructions),,05/28/2003,No,,,,,,Command Discipline - A
 200201058,891329,Substantiated (Charges),,08/28/2003,No,,,,,,Command Discipline - A
@@ -549,7 +549,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200201229,919361,Substantiated (Charges),,09/28/2004,No,,,,,,
 200201229,922021,Substantiated (Charges),,09/28/2004,No,,,,,,
 200201259,918479,Substantiated (Charges),,01/28/2004,No,,,,,,Vacation: 15 days
-200201355,902052,Substantiated (Charges),,10/28/2003,No,,,,,,
+200201355,902052,Substantiated (Charges),,10/28/2003,No,,,,,,No penalty
 200201390,903822,Substantiated (Charges),,07/28/2004,No,,,,,,No penalty
 200201429,913838,Substantiated (Charges),,09/28/2004,No,,,,,,
 200201450,923608,Substantiated (Charges),,01/28/2003,No,,,,,,Command Discipline - B
@@ -595,7 +595,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200202135,916853,Substantiated (Charges),,07/28/2004,No,,,,,,
 200202158,884938,Substantiated (Charges),,07/28/2004,No,,,,,,No penalty
 200202158,889686,Substantiated (Charges),,07/28/2004,No,,,,,,No penalty
-200202175,896243,Substantiated (Charges),,06/28/2005,No,,,,,,
+200202175,896243,Substantiated (Charges),,06/28/2005,No,,,,,,No penalty
 200202175,919394,Substantiated (Charges),,05/28/2005,No,,,,,,Resigned
 200202225,916585,Substantiated (Instructions),,09/28/2003,No,,,,,,Instructions
 200202259,894586,Substantiated (Charges),,06/28/2003,No,,,,,,Instructions
@@ -1292,7 +1292,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200307627,925709,Substantiated (Charges),,02/28/2005,No,,,,,,Command Discipline - A
 200307627,928338,Substantiated (Charges),,02/28/2005,No,,,,,,Command Discipline - A
 200307630,903579,Substantiated (Command Discipline),,01/28/2005,No,,,,,,Command Discipline - A
-200307657,916760,Substantiated (Charges),,03/28/2005,No,,,,,,
+200307657,916760,Substantiated (Charges),,03/28/2005,No,,,,,,No penalty
 200307664,930533,Substantiated (Charges),,03/28/2005,No,,,,,,No penalty
 200307702,909174,Substantiated (Instructions),,05/28/2004,No,,,,,,Instructions
 200307708,930466,Substantiated (Charges),,01/28/2005,No,,,,,,No penalty
@@ -1311,8 +1311,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200307972,923363,Substantiated (Charges),,10/28/2004,No,,,,,,Command Discipline - A
 200308045,893229,Substantiated (Charges),,08/28/2004,No,,,,,,Instructions
 200308052,889403,Substantiated (Charges),,09/28/2004,No,,,,,,Instructions
-200308083,907127,Substantiated (Charges),,03/28/2005,No,,,,,,
-200308083,921533,Substantiated (Charges),,03/28/2005,No,,,,,,
+200308083,907127,Substantiated (Charges),,03/28/2005,No,,,,,,No penalty
+200308083,921533,Substantiated (Charges),,03/28/2005,No,,,,,,No penalty
 200308107,898047,Substantiated (Charges),,03/28/2005,No,,,,,,Command Discipline - A
 200308113,913878,Substantiated (Charges),,01/28/2006,No,,,,,,
 200308130,905419,Substantiated (Charges),,08/28/2004,No,,,,,,Instructions
@@ -1394,7 +1394,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200310072,914404,Substantiated (Charges),,03/28/2006,No,,,,,,Vacation: 10 days
 200310072,926222,Substantiated (Charges),,04/28/2005,No,,,,,,Command Discipline - A
 200310075,914404,Substantiated (Command Discipline),,03/28/2006,No,,,,,,No penalty
-200310126,903849,Substantiated (Charges),,06/28/2005,No,,,,,,
+200310126,903849,Substantiated (Charges),,06/28/2005,No,,,,,,No penalty
 200310137,896185,Substantiated (Command Discipline),,01/28/2005,No,,,,,,Command Discipline - A
 200310137,923805,Substantiated (Command Discipline),,01/28/2005,No,,,,,,Command Discipline - A
 200310203,927401,Substantiated (Charges),,10/28/2005,No,,,,,,No penalty
@@ -1698,7 +1698,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200408448,931327,Substantiated (Charges),,09/28/2005,No,,,,,,Command Discipline - A
 200408476,917037,Substantiated (Charges),,11/28/2005,No,,,,,,Command Discipline - A
 200408515,901970,Substantiated (Charges),,12/28/2005,No,,,,,,Instructions
-200408605,870361,Substantiated (Instructions),,03/28/2006,No,,,,,,
+200408605,870361,Substantiated (Instructions),,03/28/2006,No,,,,,,No penalty
 200408609,907270,Substantiated (Charges),,02/28/2006,No,,,,,,Command Discipline - A
 200408631,928860,Substantiated (Charges),,03/28/2006,No,,,,,,
 200408762,895151,Substantiated (Charges),,02/28/2006,No,,,,,,Command Discipline - B
@@ -1713,7 +1713,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200408980,910555,Substantiated (Charges),,06/28/2005,No,,,,,,Command Discipline - A
 200409030,917127,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
 200409155,918182,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
-200409169,899587,Substantiated (Charges),,02/28/2006,No,,,,,,
+200409169,899587,Substantiated (Charges),,02/28/2006,No,,,,,,No penalty
 200409370,926899,Substantiated (Charges),,12/28/2005,No,,,,,,Instructions
 200409370,927716,Substantiated (Charges),,12/28/2005,No,,,,,,Instructions
 200409396,920373,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
@@ -1728,7 +1728,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200409978,922170,Substantiated (Charges),,05/28/2005,No,,,,,,Instructions
 200409978,923978,Substantiated (Charges),,05/28/2005,No,,,,,,Instructions
 200409994,914501,Substantiated (Charges),,11/28/2005,No,,,,,,Instructions
-200410002,902340,Substantiated (Charges),,03/28/2006,No,,,,,,
+200410002,902340,Substantiated (Charges),,03/28/2006,No,,,,,,No penalty
 200410123,930557,Substantiated (Command Discipline),,02/28/2006,No,,,,,,Command Discipline - A
 200410139,906128,Substantiated (Command Discipline),,01/28/2006,No,,,,,,Instructions
 200410311,887793,Substantiated (Charges),,11/28/2005,No,,,,,,Retired
@@ -1767,7 +1767,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200411565,893024,Substantiated (Charges),,04/28/2006,No,,,,,,Instructions
 200411565,895898,Substantiated (Charges),,04/28/2006,No,,,,,,Instructions
 200411565,898104,Substantiated (Charges),,04/28/2006,No,,,,,,Instructions
-200411632,883298,Substantiated (Charges),,05/28/2006,No,,,,,,
+200411632,883298,Substantiated (Charges),,05/28/2006,No,,,,,,No penalty
 200411632,904215,Substantiated (Charges),,03/28/2006,No,,,,,,Command Discipline - B
 200411638,900728,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
 200411638,925138,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
@@ -1783,7 +1783,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200412149,906705,Substantiated (Command Discipline),,04/28/2006,No,,,,,,Instructions
 200412172,929389,Substantiated (Command Discipline),,03/28/2006,No,,,,,,Instructions
 200412182,920281,Substantiated (Instructions),,02/28/2006,No,,,,,,Instructions
-200412267,894773,Substantiated (Charges),,07/28/2006,No,,,,,,
+200412267,894773,Substantiated (Charges),,07/28/2006,No,,,,,,No penalty
 200412267,913493,Substantiated (Charges),,01/28/2008,No,,,,,,
 200412288,892517,Substantiated (Charges),,03/28/2006,No,,,,,,Command Discipline - B
 200412322,927993,Substantiated (Charges),,05/28/2006,No,,,,,,Instructions
@@ -1795,11 +1795,11 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200412603,919940,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
 200412683,917454,Substantiated (Charges),,06/28/2006,No,,,,,,Instructions
 200412683,920596,Substantiated (Charges),,06/28/2006,No,,,,,,Instructions
-200412683,924841,Substantiated (Charges),,06/28/2006,No,,,,,,
+200412683,924841,Substantiated (Charges),,06/28/2006,No,,,,,,No penalty
 200412683,924890,Substantiated (Charges),,08/28/2007,No,,,,,,Vacation: 2 days
 200412886,929655,Substantiated (Charges),,06/28/2006,No,,,,,,Command Discipline - A
 200412910,934118,Substantiated (Charges),,03/28/2006,No,,,,,,Instructions
-200412911,913845,Substantiated (Charges),,05/28/2006,No,,,,,,
+200412911,913845,Substantiated (Charges),,05/28/2006,No,,,,,,No penalty
 200500101,924216,Substantiated (Charges),,04/28/2006,No,,,,,,Instructions
 200500160,930008,Substantiated (Charges),,06/28/2006,No,,,,,,Command Discipline - A
 200500160,931130,Substantiated (Charges),,06/28/2006,No,,,,,,Command Discipline - A
@@ -1858,7 +1858,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200502181,894518,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
 200502181,915527,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
 200502200,896246,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
-200502207,913654,Substantiated (Charges),,08/28/2006,No,,,,,,
+200502207,913654,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
 200502207,921876,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
 200502233,916669,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
 200502242,900631,Substantiated (Charges),,06/28/2006,No,,,,,,Instructions
@@ -1892,7 +1892,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200503874,915096,Substantiated (Command Discipline),,12/28/2007,No,,,,,,
 200503892,934940,Substantiated (Charges),,07/28/2006,No,,,,,,Instructions
 200503906,915572,Substantiated (Charges),,04/28/2008,No,,,,,,Command Discipline - A
-200503951,917904,Substantiated (Charges),,12/28/2006,No,,,,,,
+200503951,917904,Substantiated (Charges),,12/28/2006,No,,,,,,No penalty
 200503951,932423,Substantiated (Charges),,11/28/2008,No,,,,,,
 200504092,900274,Substantiated (Charges),,09/28/2006,No,,,,,,
 200504190,905151,Substantiated (Charges),,09/28/2006,No,,,,,,Instructions
@@ -1932,7 +1932,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200505404,898441,Substantiated (Instructions),,09/28/2006,No,,,,,,Instructions
 200505483,900534,Substantiated (Charges),,10/28/2006,No,,,,,,Instructions
 200505491,932926,Substantiated (Command Discipline),,10/28/2006,No,,,,,,Instructions
-200505551,911602,Substantiated (Charges),,11/28/2006,No,,,,,,
+200505551,911602,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
 200505551,935210,Substantiated (Charges),,11/28/2006,No,,,,,,
 200505590,933760,Substantiated (Command Discipline),,08/28/2006,No,,,,,,Instructions
 200505590,933782,Substantiated (Command Discipline),,08/28/2006,No,,,,,,Instructions
@@ -1942,17 +1942,17 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200505991,925647,Substantiated (Charges),,10/28/2006,No,,,,,,Instructions
 200505992,923232,Substantiated (Charges),,11/28/2006,No,,,,,,
 200505992,927171,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
-200506054,892382,Substantiated (Charges),,11/28/2006,No,,,,,,
+200506054,892382,Substantiated (Charges),,11/28/2006,No,,,,,,Command Discipline - A
 200506067,927135,Substantiated (Charges),,01/28/2008,No,,,,,,
 200506095,920400,Substantiated (Command Discipline),,10/28/2006,No,,,,,,Instructions
 200506154,933096,Substantiated (Charges),,09/28/2006,No,,,,,,No penalty
 200506155,900337,Substantiated (Charges),,05/28/2006,No,,,,,,Instructions
 200506155,919583,Substantiated (Charges),,05/28/2006,No,,,,,,Instructions
 200506207,931017,Substantiated (Charges),,09/28/2006,No,,,,,,Instructions
-200506274,932755,Substantiated (Charges),,11/28/2006,No,,,,,,
-200506274,933378,Substantiated (Charges),,11/28/2006,No,,,,,,
-200506320,887626,Substantiated (Charges),,01/28/2007,No,,,,,,
-200506359,933181,Substantiated (Charges),,01/28/2007,No,,,,,,
+200506274,932755,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
+200506274,933378,Substantiated (Charges),,11/28/2006,No,,,,,,Command Discipline - A
+200506320,887626,Substantiated (Charges),,01/28/2007,No,,,,,,No penalty
+200506359,933181,Substantiated (Charges),,01/28/2007,No,,,,,,No penalty
 200506367,932719,Substantiated (Charges),,10/28/2006,No,,,,,,Instructions
 200506487,931821,Substantiated (Command Discipline),,04/28/2006,No,,,,,,Instructions
 200506488,932234,Substantiated (Charges),,11/28/2007,No,,,,,,
@@ -1962,19 +1962,19 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200506704,934251,Substantiated (Charges),,10/28/2006,No,,,,,,Command Discipline - A
 200506712,900925,Substantiated (Charges),,06/28/2006,No,,,,,,Instructions
 200506888,920705,Substantiated (Charges),,06/28/2006,No,,,,,,Instructions
-200506888,930082,Substantiated (Charges),,09/28/2006,No,,,,,,
+200506888,930082,Substantiated (Charges),,09/28/2006,No,,,,,,Command Discipline - A
 200506901,933680,Substantiated (Command Discipline),,09/28/2006,No,,,,,,Instructions
-200506912,928777,Substantiated (Charges),,11/28/2006,No,,,,,,
+200506912,928777,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
 200506992,913758,Substantiated (Command Discipline),,12/28/2006,No,,,,,,Instructions
 200506999,929040,Substantiated (Charges),,03/28/2007,No,,,,,,Vacation: 8 days
 200507014,933634,Substantiated (Charges),,05/28/2012,No,,,,,,
-200507025,919940,Substantiated (Charges),,11/28/2006,No,,,,,,
+200507025,919940,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
 200507025,932397,Substantiated (Charges),,08/28/2008,No,,,,,,
 200507325,930529,Substantiated (Charges),,12/28/2006,No,,,,,,Command Discipline - A
 200507325,931673,Substantiated (Charges),,12/28/2006,No,,,,,,Command Discipline - A
 200507370,889698,Substantiated (Charges),,06/28/2006,No,,,,,,Instructions
 200507370,894026,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
-200507396,918765,Substantiated (Charges),,11/28/2006,No,,,,,,
+200507396,918765,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
 200507419,918538,Substantiated (Charges),,02/28/2006,No,,,,,,Instructions
 200507468,904275,Substantiated (Charges),,01/28/2008,No,,,,,,
 200507503,932554,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
@@ -1983,16 +1983,16 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200507523,927914,Substantiated (Charges),,12/28/2006,No,,,,,,Command Discipline - A
 200507749,900054,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
 200507801,900265,Substantiated (Charges),,05/28/2008,No,,,,,,Vacation: 30 days
-200507926,924238,Substantiated (Instructions),,11/28/2006,No,,,,,,
+200507926,924238,Substantiated (Instructions),,11/28/2006,No,,,,,,Instructions
 200507997,915572,Substantiated (Charges),,12/28/2009,No,,,,,,Command Discipline - B
 200508075,925067,Substantiated (Command Discipline),,12/28/2006,No,,,,,,Instructions
 200508088,924078,Substantiated (Charges),,07/28/2008,No,,,,,,
-200508380,926275,Substantiated (Charges),,11/28/2006,No,,,,,,
-200508380,927178,Substantiated (Charges),,11/28/2006,No,,,,,,
-200508444,899768,Substantiated (Charges),,02/28/2007,No,,,,,,
+200508380,926275,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
+200508380,927178,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
+200508444,899768,Substantiated (Charges),,02/28/2007,No,,,,,,No penalty
 200508445,894398,Substantiated (Charges),,03/28/2007,No,,,,,,
-200508516,891584,Substantiated (Charges),,11/28/2006,No,,,,,,
-200508522,900183,Substantiated (Charges),,01/28/2007,No,,,,,,
+200508516,891584,Substantiated (Charges),,11/28/2006,No,,,,,,Instructions
+200508522,900183,Substantiated (Charges),,01/28/2007,No,,,,,,No penalty
 200508600,933550,Substantiated (Command Discipline),,12/28/2006,No,,,,,,Instructions
 200508693,922317,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
 200508831,919133,Substantiated (Charges),,12/28/2006,No,,,,,,Command Discipline - B
@@ -2001,7 +2001,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200509009,933046,Substantiated (Charges),,01/28/2007,No,,,,,,Command Discipline - A
 200509173,886928,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200509214,898139,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
-200509405,911080,Substantiated (Charges),,12/28/2006,No,,,,,,
+200509405,911080,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
 200509405,924970,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
 200509422,926833,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200509422,930490,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
@@ -2027,18 +2027,18 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200510101,926880,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200510152,916731,Substantiated (Charges),,01/28/2007,No,,,,,,Command Discipline - A
 200510155,925433,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
-200510161,913483,Substantiated (Charges),,04/28/2007,No,,,,,,
-200510161,925293,Substantiated (Charges),,04/28/2007,No,,,,,,
+200510161,913483,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
+200510161,925293,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200510189,900839,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200510189,920190,Substantiated (Charges),,07/28/2008,No,,,,,,Vacation: 10 days
 200510189,926640,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
-200510239,898491,Substantiated (Charges),,04/28/2007,No,,,,,,
+200510239,898491,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200510356,934100,Substantiated (Charges),,03/28/2008,No,,,,,,
 200510359,922530,Substantiated (Instructions),,12/28/2006,No,,,,,,Instructions
 200510361,916799,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
 200510361,920708,Substantiated (Charges),,10/28/2007,No,,,,,,Vacation: 10 days
 200510402,929675,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
-200510488,933626,Substantiated (Charges),,04/28/2007,No,,,,,,
+200510488,933626,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200510518,892794,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
 200510525,917163,Substantiated (Charges),,07/28/2008,No,,,,,,Vacation: 30 days / Probation:
 200510577,913519,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
@@ -2052,14 +2052,14 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200510737,931972,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200510757,919278,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
 200510786,888765,Substantiated (Command Discipline),,07/28/2006,No,,,,,,Instructions
-200510828,930544,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200510952,901847,Substantiated (Charges),,03/28/2007,No,,,,,,
-200510952,918160,Substantiated (Charges),,03/28/2007,No,,,,,,
-200510952,921533,Substantiated (Charges),,03/28/2007,No,,,,,,
+200510828,930544,Substantiated (Command Discipline),,10/28/2007,No,,,,,,Instructions
+200510952,901847,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
+200510952,918160,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
+200510952,921533,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
 200511002,902126,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200511007,890714,Substantiated (Charges),,08/28/2006,No,,,,,,Instructions
 200511132,903132,Substantiated (Command Discipline),,10/28/2006,No,,,,,,Instructions
-200511164,934066,Substantiated (Command Discipline),,03/28/2007,No,,,,,,
+200511164,934066,Substantiated (Command Discipline),,03/28/2007,No,,,,,,Instructions
 200511164,934079,Substantiated (Command Discipline),,03/28/2007,No,,,,,,Instructions
 200511174,933953,Substantiated (Command Discipline),,05/28/2007,No,,,,,,Instructions
 200511185,917193,Substantiated (Charges),,03/28/2008,No,,,,,,
@@ -2072,21 +2072,21 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200511525,907356,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
 200511542,894710,Substantiated (Charges),,03/28/2007,No,,,,,,Command Discipline - B
 200511589,914329,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
-200511684,922317,Substantiated (Charges),,06/28/2007,No,,,,,,
-200511684,930497,Substantiated (Charges),,06/28/2007,No,,,,,,
+200511684,922317,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
+200511684,930497,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
 200511807,929024,Substantiated (Command Discipline),,12/28/2006,No,,,,,,
 200511851,906891,Substantiated (Charges),,03/28/2008,No,,,,,,
 200511864,913889,Substantiated (Charges),,04/28/2007,No,,,,,,Instructions
-200511864,924884,Substantiated (Charges),,04/28/2007,No,,,,,,
+200511864,924884,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200512046,898255,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
-200512066,919745,Substantiated (Charges),,10/28/2007,No,,,,,,
+200512066,919745,Substantiated (Charges),,10/28/2007,No,,,,,,Command Discipline - A
 200512066,925962,Substantiated (Charges),,10/28/2008,No,,,,,,Vacation: 5 days
-200512066,927743,Substantiated (Charges),,10/28/2007,No,,,,,,
+200512066,927743,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
 200512130,924267,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200512246,881479,Substantiated (Charges),,05/28/2008,No,,,,,,
-200512278,891928,Substantiated (Charges),,07/28/2007,No,,,,,,
+200512278,891928,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
 200512285,918714,Substantiated (Command Discipline),,04/28/2007,No,,,,,,Command Discipline - A
-200512396,929634,Substantiated (Charges),,04/28/2007,No,,,,,,
+200512396,929634,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200512451,931998,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200512636,918041,Substantiated (Charges),,06/28/2011,No,,,,,,Vacation: 10 days
 200512650,896312,Substantiated (Charges),,04/28/2007,No,,,,,,Command Discipline - A
@@ -2101,11 +2101,11 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200512899,931353,Substantiated (Charges),,04/28/2007,No,,,,,,Command Discipline - A
 200512992,922317,Substantiated (Charges),,03/28/2007,No,,,,,,Command Discipline - A
 200512992,930497,Substantiated (Charges),,03/28/2007,No,,,,,,Command Discipline - A
-200512998,914406,Substantiated (Charges),,04/28/2007,No,,,,,,
+200512998,914406,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200513101,937683,Substantiated (Charges),,01/28/2008,No,,,,,,Terminated
 200513102,937683,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200513106,898635,Substantiated (Charges),,10/28/2006,No,,,,,,Command Discipline - A
-200513183,934394,Substantiated (Charges),,04/28/2007,No,,,,,,
+200513183,934394,Substantiated (Charges),,04/28/2007,No,,,,,,No penalty
 200513261,891420,Substantiated (Charges),,07/28/2006,No,,,,,,Instructions
 200513261,902088,Substantiated (Charges),,07/28/2006,No,,,,,,Instructions
 200513261,918249,Substantiated (Charges),,07/28/2006,No,,,,,,Instructions
@@ -2116,10 +2116,10 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200513563,928143,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200513595,914950,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200513652,901390,Substantiated (Charges),,06/28/2007,No,,,,,,
-200513700,895651,Substantiated (Charges),,05/28/2007,No,,,,,,
+200513700,895651,Substantiated (Charges),,05/28/2007,No,,,,,,No penalty
 200513891,899618,Substantiated (Charges),,12/28/2009,No,,,,,,Vacation: 32 days / Probation:
 200513891,928138,Substantiated (Charges),,05/28/2007,No,,,,,,Instructions
-200513910,906320,Substantiated (Charges),,05/28/2007,No,,,,,,
+200513910,906320,Substantiated (Charges),,05/28/2007,No,,,,,,No penalty
 200513952,901761,Substantiated (Charges),,05/28/2007,No,,,,,,Instructions
 200513958,911488,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200513971,916025,Substantiated (Charges),,05/28/2007,No,,,,,,Command Discipline - A
@@ -2129,199 +2129,199 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200514315,903246,Substantiated (Command Discipline),,06/28/2006,No,,,,,,Instructions
 200514360,903795,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200514360,923823,Substantiated (Charges),,01/28/2007,No,,,,,,
-200514465,920281,Substantiated (Charges),,05/28/2007,No,,,,,,
-200514465,935151,Substantiated (Charges),,05/28/2007,No,,,,,,
+200514465,920281,Substantiated (Charges),,05/28/2007,No,,,,,,No penalty
+200514465,935151,Substantiated (Charges),,05/28/2007,No,,,,,,No penalty
 200514500,892776,Substantiated (Charges),,05/28/2007,No,,,,,,Command Discipline - A
 200514500,924377,Substantiated (Charges),,05/28/2007,No,,,,,,Command Discipline - A
 200514506,920260,Substantiated (Command Discipline),,05/28/2007,No,,,,,,Instructions
 200514556,889880,Substantiated (Charges),,06/28/2007,No,,,,,,
-200514582,905242,Substantiated (Charges),,06/28/2007,No,,,,,,
-200514641,918138,Substantiated (Command Discipline),,05/28/2007,No,,,,,,
-200515196,937404,Substantiated (Charges),,06/28/2007,No,,,,,,
+200514582,905242,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
+200514641,918138,Substantiated (Command Discipline),,05/28/2007,No,,,,,,No penalty
+200515196,937404,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
 200515240,927855,Substantiated (Charges),,05/28/2007,No,,,,,,Command Discipline - B
-200515299,937743,Substantiated (Command Discipline),,06/28/2007,No,,,,,,
+200515299,937743,Substantiated (Command Discipline),,06/28/2007,No,,,,,,No penalty
 200515363,925406,Substantiated (Charges),,06/28/2007,No,,,,,,Instructions
 200515421,930352,Substantiated (Charges),,06/28/2007,No,,,,,,Command Discipline - A
 200515475,877266,Substantiated (Charges),,07/28/2006,No,,,,,,Instructions
-200515516,932472,Substantiated (Charges),,06/28/2007,No,,,,,,
-200515516,933759,Substantiated (Charges),,06/28/2007,No,,,,,,
-200600015,918887,Substantiated (Charges),,07/28/2007,No,,,,,,
+200515516,932472,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
+200515516,933759,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
+200600015,918887,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
 200600018,932400,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Command Discipline - A
 200600024,918975,Substantiated (Charges),,06/28/2010,No,,,,,,Vacation: 5 days
-200600042,913752,Substantiated (Charges),,06/28/2007,No,,,,,,
+200600042,913752,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
 200600054,903741,Substantiated (Charges),,10/28/2008,No,,,,,,Command Discipline - A
 200600054,923120,Substantiated (Charges),,10/28/2008,No,,,,,,Command Discipline - A
-200600094,907050,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600094,931850,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600167,900519,Substantiated (Charges),,07/28/2007,No,,,,,,
+200600094,907050,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200600094,931850,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200600167,900519,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
 200600167,914501,Substantiated (Charges),,07/28/2007,No,,,,,,Instructions
-200600184,931201,Substantiated (Charges),,07/28/2007,No,,,,,,
+200600184,931201,Substantiated (Charges),,07/28/2007,No,,,,,,Instructions
 200600225,918523,Substantiated (Command Discipline),,01/28/2008,No,,,,,,Instructions
-200600234,921317,Substantiated (Charges),,08/28/2007,No,,,,,,
-200600337,903648,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600337,926899,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600389,924163,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600389,925304,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600429,933046,Substantiated (Charges),,05/28/2007,No,,,,,,
-200600443,894546,Substantiated (Charges),,06/28/2007,No,,,,,,
-200600443,898109,Substantiated (Charges),,06/28/2007,No,,,,,,
+200600234,921317,Substantiated (Charges),,08/28/2007,No,,,,,,Command Discipline - A
+200600337,903648,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200600337,926899,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200600389,924163,Substantiated (Charges),,07/28/2007,No,,,,,,Instructions
+200600389,925304,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200600429,933046,Substantiated (Charges),,05/28/2007,No,,,,,,No penalty
+200600443,894546,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
+200600443,898109,Substantiated (Charges),,06/28/2007,No,,,,,,No penalty
 200600466,901614,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200600466,926104,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
-200600479,900550,Substantiated (Command Discipline),,07/28/2007,No,,,,,,
+200600479,900550,Substantiated (Command Discipline),,07/28/2007,No,,,,,,No penalty
 200600595,912063,Substantiated (Charges),,12/28/2009,No,,,,,,Vacation: 30 days
 200600733,935131,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200600733,937536,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
-200600866,932391,Substantiated (Charges),,07/28/2007,No,,,,,,
+200600866,932391,Substantiated (Charges),,07/28/2007,No,,,,,,Command Discipline - A
 200600870,915439,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200600870,931936,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
-200600952,937263,Substantiated (Charges),,07/28/2007,No,,,,,,
-200600952,937384,Substantiated (Charges),,07/28/2007,No,,,,,,
+200600952,937263,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200600952,937384,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
 200601011,904301,Substantiated (Command Discipline),,12/28/2006,No,,,,,,Command Discipline - A
-200601128,932400,Substantiated (Charges),,03/28/2007,No,,,,,,
-200601269,906605,Substantiated (Charges),,03/28/2007,No,,,,,,
+200601128,932400,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
+200601269,906605,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
 200601383,925583,Substantiated (Charges),,07/28/2008,No,,,,,,
-200601400,904505,Substantiated (Charges),,07/28/2007,No,,,,,,
-200601427,910489,Substantiated (Instructions),,08/28/2007,No,,,,,,
-200601432,915742,Substantiated (Charges),,07/28/2007,No,,,,,,
+200601400,904505,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
+200601427,910489,Substantiated (Instructions),,08/28/2007,No,,,,,,No penalty
+200601432,915742,Substantiated (Charges),,07/28/2007,No,,,,,,Instructions
 200601554,928643,Substantiated (Charges),,08/28/2008,No,,,,,,Vacation: 8 days
 200601554,929471,Substantiated (Charges),,08/28/2008,No,,,,,,Vacation: 8 days
 200601554,931170,Substantiated (Charges),,08/28/2008,No,,,,,,Vacation: 8 days
-200601564,926858,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200601591,920378,Substantiated (Charges),,08/28/2007,No,,,,,,
-200601591,927825,Substantiated (Charges),,08/28/2007,No,,,,,,
-200601591,928969,Substantiated (Charges),,08/28/2007,No,,,,,,
+200601564,926858,Substantiated (Command Discipline),,08/28/2007,No,,,,,,Instructions
+200601591,920378,Substantiated (Charges),,08/28/2007,No,,,,,,Command Discipline - A
+200601591,927825,Substantiated (Charges),,08/28/2007,No,,,,,,Command Discipline - A
+200601591,928969,Substantiated (Charges),,08/28/2007,No,,,,,,Command Discipline - A
 200601624,923806,Substantiated (Charges),,08/28/2008,No,,,,,,
-200601626,906992,Substantiated (Charges),,08/28/2007,No,,,,,,
-200601626,930637,Substantiated (Charges),,08/28/2007,No,,,,,,
-200601690,921145,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200601691,889474,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
+200601626,906992,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
+200601626,930637,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
+200601690,921145,Substantiated (Command Discipline),,08/28/2007,No,,,,,,Instructions
+200601691,889474,Substantiated (Command Discipline),,08/28/2007,No,,,,,,Command Discipline - A
 200601749,915572,Substantiated (Charges),,10/28/2009,No,,,,,,
 200601749,921934,Substantiated (Charges),,10/28/2009,No,,,,,,
 200601767,903990,Substantiated (Charges),,02/28/2007,No,,,,,,Command Discipline - A
 200601934,917193,Substantiated (Charges),,03/28/2007,No,,,,,,Instructions
-200601934,921201,Substantiated (Charges),,03/28/2007,No,,,,,,
-200601934,928533,Substantiated (Charges),,03/28/2007,No,,,,,,
+200601934,921201,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
+200601934,928533,Substantiated (Charges),,03/28/2007,No,,,,,,No penalty
 200601959,913609,Substantiated (No Recommendations),,06/28/2008,No,,,,,,
 200601989,899037,Substantiated (Charges),,09/28/2008,No,,,,,,
-200601997,926642,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200602000,895704,Substantiated (Charges),,08/28/2007,No,,,,,,
-200602010,931194,Substantiated (Charges),,08/28/2007,No,,,,,,
+200601997,926642,Substantiated (Command Discipline),,08/28/2007,No,,,,,,Command Discipline - A
+200602000,895704,Substantiated (Charges),,08/28/2007,No,,,,,,Instructions
+200602010,931194,Substantiated (Charges),,08/28/2007,No,,,,,,Instructions
 200602020,914414,Substantiated (Charges),,08/28/2007,No,,,,,,
 200602020,933317,Substantiated (Charges),,08/28/2007,No,,,,,,
-200602089,906472,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200602089,923791,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200602116,897780,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200602313,897100,Substantiated (Charges),,08/28/2007,No,,,,,,
-200602394,923634,Substantiated (Charges),,07/28/2007,No,,,,,,
+200602089,906472,Substantiated (Command Discipline),,08/28/2007,No,,,,,,Command Discipline - A
+200602089,923791,Substantiated (Command Discipline),,08/28/2007,No,,,,,,Instructions
+200602116,897780,Substantiated (Command Discipline),,08/28/2007,No,,,,,,No penalty
+200602313,897100,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
+200602394,923634,Substantiated (Charges),,07/28/2007,No,,,,,,No penalty
 200602533,928764,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200602594,891444,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200602594,910596,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200602769,934814,Substantiated (Charges),,09/28/2007,No,,,,,,
-200602821,902511,Substantiated (Charges),,08/28/2007,No,,,,,,
-200602910,929296,Substantiated (Charges),,09/28/2007,No,,,,,,
+200602821,902511,Substantiated (Charges),,08/28/2007,No,,,,,,Command Discipline - B
+200602910,929296,Substantiated (Charges),,09/28/2007,No,,,,,,Instructions
 200602924,935485,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
 200603050,906464,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
 200603050,922617,Substantiated (Charges),,01/28/2007,No,,,,,,Instructions
-200603066,913607,Substantiated (Command Discipline),,09/28/2007,No,,,,,,
-200603066,913884,Substantiated (Command Discipline),,09/28/2007,No,,,,,,
+200603066,913607,Substantiated (Command Discipline),,09/28/2007,No,,,,,,No penalty
+200603066,913884,Substantiated (Command Discipline),,09/28/2007,No,,,,,,No penalty
 200603134,925584,Substantiated (Command Discipline),,12/28/2006,No,,,,,,
 200603254,934619,Substantiated (Charges),,08/28/2007,No,,,,,,
-200603330,914259,Substantiated (Charges),,09/28/2007,No,,,,,,
+200603330,914259,Substantiated (Charges),,09/28/2007,No,,,,,,Command Discipline - B
 200603330,926682,Substantiated (Charges),,10/28/2008,No,,,,,,
 200603330,927135,Substantiated (Charges),,10/28/2008,No,,,,,,
 200603356,930956,Substantiated (Charges),,03/28/2010,No,,,,,,Vacation: 20 days
-200603369,933104,Substantiated (Charges),,08/28/2007,No,,,,,,
-200603369,935479,Substantiated (Charges),,08/28/2007,No,,,,,,
-200603369,938071,Substantiated (Charges),,08/28/2007,No,,,,,,
+200603369,933104,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
+200603369,935479,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
+200603369,938071,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
 200603382,897278,Substantiated (Charges),,12/28/2008,No,,,,,,
-200603429,916182,Substantiated (Charges),,09/28/2007,No,,,,,,
-200603431,916888,Substantiated (Charges),,09/28/2007,No,,,,,,
-200603532,915431,Substantiated (Charges),,09/28/2007,No,,,,,,
+200603429,916182,Substantiated (Charges),,09/28/2007,No,,,,,,No penalty
+200603431,916888,Substantiated (Charges),,09/28/2007,No,,,,,,No penalty
+200603532,915431,Substantiated (Charges),,09/28/2007,No,,,,,,No penalty
 200603613,898968,Substantiated (Charges),,09/28/2007,No,,,,,,
 200603613,905562,Substantiated (Charges),,09/28/2007,No,,,,,,
 200603613,917047,Substantiated (Charges),,09/28/2007,No,,,,,,
 200603613,921212,Substantiated (Charges),,09/28/2007,No,,,,,,
 200603613,927937,Substantiated (Charges),,09/28/2007,No,,,,,,
 200603637,906642,Substantiated (Charges),,12/28/2006,No,,,,,,Instructions
-200603673,903617,Substantiated (Command Discipline),,09/28/2007,No,,,,,,
-200603673,919230,Substantiated (Command Discipline),,09/28/2007,No,,,,,,
-200603673,920663,Substantiated (Command Discipline),,09/28/2007,No,,,,,,
-200603776,903307,Substantiated (Charges),,09/28/2007,No,,,,,,
+200603673,903617,Substantiated (Command Discipline),,09/28/2007,No,,,,,,Instructions
+200603673,919230,Substantiated (Command Discipline),,09/28/2007,No,,,,,,Instructions
+200603673,920663,Substantiated (Command Discipline),,09/28/2007,No,,,,,,No penalty
+200603776,903307,Substantiated (Charges),,09/28/2007,No,,,,,,No penalty
 200603876,924055,Substantiated (Instructions),,03/28/2007,No,,,,,,
-200603977,899199,Substantiated (Charges),,09/28/2007,No,,,,,,
+200603977,899199,Substantiated (Charges),,09/28/2007,No,,,,,,No penalty
 200604160,894867,Substantiated (Command Discipline),,01/28/2007,No,,,,,,Instructions
-200604187,898419,Substantiated (Charges),,09/28/2007,No,,,,,,
-200604236,932866,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604236,934440,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604323,865485,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604445,919945,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604445,920070,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604445,929522,Substantiated (Charges),,10/28/2007,No,,,,,,
+200604187,898419,Substantiated (Charges),,09/28/2007,No,,,,,,Instructions
+200604236,932866,Substantiated (Command Discipline),,10/28/2007,No,,,,,,No penalty
+200604236,934440,Substantiated (Command Discipline),,10/28/2007,No,,,,,,No penalty
+200604323,865485,Substantiated (Command Discipline),,10/28/2007,No,,,,,,No penalty
+200604445,919945,Substantiated (Charges),,10/28/2007,No,,,,,,Command Discipline - A
+200604445,920070,Substantiated (Charges),,10/28/2007,No,,,,,,Command Discipline - A
+200604445,929522,Substantiated (Charges),,10/28/2007,No,,,,,,Command Discipline - A
 200604461,933631,Substantiated (Charges),,04/28/2008,No,,,,,,Vacation: 30 days
-200604488,932364,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604488,934076,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604502,915215,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604502,924208,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604502,929480,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604502,932819,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200604564,899150,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604583,903250,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604583,907640,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604583,924970,Substantiated (Charges),,10/28/2007,No,,,,,,
+200604488,932364,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200604488,934076,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200604502,915215,Substantiated (Command Discipline),,10/28/2007,No,,,,,,Command Discipline - A
+200604502,924208,Substantiated (Command Discipline),,10/28/2007,No,,,,,,Command Discipline - A
+200604502,929480,Substantiated (Command Discipline),,10/28/2007,No,,,,,,Command Discipline - A
+200604502,932819,Substantiated (Command Discipline),,10/28/2007,No,,,,,,Command Discipline - A
+200604564,899150,Substantiated (Charges),,10/28/2007,No,,,,,,Instructions
+200604583,903250,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200604583,907640,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200604583,924970,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
 200604605,929832,Substantiated (Charges),,03/28/2008,No,,,,,,Command Discipline - B
-200604760,897712,Substantiated (Charges),,11/28/2007,No,,,,,,
+200604760,897712,Substantiated (Charges),,11/28/2007,No,,,,,,Instructions
 200604771,924417,Substantiated (Charges),,10/28/2007,No,,,,,,
-200604814,922204,Substantiated (Charges),,08/28/2007,No,,,,,,
+200604814,922204,Substantiated (Charges),,08/28/2007,No,,,,,,No penalty
 200604886,932510,Substantiated (Charges),,08/28/2008,No,,,,,,Vacation: 7 days
 200605076,928402,Substantiated (Charges),,11/28/2008,No,,,,,,Vacation: 10 days
-200605110,937979,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200605274,929228,Substantiated (Charges),,10/28/2007,No,,,,,,
-200605274,932364,Substantiated (Charges),,10/28/2007,No,,,,,,
+200605110,937979,Substantiated (Command Discipline),,10/28/2007,No,,,,,,Command Discipline - A
+200605274,929228,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200605274,932364,Substantiated (Charges),,10/28/2007,No,,,,,,Instructions
 200605416,921823,Substantiated (Command Discipline),,12/28/2009,No,,,,,,Command Discipline - A
 200605416,927191,Substantiated (Command Discipline),,12/28/2009,No,,,,,,Command Discipline - A
 200605688,931173,Substantiated (Instructions),,03/28/2007,No,,,,,,
 200605789,932718,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - A
 200605789,932876,Substantiated (Charges),,11/28/2007,No,,,,,,
-200605819,923932,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
-200605835,902023,Substantiated (Charges),,11/28/2007,No,,,,,,
+200605819,923932,Substantiated (Command Discipline),,10/28/2007,No,,,,,,No penalty
+200605835,902023,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
 200605835,910221,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - A
-200605848,903741,Substantiated (Charges),,11/28/2007,No,,,,,,
+200605848,903741,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
 200605848,923120,Substantiated (Charges),,11/28/2007,No,,,,,,
-200605848,924557,Substantiated (Charges),,11/28/2007,No,,,,,,
-200605897,919486,Substantiated (Charges),,11/28/2007,No,,,,,,
-200606112,934943,Substantiated (Command Discipline),,11/28/2007,No,,,,,,
-200606194,935393,Substantiated (Command Discipline),,08/28/2007,No,,,,,,
-200606221,933753,Substantiated (Instructions),,11/28/2007,No,,,,,,
+200605848,924557,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200605897,919486,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200606112,934943,Substantiated (Command Discipline),,11/28/2007,No,,,,,,Instructions
+200606194,935393,Substantiated (Command Discipline),,08/28/2007,No,,,,,,No penalty
+200606221,933753,Substantiated (Instructions),,11/28/2007,No,,,,,,Instructions
 200606234,920521,Substantiated (Charges),,09/28/2008,No,,,,,,Vacation: 10 days
 200606364,929308,Substantiated (Command Discipline),,11/28/2007,No,,,,,,Command Discipline - A
 200606390,920521,Substantiated (Charges),,11/28/2007,No,,,,,,
-200606390,921596,Substantiated (Charges),,11/28/2007,No,,,,,,
-200606390,924088,Substantiated (Charges),,11/28/2007,No,,,,,,
+200606390,921596,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200606390,924088,Substantiated (Charges),,11/28/2007,No,,,,,,Instructions
 200606538,918564,Substantiated (Charges),,05/28/2009,No,,,,,,Vacation: 1 day
 200606538,919841,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - B
 200606661,907356,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - B
-200606680,886928,Substantiated (Charges),,01/28/2008,No,,,,,,
-200606680,898863,Substantiated (Charges),,01/28/2008,No,,,,,,
+200606680,886928,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
+200606680,898863,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
 200606681,936326,Substantiated (Command Discipline),,01/28/2009,No,,,,,,
 200606685,901430,Substantiated (Charges),,07/28/2008,No,,,,,,Command Discipline - A 7 days
 200606723,922317,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - A
-200606723,930988,Substantiated (Charges),,11/28/2007,No,,,,,,
-200606767,939271,Substantiated (Charges),,11/28/2007,No,,,,,,
-200606852,919361,Substantiated (Charges),,11/28/2007,No,,,,,,
+200606723,930988,Substantiated (Charges),,11/28/2007,No,,,,,,Instructions
+200606767,939271,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200606852,919361,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
 200606906,931117,Substantiated (Charges),,11/28/2007,No,,,,,,
 200606906,932915,Substantiated (Charges),,11/28/2007,No,,,,,,
-200607032,914161,Substantiated (Instructions),,11/28/2007,No,,,,,,
-200607032,929046,Substantiated (Instructions),,11/28/2007,No,,,,,,
-200607138,932403,Substantiated (Command Discipline),,11/28/2007,No,,,,,,
-200607262,935507,Substantiated (Instructions),,11/28/2007,No,,,,,,
-200607287,901559,Substantiated (Charges),,11/28/2007,No,,,,,,
-200607287,918249,Substantiated (Charges),,11/28/2007,No,,,,,,
-200607298,884322,Substantiated (Charges),,11/28/2007,No,,,,,,
-200607298,894704,Substantiated (Charges),,11/28/2007,No,,,,,,
-200607298,937856,Substantiated (Charges),,11/28/2007,No,,,,,,
-200607298,938067,Substantiated (Charges),,11/28/2007,No,,,,,,
+200607032,914161,Substantiated (Instructions),,11/28/2007,No,,,,,,Instructions
+200607032,929046,Substantiated (Instructions),,11/28/2007,No,,,,,,Instructions
+200607138,932403,Substantiated (Command Discipline),,11/28/2007,No,,,,,,No penalty
+200607262,935507,Substantiated (Instructions),,11/28/2007,No,,,,,,Instructions
+200607287,901559,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200607287,918249,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200607298,884322,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200607298,894704,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200607298,937856,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
+200607298,938067,Substantiated (Charges),,11/28/2007,No,,,,,,No penalty
 200607327,927215,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - B
-200607375,930037,Substantiated (Charges),,11/28/2007,No,,,,,,
+200607375,930037,Substantiated (Charges),,11/28/2007,No,,,,,,Instructions
 200607397,917102,Substantiated (Charges),,12/28/2007,No,,,,,,Command Discipline - A
 200607843,897231,Substantiated (Charges),,11/28/2007,No,,,,,,Command Discipline - A
 200607962,926593,Substantiated (Charges),,12/28/2007,No,,,,,,Command Discipline - A
@@ -2331,30 +2331,30 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200608195,921899,Substantiated (Command Discipline),,12/28/2007,No,,,,,,Command Discipline - A
 200608269,914178,Substantiated (Charges),,12/28/2007,No,,,,,,Command Discipline - A
 200608440,893190,Substantiated (Charges),,12/28/2007,No,,,,,,
-200608440,932076,Substantiated (Charges),,12/28/2007,No,,,,,,
+200608440,932076,Substantiated (Charges),,12/28/2007,No,,,,,,No penalty
 200608482,912060,Substantiated (Charges),,12/28/2007,No,,,,,,Instructions
 200608587,924120,Substantiated (Instructions),,12/28/2007,No,,,,,,Command Discipline - B
 200608673,928811,Substantiated (Command Discipline),,12/28/2007,No,,,,,,Instructions
-200608695,897840,Substantiated (Charges),,12/28/2007,No,,,,,,
+200608695,897840,Substantiated (Charges),,12/28/2007,No,,,,,,No penalty
 200608793,929824,Substantiated (Charges),,12/28/2007,No,,,,,,Command Discipline - A
 200608870,903422,Substantiated (Instructions),,12/28/2007,No,,,,,,Command Discipline - A
 200609036,935092,Substantiated (Charges),,07/28/2009,No,,,,,,
 200609036,937227,Substantiated (Charges),,07/28/2009,No,,,,,,
-200609192,900800,Substantiated (Charges),,12/28/2007,No,,,,,,
-200609192,924740,Substantiated (Charges),,12/28/2007,No,,,,,,
+200609192,900800,Substantiated (Charges),,12/28/2007,No,,,,,,No penalty
+200609192,924740,Substantiated (Charges),,12/28/2007,No,,,,,,No penalty
 200609258,933274,Substantiated (Command Discipline),,12/28/2007,No,,,,,,Instructions
-200609263,906144,Substantiated (No Recommendations),,12/28/2007,No,,,,,,
+200609263,906144,Substantiated (No Recommendations),,12/28/2007,No,,,,,,No penalty
 200609284,927657,Substantiated (Charges),,01/28/2008,No,,,,,,Command Discipline - B
 200609334,919818,Substantiated (Charges),,12/28/2007,No,,,,,,Command Discipline - A
-200609653,898528,Substantiated (Charges),,01/28/2008,No,,,,,,
+200609653,898528,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
 200609653,911309,Substantiated (Charges),,01/28/2008,No,,,,,,Command Discipline - B
 200609653,937040,Substantiated (Charges),,01/28/2008,No,,,,,,
 200609687,932777,Substantiated (Instructions),,01/28/2008,No,,,,,,Command Discipline - A
-200609717,925821,Substantiated (Charges),,10/28/2007,No,,,,,,
-200609717,933116,Substantiated (Charges),,10/28/2007,No,,,,,,
-200609747,905969,Substantiated (Charges),,01/28/2008,No,,,,,,
+200609717,925821,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200609717,933116,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200609747,905969,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
 200609786,899633,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions / Command Discipline - A
-200609794,935446,Substantiated (Charges),,01/28/2008,No,,,,,,
+200609794,935446,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
 200609800,937040,Substantiated (Command Discipline),,10/28/2007,No,,,,,,
 200609846,928397,Substantiated (Command Discipline),,01/28/2008,No,,,,,,Command Discipline - A
 200609865,936038,Substantiated (Charges),,12/28/2007,No,,,,,,Instructions
@@ -2366,26 +2366,26 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200610054,923128,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
 200610087,934118,Substantiated (Charges),,12/28/2008,No,,,,,,Command Discipline - B
 200610087,936618,Substantiated (Charges),,12/28/2008,No,,,,,,Command Discipline - B
-200610144,931783,Substantiated (Charges),,01/28/2008,No,,,,,,
-200610144,934148,Substantiated (Charges),,01/28/2008,No,,,,,,
-200610157,915783,Substantiated (Charges),,01/28/2008,No,,,,,,
+200610144,931783,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
+200610144,934148,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
+200610157,915783,Substantiated (Charges),,01/28/2008,No,,,,,,No penalty
 200610202,907600,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
 200610262,931316,Substantiated (Instructions),,01/28/2008,No,,,,,,Command Discipline - B
 200610299,911797,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
 200610299,927956,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
 200610299,932226,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
 200610391,900040,Substantiated (Charges),,01/28/2008,No,,,,,,Instructions
-200610426,910532,Substantiated (Command Discipline),,01/28/2008,No,,,,,,
+200610426,910532,Substantiated (Command Discipline),,01/28/2008,No,,,,,,No penalty
 200610470,926482,Substantiated (Charges),,12/28/2007,No,,,,,,Command Discipline - B
-200610646,888687,Substantiated (Charges),,02/28/2008,No,,,,,,
-200610646,933204,Substantiated (Charges),,02/28/2008,No,,,,,,
+200610646,888687,Substantiated (Charges),,02/28/2008,No,,,,,,No penalty
+200610646,933204,Substantiated (Charges),,02/28/2008,No,,,,,,No penalty
 200610674,937742,Substantiated (Charges),,02/28/2008,No,,,,,,Command Discipline - B
 200610674,940519,Substantiated (Charges),,04/28/2009,No,,,,,,Vacation: 2 days
 200610811,905788,Substantiated (Command Discipline),,11/28/2007,No,,,,,,
 200610814,933042,Substantiated (Charges),,02/28/2008,No,,,,,,Instructions
 200610819,922277,Substantiated (Charges),,02/28/2008,No,,,,,,
 200610819,933045,Substantiated (Charges),,02/28/2008,No,,,,,,
-200610916,939777,Substantiated (Charges),,02/28/2008,No,,,,,,
+200610916,939777,Substantiated (Charges),,02/28/2008,No,,,,,,No penalty
 200611063,926497,Substantiated (Command Discipline),,02/28/2008,No,,,,,,Command Discipline - B
 200611128,884534,Substantiated (Charges),,02/28/2008,No,,,,,,Command Discipline - B
 200611232,899380,Substantiated (Charges),,02/28/2008,No,,,,,,Command Discipline - A
@@ -2396,7 +2396,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200611418,931783,Substantiated (Charges),,02/28/2008,No,,,,,,Instructions
 200611440,935571,Substantiated (Charges),,02/28/2008,No,,,,,,Instructions
 200611440,936968,Substantiated (Charges),,02/28/2008,No,,,,,,Instructions
-200611469,935980,Substantiated (Instructions),,02/28/2008,No,,,,,,
+200611469,935980,Substantiated (Instructions),,02/28/2008,No,,,,,,No penalty
 200611527,935384,Substantiated (Command Discipline),,02/28/2008,No,,,,,,Instructions
 200611570,902623,Substantiated (Charges),,03/28/2008,No,,,,,,
 200611570,925795,Substantiated (Charges),,03/28/2008,No,,,,,,
@@ -2408,10 +2408,10 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200611910,940557,Substantiated (Command Discipline),,02/28/2008,No,,,,,,Instructions
 200611910,940793,Substantiated (Command Discipline),,02/28/2008,No,,,,,,Instructions
 200611915,902652,Substantiated (Charges),,03/28/2008,No,,,,,,
-200612039,920813,Substantiated (Command Discipline),,11/28/2007,No,,,,,,
-200612039,927617,Substantiated (Command Discipline),,11/28/2007,No,,,,,,
-200612150,921887,Substantiated (Command Discipline),,02/28/2008,No,,,,,,
-200612178,936669,Substantiated (Instructions),,03/28/2008,No,,,,,,
+200612039,920813,Substantiated (Command Discipline),,11/28/2007,No,,,,,,No penalty
+200612039,927617,Substantiated (Command Discipline),,11/28/2007,No,,,,,,No penalty
+200612150,921887,Substantiated (Command Discipline),,02/28/2008,No,,,,,,No penalty
+200612178,936669,Substantiated (Instructions),,03/28/2008,No,,,,,,No penalty
 200612467,939850,Substantiated (Command Discipline),,03/28/2008,No,,,,,,Instructions
 200612511,930922,Substantiated (Command Discipline),,03/28/2008,No,,,,,,Command Discipline - B
 200612534,937425,Substantiated (Charges),,03/28/2008,No,,,,,,Instructions
@@ -2425,7 +2425,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200612602,930116,Substantiated (Charges),,03/28/2008,No,,,,,,Instructions
 200612681,916267,Substantiated (Charges),,06/28/2009,No,,,,,,Vacation: 15 days
 200612713,895280,Substantiated (Charges),,03/28/2008,No,,,,,,Instructions
-200612713,930792,Substantiated (Charges),,03/28/2008,No,,,,,,
+200612713,930792,Substantiated (Charges),,03/28/2008,No,,,,,,No penalty
 200612955,938708,Substantiated (Charges),,03/28/2008,No,,,,,,Command Discipline - A
 200612959,930914,Substantiated (Charges),,03/28/2008,No,,,,,,Command Discipline - B
 200612996,939274,Substantiated (Charges),,03/28/2009,No,,,,,,Vacation: 10 days
@@ -2449,61 +2449,61 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200613980,907377,Substantiated (Command Discipline),,02/28/2008,No,,,,,,Instructions
 200614018,915435,Substantiated (Charges),,06/28/2009,No,,,,,,
 200614018,926086,Substantiated (Charges),,06/28/2009,No,,,,,,
-200614022,918830,Substantiated (Charges),,10/28/2007,No,,,,,,
-200614022,922345,Substantiated (Charges),,10/28/2007,No,,,,,,
+200614022,918830,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
+200614022,922345,Substantiated (Charges),,10/28/2007,No,,,,,,No penalty
 200614034,939030,Substantiated (Charges),,04/28/2008,No,,,,,,Instructions
 200614075,900739,Substantiated (Charges),,02/28/2009,No,,,,,,Vacation: 8 days
 200614102,939240,Substantiated (Command Discipline),,04/28/2008,No,,,,,,Command Discipline - B
 200614150,891686,Substantiated (Instructions),,02/28/2008,No,,,,,,Instructions
 200614371,940937,Substantiated (Charges),,04/28/2008,No,,,,,,Command Discipline - B
 200614401,939078,Substantiated (Instructions),,04/28/2008,No,,,,,,Instructions
-200614415,921317,Substantiated (Charges),,04/28/2008,No,,,,,,
-200614666,938277,Substantiated (Charges),,04/28/2008,No,,,,,,
-200614666,939408,Substantiated (Charges),,04/28/2008,No,,,,,,
-200614712,937461,Substantiated (Charges),,04/28/2008,No,,,,,,
+200614415,921317,Substantiated (Charges),,04/28/2008,No,,,,,,No penalty
+200614666,938277,Substantiated (Charges),,04/28/2008,No,,,,,,No penalty
+200614666,939408,Substantiated (Charges),,04/28/2008,No,,,,,,No penalty
+200614712,937461,Substantiated (Charges),,04/28/2008,No,,,,,,No penalty
 200614756,936991,Substantiated (Charges),,04/28/2008,No,,,,,,Command Discipline - A
 200614807,938616,Substantiated (Charges),,,No,,,,,,
 200615038,932392,Substantiated (Charges),,08/28/2009,No,,,,,,
 200615038,934158,Substantiated (Charges),,08/28/2009,No,,,,,,
 200615255,907009,Substantiated (Charges),,06/28/2008,No,,,,,,
-200615342,924714,Substantiated (Command Discipline),,04/28/2008,No,,,,,,
+200615342,924714,Substantiated (Command Discipline),,04/28/2008,No,,,,,,No penalty
 200615435,894081,Substantiated (Charges),,04/28/2008,No,,,,,,Instructions
 200615469,933598,Substantiated (Charges),,05/28/2008,No,,,,,,Command Discipline - A
-200615552,938586,Substantiated (Command Discipline),,05/28/2008,No,,,,,,
+200615552,938586,Substantiated (Command Discipline),,05/28/2008,No,,,,,,No penalty
 200615552,939164,Substantiated (Command Discipline),,05/28/2008,No,,,,,,Command Discipline - A
 200615552,939252,Substantiated (Command Discipline),,05/28/2008,No,,,,,,Command Discipline - A
 200615555,914037,Substantiated (Charges),,05/28/2008,No,,,,,,
 200615555,929049,Substantiated (Charges),,05/28/2008,No,,,,,,
-200615585,919890,Substantiated (Command Discipline),,04/28/2008,No,,,,,,
-200615678,940891,Substantiated (Charges),,04/28/2008,No,,,,,,
-200615694,919543,Substantiated (Charges),,04/28/2008,No,,,,,,
+200615585,919890,Substantiated (Command Discipline),,04/28/2008,No,,,,,,No penalty
+200615678,940891,Substantiated (Charges),,04/28/2008,No,,,,,,No penalty
+200615694,919543,Substantiated (Charges),,04/28/2008,No,,,,,,No penalty
 200615774,903216,Substantiated (Charges),,05/28/2008,No,,,,,,Instructions
 200615874,940589,Substantiated (Command Discipline),,06/28/2008,No,,,,,,Instructions
 200615874,940892,Substantiated (Charges),,06/28/2008,No,,,,,,Instructions
-200615879,930399,Substantiated (Command Discipline),,03/28/2008,No,,,,,,
+200615879,930399,Substantiated (Command Discipline),,03/28/2008,No,,,,,,No penalty
 200615894,923562,Substantiated (Charges),,06/28/2011,No,,,,,,Vacation: 5 days
 200615894,938200,Substantiated (Charges),,06/28/2011,No,,,,,,Vacation: 5 days
 200616050,906328,Substantiated (Instructions),,03/28/2008,No,,,,,,Instructions
 200616122,901847,Substantiated (Charges),,06/28/2008,No,,,,,,Instructions
 200616142,914446,Substantiated (Charges),,05/28/2008,No,,,,,,Instructions
 200616142,914623,Substantiated (Charges),,05/28/2008,No,,,,,,Instructions
-200616152,937841,Substantiated (Charges),,05/28/2008,No,,,,,,
-200616152,938110,Substantiated (Charges),,05/28/2008,No,,,,,,
+200616152,937841,Substantiated (Charges),,05/28/2008,No,,,,,,No penalty
+200616152,938110,Substantiated (Charges),,05/28/2008,No,,,,,,No penalty
 200616330,894344,Substantiated (Charges),,,No,,,,,,
 200616330,897649,Substantiated (Charges),,01/28/2011,No,,,,,,Vacation: 5 days
 200616330,914059,Substantiated (Charges),,,No,,,,,,
 200616471,902581,Substantiated (Command Discipline),,05/28/2008,No,,,,,,Instructions
 200616540,898293,Substantiated (Charges),,09/28/2010,No,,,,,,Vacation: 35 days / Probation:
 200616548,899645,Substantiated (Charges),,05/28/2008,No,,,,,,Instructions
-200616656,937963,Substantiated (Charges),,05/28/2008,No,,,,,,
+200616656,937963,Substantiated (Charges),,05/28/2008,No,,,,,,No penalty
 200616674,893577,Substantiated (Charges),,06/28/2008,No,,,,,,
 200616674,902558,Substantiated (Charges),,06/28/2008,No,,,,,,Instructions
-200616689,937906,Substantiated (Instructions),,05/28/2008,No,,,,,,
-200616696,920558,Substantiated (Command Discipline),,05/28/2008,No,,,,,,
-200616696,935217,Substantiated (Command Discipline),,05/28/2008,No,,,,,,
-200616808,914734,Substantiated (Charges),,06/28/2008,No,,,,,,
+200616689,937906,Substantiated (Instructions),,05/28/2008,No,,,,,,No penalty
+200616696,920558,Substantiated (Command Discipline),,05/28/2008,No,,,,,,No penalty
+200616696,935217,Substantiated (Command Discipline),,05/28/2008,No,,,,,,No penalty
+200616808,914734,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
 200616823,906107,Substantiated (Instructions),,06/28/2008,No,,,,,,Instructions
-200616847,920518,Substantiated (Charges),,06/28/2008,No,,,,,,
+200616847,920518,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
 200616847,926934,Substantiated (Charges),,06/28/2010,No,,,,,,
 200616847,927907,Substantiated (Charges),,06/28/2008,No,,,,,,Command Discipline - A
 200616847,933003,Substantiated (Charges),,06/28/2008,No,,,,,,
@@ -2511,32 +2511,32 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200616900,922960,Substantiated (Instructions),,06/28/2008,No,,,,,,Instructions
 200616943,938816,Substantiated (Charges),,12/28/2007,No,,,,,,
 200617057,940545,Substantiated (Charges),,06/28/2008,No,,,,,,Command Discipline - B
-200617150,899278,Substantiated (Charges),,06/28/2008,No,,,,,,
-200617150,925397,Substantiated (Charges),,06/28/2008,No,,,,,,
-200700151,932640,Substantiated (Charges),,06/28/2008,No,,,,,,
-200700151,936003,Substantiated (Charges),,06/28/2008,No,,,,,,
-200700284,925421,Substantiated (Charges),,06/28/2008,No,,,,,,
+200617150,899278,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
+200617150,925397,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
+200700151,932640,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
+200700151,936003,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
+200700284,925421,Substantiated (Charges),,06/28/2008,No,,,,,,No penalty
 200700395,900839,Substantiated (Charges),,03/28/2011,No,,,,,,
 200700409,918045,Substantiated (Charges),,12/28/2009,No,,,,,,Vacation: 2 days
-200700412,904167,Substantiated (Charges),,07/28/2008,No,,,,,,
-200700412,906293,Substantiated (Charges),,07/28/2008,No,,,,,,
-200700412,918580,Substantiated (Charges),,07/28/2008,No,,,,,,
+200700412,904167,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200700412,906293,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200700412,918580,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
 200700415,937511,Substantiated (No Recommendations),,07/28/2008,No,,,,,,Command Discipline - A
-200700489,936861,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
+200700489,936861,Substantiated (Command Discipline),,07/28/2008,No,,,,,,No penalty
 200700582,894324,Substantiated (Charges),,07/28/2008,No,,,,,,Command Discipline - B
 200700582,928712,Substantiated (Charges),,07/28/2008,No,,,,,,Command Discipline - B
 200700616,934066,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - B
-200700622,924351,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
+200700622,924351,Substantiated (Command Discipline),,07/28/2008,No,,,,,,No penalty
 200700623,934886,Substantiated (Command Discipline),,07/28/2008,No,,,,,,Command Discipline - B
-200700641,915998,Substantiated (Charges),,07/28/2008,No,,,,,,
-200700641,921334,Substantiated (Charges),,07/28/2008,No,,,,,,
-200700641,928692,Substantiated (Charges),,07/28/2008,No,,,,,,
-200700641,935969,Substantiated (Charges),,07/28/2008,No,,,,,,
+200700641,915998,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200700641,921334,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200700641,928692,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200700641,935969,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
 200700837,928499,Substantiated (Command Discipline),,04/28/2011,No,,,,,,
 200700880,937671,Substantiated (Charges),,06/28/2008,No,,,,,,Command Discipline - B
-200700923,897131,Substantiated (Instructions),,06/28/2008,No,,,,,,
+200700923,897131,Substantiated (Instructions),,06/28/2008,No,,,,,,No penalty
 200700923,938612,Substantiated (Instructions),,06/28/2008,No,,,,,,
-200700923,938866,Substantiated (Instructions),,06/28/2008,No,,,,,,
+200700923,938866,Substantiated (Instructions),,06/28/2008,No,,,,,,No penalty
 200700941,941540,Substantiated (Charges),,07/28/2008,No,,,,,,Command Discipline - A
 200700950,916540,Substantiated (Charges),,07/28/2008,No,,,,,,Instructions
 200700950,926907,Substantiated (Charges),,07/28/2008,No,,,,,,Command Discipline - B
@@ -2548,69 +2548,69 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200701344,905821,Substantiated (Charges),,12/28/2009,No,,,,,,
 200701344,931007,Substantiated (Charges),,06/28/2010,No,,,,,,
 200701344,931282,Substantiated (Charges),,06/28/2010,No,,,,,,
-200701380,906018,Substantiated (Charges),,07/28/2008,No,,,,,,
+200701380,906018,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
 200701470,933554,Substantiated (Command Discipline),,08/28/2009,No,,,,,,No penalty
-200701516,922997,Substantiated (Charges),,07/28/2008,No,,,,,,
+200701516,922997,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
 200701538,923505,Substantiated (Charges),,12/28/2009,No,,,,,,
 200701549,919546,Substantiated (Charges),,07/28/2008,No,,,,,,
-200701549,932957,Substantiated (Charges),,07/28/2008,No,,,,,,
-200701552,917740,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
+200701549,932957,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200701552,917740,Substantiated (Command Discipline),,07/28/2008,No,,,,,,No penalty
 200701813,934001,Substantiated (Charges),,07/28/2008,No,,,,,,Instructions
-200701896,934038,Substantiated (Charges),,07/28/2008,No,,,,,,
-200701929,937487,Substantiated (Charges),,07/28/2008,No,,,,,,
-200701929,938655,Substantiated (Charges),,07/28/2008,No,,,,,,
+200701896,934038,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200701929,937487,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
+200701929,938655,Substantiated (Charges),,07/28/2008,No,,,,,,No penalty
 200702018,930922,Substantiated (Charges),,01/28/2010,No,,,,,,
 200702019,927937,Substantiated (Charges),,10/28/2009,No,,,,,,
 200702029,921880,Substantiated (Charges),,08/28/2008,No,,,,,,
 200702035,900725,Substantiated (Charges),,03/28/2012,No,,,,,,Vacation: 5 days
 200702232,935045,Substantiated (Charges),,03/28/2009,No,,,,,,Vacation: 5 days
-200702497,930421,Substantiated (Charges),,08/28/2008,No,,,,,,
-200702586,930444,Substantiated (Charges),,08/28/2008,No,,,,,,
-200702612,930939,Substantiated (Charges),,08/28/2008,No,,,,,,
+200702497,930421,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
+200702586,930444,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
+200702612,930939,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
 200702669,925243,Substantiated (Command Discipline),,08/28/2008,No,,,,,,Instructions
 200702669,928335,Substantiated (Charges),,08/28/2008,No,,,,,,Instructions
 200702687,928309,Substantiated (Charges),,08/28/2008,No,,,,,,Command Discipline - B
-200702689,901847,Substantiated (Charges),,08/28/2008,No,,,,,,
+200702689,901847,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
 200702766,917655,Substantiated (Charges),,07/28/2008,No,,,,,,Instructions
-200703011,933259,Substantiated (Charges),,08/28/2008,No,,,,,,
+200703011,933259,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
 200703175,907485,Substantiated (Charges),,08/28/2008,No,,,,,,Command Discipline - B
-200703375,917233,Substantiated (Charges),,08/28/2008,No,,,,,,
+200703375,917233,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
 200703392,930184,Substantiated (Charges),,06/28/2009,No,,,,,,Vacation: 15 days
-200703408,931803,Substantiated (Command Discipline),,08/28/2008,No,,,,,,
-200703557,928613,Substantiated (Charges),,08/28/2008,No,,,,,,
-200703597,904007,Substantiated (Charges),,08/28/2008,No,,,,,,
+200703408,931803,Substantiated (Command Discipline),,08/28/2008,No,,,,,,No penalty
+200703557,928613,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
+200703597,904007,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
 200703634,936397,Substantiated (Command Discipline),,08/28/2008,No,,,,,,Instructions
 200703634,940213,Substantiated (Command Discipline),,08/28/2008,No,,,,,,Instructions
-200703800,905403,Substantiated (Charges),,08/28/2008,No,,,,,,
-200703800,910846,Substantiated (Charges),,08/28/2008,No,,,,,,
-200703932,929662,Substantiated (Command Discipline),,08/28/2008,No,,,,,,
+200703800,905403,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
+200703800,910846,Substantiated (Charges),,08/28/2008,No,,,,,,No penalty
+200703932,929662,Substantiated (Command Discipline),,08/28/2008,No,,,,,,No penalty
 200703956,921389,Substantiated (Command Discipline),,06/28/2009,No,,,,,,Vacation: 15 days
 200704005,918830,Substantiated (Charges),,09/28/2008,No,,,,,,
 200704005,927673,Substantiated (Charges),,09/28/2008,No,,,,,,
 200704116,934429,Substantiated (Charges),,09/28/2008,No,,,,,,Instructions
-200704116,935731,Substantiated (Charges),,09/28/2008,No,,,,,,
+200704116,935731,Substantiated (Charges),,09/28/2008,No,,,,,,Instructions
 200704228,934822,Substantiated (Charges),,02/28/2011,No,,,,,,Suspension: 31 days / Vacation: 29 days
-200704280,922068,Substantiated (Charges),,09/28/2008,No,,,,,,
-200704280,922716,Substantiated (Charges),,09/28/2008,No,,,,,,
+200704280,922068,Substantiated (Charges),,09/28/2008,No,,,,,,No penalty
+200704280,922716,Substantiated (Charges),,09/28/2008,No,,,,,,No penalty
 200704397,920190,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - B
 200704569,899278,Substantiated (Charges),,08/28/2008,No,,,,,,Command Discipline - A
 200704978,933362,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - A
 200705072,895664,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - B
-200705078,916854,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
-200705078,927098,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
+200705078,916854,Substantiated (Command Discipline),,07/28/2008,No,,,,,,Instructions
+200705078,927098,Substantiated (Command Discipline),,07/28/2008,No,,,,,,Instructions
 200705527,942284,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - B
 200705678,931915,Substantiated (Charges),,06/28/2010,No,,,,,,Suspension: 30 days / Vacation: 15 days / Probation:
 200705829,904170,Substantiated (Charges),,09/28/2008,No,,,,,,Instructions
 200705885,897885,Substantiated (Command Discipline),,10/28/2008,No,,,,,,Instructions
 200706054,935196,Substantiated (Charges),,11/28/2008,No,,,,,,Instructions
-200706070,935463,Substantiated (Command Discipline),,10/28/2008,No,,,,,,
+200706070,935463,Substantiated (Command Discipline),,10/28/2008,No,,,,,,Instructions
 200706070,941168,Substantiated (Command Discipline),,10/28/2008,No,,,,,,Instructions
 200706234,932234,Substantiated (Command Discipline),,11/28/2012,No,,,,,,Vacation: 15 days
-200706265,903532,Substantiated (Charges),,10/28/2008,No,,,,,,
-200706265,932519,Substantiated (Charges),,10/28/2008,No,,,,,,
+200706265,903532,Substantiated (Charges),,10/28/2008,No,,,,,,No penalty
+200706265,932519,Substantiated (Charges),,10/28/2008,No,,,,,,No penalty
 200706401,936178,Substantiated (Command Discipline),,11/28/2008,No,,,,,,Command Discipline - B
 200706453,926833,Substantiated (Charges),,03/28/2009,No,,,,,,Vacation: 30 days
-200706482,931918,Substantiated (Command Discipline),,11/28/2008,No,,,,,,
+200706482,931918,Substantiated (Command Discipline),,11/28/2008,No,,,,,,No penalty
 200706527,926537,Substantiated (Charges),,11/28/2008,No,,,,,,Command Discipline - B
 200706626,917146,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - B
 200706626,923653,Substantiated (Charges),,09/28/2008,No,,,,,,Command Discipline - B
@@ -2619,31 +2619,31 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200707050,912008,Substantiated (Charges),,11/28/2010,No,,,,,,
 200707050,918477,Substantiated (Charges),,11/28/2010,No,,,,,,
 200707080,898670,Substantiated (Charges),,08/28/2009,No,,,,,,Vacation: 8 days
-200707195,895749,Substantiated (Charges),,10/28/2008,No,,,,,,
-200707229,881571,Substantiated (Charges),,11/28/2008,No,,,,,,
+200707195,895749,Substantiated (Charges),,10/28/2008,No,,,,,,No penalty
+200707229,881571,Substantiated (Charges),,11/28/2008,No,,,,,,No penalty
 200707374,898013,Substantiated (Charges),,07/28/2009,No,,,,,,
 200707374,919175,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Instructions
-200707380,889288,Substantiated (Charges),,11/28/2008,No,,,,,,
+200707380,889288,Substantiated (Charges),,11/28/2008,No,,,,,,No penalty
 200707609,906426,Substantiated (No Recommendations),,11/28/2008,No,,,,,,Command Discipline - B
 200707609,921059,Substantiated (No Recommendations),,11/28/2008,No,,,,,,Command Discipline - B
 200707609,929321,Substantiated (No Recommendations),,11/28/2008,No,,,,,,Command Discipline - B
 200707685,917714,Substantiated (Charges),,05/28/2010,No,,,,,,Vacation: 5 days
 200707736,937938,Substantiated (Charges),,11/28/2008,No,,,,,,Command Discipline - B
-200708090,931624,Substantiated (Charges),,11/28/2008,No,,,,,,
+200708090,931624,Substantiated (Charges),,11/28/2008,No,,,,,,No penalty
 200708123,925244,Substantiated (Charges),,11/28/2008,No,,,,,,Instructions
-200708265,900519,Substantiated (Command Discipline),,11/28/2008,No,,,,,,
+200708265,900519,Substantiated (Command Discipline),,11/28/2008,No,,,,,,No penalty
 200708615,939736,Substantiated (Charges),,12/28/2009,No,,,,,,Instructions
 200708831,939118,Substantiated (Charges),,11/28/2008,No,,,,,,Command Discipline - B
 200708863,898126,Substantiated (Command Discipline),,12/28/2009,No,,,,,,
 200708869,925956,Substantiated (Charges),,01/28/2009,No,,,,,,Command Discipline - A
 200708869,929637,Substantiated (Charges),,01/28/2009,No,,,,,,Command Discipline - A
-200708928,901056,Substantiated (Charges),,12/28/2008,No,,,,,,
-200708946,904160,Substantiated (Charges),,12/28/2008,No,,,,,,
-200709032,903828,Substantiated (Charges),,12/28/2008,No,,,,,,
-200709036,935670,Substantiated (Command Discipline),,12/28/2008,No,,,,,,
-200709036,936976,Substantiated (Command Discipline),,12/28/2008,No,,,,,,
+200708928,901056,Substantiated (Charges),,12/28/2008,No,,,,,,No penalty
+200708946,904160,Substantiated (Charges),,12/28/2008,No,,,,,,No penalty
+200709032,903828,Substantiated (Charges),,12/28/2008,No,,,,,,No penalty
+200709036,935670,Substantiated (Command Discipline),,12/28/2008,No,,,,,,No penalty
+200709036,936976,Substantiated (Command Discipline),,12/28/2008,No,,,,,,No penalty
 200709264,931484,Substantiated (Charges),,10/28/2009,No,,,,,,Command Discipline - A / Instructions
-200709295,903766,Substantiated (Charges),,05/28/2008,No,,,,,,
+200709295,903766,Substantiated (Charges),,05/28/2008,No,,,,,,No penalty
 200709333,920413,Substantiated (Charges),,03/28/2009,No,,,,,,Command Discipline - A
 200709473,941419,Substantiated (Charges),,12/28/2008,No,,,,,,Instructions
 200709473,942768,Substantiated (Charges),,12/28/2008,No,,,,,,Command Discipline - B
@@ -2654,14 +2654,14 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200709915,902804,Substantiated (Charges),,,No,,,,,,
 200709977,917047,Substantiated (No Recommendations),,01/28/2009,No,,,,,,
 200710212,898342,Substantiated (Charges),,01/28/2009,No,,,,,,Command Discipline - B
-200710245,920626,Substantiated (Command Discipline),,03/28/2009,No,,,,,,
-200710245,933259,Substantiated (Command Discipline),,03/28/2009,No,,,,,,
-200710258,884320,Substantiated (Charges),,01/28/2009,No,,,,,,
-200710258,901391,Substantiated (Charges),,01/28/2009,No,,,,,,
+200710245,920626,Substantiated (Command Discipline),,03/28/2009,No,,,,,,Command Discipline - A
+200710245,933259,Substantiated (Command Discipline),,03/28/2009,No,,,,,,No penalty
+200710258,884320,Substantiated (Charges),,01/28/2009,No,,,,,,No penalty
+200710258,901391,Substantiated (Charges),,01/28/2009,No,,,,,,No penalty
 200710299,920121,Substantiated (Charges),,09/28/2009,No,,,,,,
 200710299,935400,Substantiated (Charges),,09/28/2009,No,,,,,,
 200710383,937940,Substantiated (Command Discipline),,01/28/2009,No,,,,,,Command Discipline - B
-200710383,940701,Substantiated (Command Discipline),,01/28/2009,No,,,,,,
+200710383,940701,Substantiated (Command Discipline),,01/28/2009,No,,,,,,Command Discipline - B
 200710708,897178,Substantiated (Charges),,08/28/2010,No,,,,,,Vacation: 17 days
 200710793,940052,Substantiated (Charges),,10/28/2009,No,,,,,,Vacation: 10 days
 200710853,935346,Substantiated (Charges),,12/28/2009,No,,,,,,
@@ -2669,78 +2669,78 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200710853,938283,Substantiated (Charges),,12/28/2009,No,,,,,,Instructions
 200710865,937658,Substantiated (Command Discipline),,01/28/2009,No,,,,,,Command Discipline - A
 200710870,924971,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
-200710909,873810,Substantiated (Charges),,01/28/2009,No,,,,,,
-200710909,920770,Substantiated (Charges),,01/28/2009,No,,,,,,
+200710909,873810,Substantiated (Charges),,01/28/2009,No,,,,,,No penalty
+200710909,920770,Substantiated (Charges),,01/28/2009,No,,,,,,No penalty
 200711160,934556,Substantiated (Command Discipline),,02/28/2009,No,,,,,,Instructions
 200711220,920817,Substantiated (Command Discipline),,,No,,,,,,
 200711428,920142,Substantiated (Charges),,11/28/2010,No,,,,,,
-200711469,938246,Substantiated (Charges),,01/28/2009,No,,,,,,
+200711469,938246,Substantiated (Charges),,01/28/2009,No,,,,,,No penalty
 200711532,935140,Substantiated (Charges),,11/28/2011,No,,,,,,Vacation: 17 days
 200711620,938293,Substantiated (Charges),,12/28/2009,No,,,,,,
 200711620,938724,Substantiated (Charges),,12/28/2009,No,,,,,,
-200711755,902649,Substantiated (Charges),,02/28/2009,No,,,,,,
+200711755,902649,Substantiated (Charges),,02/28/2009,No,,,,,,No penalty
 200711784,895928,Substantiated (Charges),,02/28/2009,No,,,,,,Command Discipline - B
 200711784,939213,Substantiated (Command Discipline),,02/28/2009,No,,,,,,Command Discipline - B
-200711810,902473,Substantiated (Charges),,02/28/2009,No,,,,,,
+200711810,902473,Substantiated (Charges),,02/28/2009,No,,,,,,No penalty
 200711810,904015,Substantiated (Charges),,02/28/2009,No,,,,,,Command Discipline - B
-200711810,907064,Substantiated (Charges),,02/28/2009,No,,,,,,
+200711810,907064,Substantiated (Charges),,02/28/2009,No,,,,,,No penalty
 200711818,929805,Substantiated (Instructions),,02/28/2009,No,,,,,,
-200712103,929566,Substantiated (Charges),,02/28/2009,No,,,,,,
+200712103,929566,Substantiated (Charges),,02/28/2009,No,,,,,,No penalty
 200712162,895904,Substantiated (Charges),,02/28/2009,No,,,,,,Command Discipline - B
 200712162,938161,Substantiated (Charges),,02/28/2009,No,,,,,,Command Discipline - B
 200712397,931783,Substantiated (Charges),,12/28/2009,No,,,,,,
 200712579,899278,Substantiated (Charges),,02/28/2009,No,,,,,,Instructions
 200712858,925131,Substantiated (Charges),,02/28/2009,No,,,,,,Instructions
-200712883,925863,Substantiated (Command Discipline),,02/28/2009,No,,,,,,
-200712883,940973,Substantiated (Command Discipline),,02/28/2009,No,,,,,,
+200712883,925863,Substantiated (Command Discipline),,02/28/2009,No,,,,,,No penalty
+200712883,940973,Substantiated (Command Discipline),,02/28/2009,No,,,,,,No penalty
 200712923,942165,Substantiated (Charges),,01/28/2011,No,,,,,,Vacation: 10 days
-200712972,928837,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
-200712972,932718,Substantiated (Command Discipline),,07/28/2008,No,,,,,,
+200712972,928837,Substantiated (Command Discipline),,07/28/2008,No,,,,,,No penalty
+200712972,932718,Substantiated (Command Discipline),,07/28/2008,No,,,,,,No penalty
 200713044,936615,Substantiated (Command Discipline),,01/28/2012,No,,,,,,
 200713166,941892,Substantiated (Charges),,02/28/2009,No,,,,,,Command Discipline - B
 200713573,904790,Substantiated (Charges),,02/28/2011,No,,,,,,Suspension: 20 days / Vacation: 15 days
-200713579,922170,Substantiated (Charges),,03/28/2009,No,,,,,,
-200713590,927936,Substantiated (Charges),,03/28/2009,No,,,,,,
+200713579,922170,Substantiated (Charges),,03/28/2009,No,,,,,,No penalty
+200713590,927936,Substantiated (Charges),,03/28/2009,No,,,,,,No penalty
 200713590,928258,Substantiated (Charges),,03/28/2009,No,,,,,,
 200713836,924863,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
-200713880,905117,Substantiated (Command Discipline),,03/28/2009,No,,,,,,
+200713880,905117,Substantiated (Command Discipline),,03/28/2009,No,,,,,,No penalty
 200714187,927552,Substantiated (Charges),,07/28/2009,No,,,,,,Instructions
-200714219,904998,Substantiated (Charges),,03/28/2009,No,,,,,,
-200714219,915848,Substantiated (Charges),,03/28/2009,No,,,,,,
-200714345,940220,Substantiated (Command Discipline),,03/28/2009,No,,,,,,
+200714219,904998,Substantiated (Charges),,03/28/2009,No,,,,,,Instructions
+200714219,915848,Substantiated (Charges),,03/28/2009,No,,,,,,No penalty
+200714345,940220,Substantiated (Command Discipline),,03/28/2009,No,,,,,,No penalty
 200714801,940142,Substantiated (Charges),,03/28/2009,No,,,,,,Instructions
 200714820,941927,Substantiated (Charges),,03/28/2009,No,,,,,,Instructions
 200714820,942716,Substantiated (Charges),,03/28/2009,No,,,,,,Instructions
 200714852,932991,Substantiated (Charges),,03/28/2009,No,,,,,,Command Discipline - B
 200714943,927538,Substantiated (Charges),,05/28/2009,No,,,,,,Command Discipline - B
-200715114,935092,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715114,935649,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715114,937367,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715224,921442,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715224,932283,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715233,935665,Substantiated (Charges),,04/28/2009,No,,,,,,
+200715114,935092,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715114,935649,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715114,937367,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715224,921442,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715224,932283,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715233,935665,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
 200715369,900000,Substantiated (Charges),,03/28/2009,No,,,,,,Command Discipline - B
 200715399,940403,Substantiated (Charges),,03/28/2009,No,,,,,,Instructions
 200715485,929882,Substantiated (Charges),,12/28/2009,No,,,,,,
 200715485,934130,Substantiated (Charges),,12/28/2009,No,,,,,,
 200715708,905746,Substantiated (Charges),,04/28/2009,No,,,,,,Command Discipline - B
-200715708,939139,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715708,941078,Substantiated (Charges),,04/28/2009,No,,,,,,
+200715708,939139,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715708,941078,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
 200715809,919811,Substantiated (Charges),,04/28/2009,No,,,,,,Command Discipline - B
-200715844,892278,Substantiated (Charges),,03/28/2009,No,,,,,,
-200715888,927158,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715888,927776,Substantiated (Charges),,04/28/2009,No,,,,,,
-200715888,936833,Substantiated (Charges),,04/28/2009,No,,,,,,
+200715844,892278,Substantiated (Charges),,03/28/2009,No,,,,,,No penalty
+200715888,927158,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715888,927776,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
+200715888,936833,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
 200716104,930648,Substantiated (Charges),,04/28/2009,No,,,,,,Instructions
 200716166,918633,Substantiated (Command Discipline),,04/28/2009,No,,,,,,Command Discipline - B
 200716166,933487,Substantiated (Charges),,07/28/2010,No,,,,,,Vacation: 10 days
-200716251,929682,Substantiated (Charges),,04/28/2009,No,,,,,,
+200716251,929682,Substantiated (Charges),,04/28/2009,No,,,,,,No penalty
 200716556,932068,Substantiated (Command Discipline),,05/28/2009,No,,,,,,Command Discipline - A
 200716565,923793,Substantiated (Charges),,05/28/2009,No,,,,,,Command Discipline - B
 200716565,935216,Substantiated (Charges),,05/28/2009,No,,,,,,Command Discipline - B
-200716583,906560,Substantiated (Command Discipline),,06/28/2009,No,,,,,,
+200716583,906560,Substantiated (Command Discipline),,06/28/2009,No,,,,,,No penalty
 200716621,940419,Substantiated (Charges),,05/28/2009,No,,,,,,Command Discipline - A
-200716641,922059,Substantiated (Charges),,05/28/2009,No,,,,,,
+200716641,922059,Substantiated (Charges),,05/28/2009,No,,,,,,Instructions
 200716641,930352,Substantiated (Charges),,05/28/2009,No,,,,,,Instructions
 200716653,914294,Substantiated (Charges),,06/28/2010,No,,,,,,Vacation: 8 days
 200717115,880060,Substantiated (Charges),,05/28/2009,No,,,,,,Command Discipline - B
@@ -2756,14 +2756,14 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200717516,919712,Substantiated (Command Discipline),,06/28/2009,No,,,,,,Command Discipline - B
 200717516,933664,Substantiated (Command Discipline),,06/28/2009,No,,,,,,Command Discipline - B
 200717545,906320,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
-200717723,931198,Substantiated (Command Discipline),,06/28/2009,No,,,,,,
+200717723,931198,Substantiated (Command Discipline),,06/28/2009,No,,,,,,No penalty
 200717883,899573,Substantiated (Command Discipline),,05/28/2009,No,,,,,,Instructions
 200717883,923384,Substantiated (Command Discipline),,05/28/2009,No,,,,,,Instructions
-200717883,925862,Substantiated (Command Discipline),,05/28/2009,No,,,,,,
-200717883,926879,Substantiated (Command Discipline),,05/28/2009,No,,,,,,
-200717883,927162,Substantiated (Command Discipline),,05/28/2009,No,,,,,,
-200717883,927937,Substantiated (Command Discipline),,05/28/2009,No,,,,,,
-200717886,907150,Substantiated (Charges),,06/28/2009,No,,,,,,
+200717883,925862,Substantiated (Command Discipline),,05/28/2009,No,,,,,,No penalty
+200717883,926879,Substantiated (Command Discipline),,05/28/2009,No,,,,,,No penalty
+200717883,927162,Substantiated (Command Discipline),,05/28/2009,No,,,,,,No penalty
+200717883,927937,Substantiated (Command Discipline),,05/28/2009,No,,,,,,No penalty
+200717886,907150,Substantiated (Charges),,06/28/2009,No,,,,,,No penalty
 200718059,919612,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
 200718131,896415,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
 200718140,891281,Substantiated (Charges),,11/28/2009,No,,,,,,Suspension: 32 days / Probation:
@@ -2771,56 +2771,56 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200718232,924643,Substantiated (Instructions),,12/28/2009,No,,,,,,
 200718234,895317,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
 200718369,935030,Substantiated (Command Discipline),,06/28/2009,No,,,,,,Instructions
-200718473,921202,Substantiated (Charges),,06/28/2009,No,,,,,,
+200718473,921202,Substantiated (Charges),,06/28/2009,No,,,,,,Instructions
 200718473,930647,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
-200718572,915578,Substantiated (Charges),,06/28/2009,No,,,,,,
+200718572,915578,Substantiated (Charges),,06/28/2009,No,,,,,,No penalty
 200718580,897333,Substantiated (Charges),,10/28/2010,No,,,,,,
-200718655,914161,Substantiated (Charges),,06/28/2009,No,,,,,,
+200718655,914161,Substantiated (Charges),,06/28/2009,No,,,,,,No penalty
 200718670,928934,Substantiated (Command Discipline),,06/28/2009,No,,,,,,Command Discipline - B
 200718675,940673,Substantiated (Instructions),,06/28/2009,No,,,,,,Command Discipline - B
 200800027,924135,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - B
 200800027,929384,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - A
-200800184,934009,Substantiated (Command Discipline),,06/28/2009,No,,,,,,
-200800184,937167,Substantiated (Command Discipline),,06/28/2009,No,,,,,,
+200800184,934009,Substantiated (Command Discipline),,06/28/2009,No,,,,,,No penalty
+200800184,937167,Substantiated (Command Discipline),,06/28/2009,No,,,,,,No penalty
 200800203,937543,Substantiated (Charges),,06/28/2009,No,,,,,,Command Discipline - A
-200800203,938102,Substantiated (Charges),,06/28/2009,No,,,,,,
+200800203,938102,Substantiated (Charges),,06/28/2009,No,,,,,,Instructions
 200800221,898219,Substantiated (Charges),,03/28/2009,No,,,,,,Command Discipline - A
 200800364,935470,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200800373,930545,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200800373,932599,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200800389,938979,Substantiated (Charges),,06/28/2013,No,,,,,,Terminated
 200800389,940125,Substantiated (Charges),,11/28/2012,No,,,,,,Vacation: 35 days
-200800410,934846,Substantiated (Charges),,07/28/2009,No,,,,,,
-200800410,936148,Substantiated (Charges),,07/28/2009,No,,,,,,
+200800410,934846,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - A
+200800410,936148,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - A
 200800463,939051,Substantiated (Command Discipline),,06/28/2009,No,,,,,,Command Discipline - B
 200800940,941921,Substantiated (Instructions),,07/28/2009,No,,,,,,Command Discipline - B
-200800947,940608,Substantiated (Charges),,07/28/2009,No,,,,,,
+200800947,940608,Substantiated (Charges),,07/28/2009,No,,,,,,No penalty
 200800947,941148,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200800981,944175,Substantiated (Instructions),,07/28/2009,No,,,,,,Instructions
 200800981,944613,Substantiated (Instructions),,07/28/2009,No,,,,,,Instructions
-200801003,934610,Substantiated (Command Discipline),,07/28/2009,No,,,,,,
+200801003,934610,Substantiated (Command Discipline),,07/28/2009,No,,,,,,No penalty
 200801117,933235,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Instructions
-200801175,926054,Substantiated (Charges),,07/28/2009,No,,,,,,
+200801175,926054,Substantiated (Charges),,07/28/2009,No,,,,,,No penalty
 200801175,933145,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200801475,943771,Substantiated (Charges),,12/28/2009,No,,,,,,Vacation: 25 days
 200801591,911387,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Command Discipline - B
-200801787,923277,Substantiated (Charges),,07/28/2009,No,,,,,,
-200801853,939468,Substantiated (Command Discipline),,07/28/2009,No,,,,,,
-200801853,939657,Substantiated (Command Discipline),,07/28/2009,No,,,,,,
+200801787,923277,Substantiated (Charges),,07/28/2009,No,,,,,,No penalty
+200801853,939468,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Command Discipline - B
+200801853,939657,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Command Discipline - B
 200801865,921827,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200801865,940545,Substantiated (Charges),,07/28/2009,No,,,,,,Command Discipline - B
 200802011,914412,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Command Discipline - B
 200802264,926291,Substantiated (Charges),,07/28/2009,No,,,,,,Instructions
-200802293,914771,Substantiated (Charges),,08/28/2009,No,,,,,,
-200802293,933014,Substantiated (Charges),,08/28/2009,No,,,,,,
+200802293,914771,Substantiated (Charges),,08/28/2009,No,,,,,,No penalty
+200802293,933014,Substantiated (Charges),,08/28/2009,No,,,,,,No penalty
 200802407,939896,Substantiated (Charges),,08/28/2009,No,,,,,,Command Discipline - B
 200802519,928007,Substantiated (Command Discipline),,08/28/2009,No,,,,,,Command Discipline - B
 200802601,938152,Substantiated (Charges),,08/28/2009,No,,,,,,Instructions
 200802601,943454,Substantiated (Charges),,08/28/2009,No,,,,,,Command Discipline - B
 200802670,917095,Substantiated (Command Discipline),,07/28/2009,No,,,,,,Command Discipline - A
-200802764,896415,Substantiated (Charges),,05/28/2009,No,,,,,,
+200802764,896415,Substantiated (Charges),,05/28/2009,No,,,,,,No penalty
 200802764,930170,Substantiated (Charges),,05/28/2009,No,,,,,,Instructions
-200802817,936072,Substantiated (Charges),,08/28/2009,No,,,,,,
+200802817,936072,Substantiated (Charges),,08/28/2009,No,,,,,,No penalty
 200802859,901923,Substantiated (Charges),,08/28/2009,No,,,,,,Command Discipline - B
 200802859,932095,Substantiated (Charges),,08/28/2009,No,,,,,,Command Discipline - B
 200802859,935970,Substantiated (Charges),,08/28/2009,No,,,,,,Command Discipline - B
@@ -2835,16 +2835,16 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200803147,919179,Substantiated (Charges),,08/28/2009,No,,,,,,Instructions
 200803554,934443,Substantiated (Charges),,08/28/2012,No,,,,,,Vacation: 30 days
 200803554,937796,Substantiated (Charges),,08/28/2012,No,,,,,,Vacation: 20 days
-200803579,934818,Substantiated (Command Discipline),,09/28/2009,No,,,,,,
+200803579,934818,Substantiated (Command Discipline),,09/28/2009,No,,,,,,No penalty
 200803734,898342,Substantiated (Charges),,11/28/2010,No,,,,,,Vacation: 8 days
 200803734,929595,Substantiated (Instructions),,10/28/2010,No,,,,,,Vacation: 10 days
 200803736,931982,Substantiated (Charges),,09/28/2009,No,,,,,,Command Discipline - B
 200803831,898342,Substantiated (Instructions),,11/28/2010,No,,,,,,Vacation: 8 days
 200803862,923631,Substantiated (Charges),,08/28/2009,No,,,,,,Command Discipline - B
 200803908,934692,Substantiated (Charges),,07/28/2011,No,,,,,,Suspension: 34 days
-200803950,902313,Substantiated (Charges),,08/28/2009,No,,,,,,
-200803950,913968,Substantiated (Charges),,08/28/2009,No,,,,,,
-200803950,932886,Substantiated (Charges),,08/28/2009,No,,,,,,
+200803950,902313,Substantiated (Charges),,08/28/2009,No,,,,,,No penalty
+200803950,913968,Substantiated (Charges),,08/28/2009,No,,,,,,No penalty
+200803950,932886,Substantiated (Charges),,08/28/2009,No,,,,,,No penalty
 200804123,925508,Substantiated (Charges),,12/28/2012,No,,,,,,No penalty
 200804208,914273,Substantiated (Command Discipline),,09/28/2009,No,,,,,,No penalty
 200804208,938227,Substantiated (Command Discipline),,09/28/2009,No,,,,,,No penalty
@@ -2864,10 +2864,10 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200805701,932661,Substantiated (Command Discipline),,10/28/2011,No,,,,,,
 200805707,918029,Substantiated (Charges),,05/28/2011,No,,,,,,Vacation: 20 days
 200805929,929597,Substantiated (Charges),,02/28/2012,No,,,,,,Suspension: 30 days / Vacation: 30 days
-200806070,928335,Substantiated (Charges),,10/28/2009,No,,,,,,
+200806070,928335,Substantiated (Charges),,10/28/2009,No,,,,,,No penalty
 200806248,928322,Substantiated (Instructions),,10/28/2009,No,,,,,,Instructions
-200806462,942343,Substantiated (Command Discipline),,10/28/2009,No,,,,,,
-200806633,899944,Substantiated (Charges),,10/28/2009,No,,,,,,
+200806462,942343,Substantiated (Command Discipline),,10/28/2009,No,,,,,,No penalty
+200806633,899944,Substantiated (Charges),,10/28/2009,No,,,,,,No penalty
 200807055,939549,Substantiated (Charges),,10/28/2009,No,,,,,,
 200807055,942477,Substantiated (Charges),,10/28/2009,No,,,,,,
 200807066,920663,Substantiated (Charges),,03/28/2009,No,,,,,,Instructions
@@ -2885,9 +2885,9 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200807987,934833,Substantiated (Charges),,11/28/2009,No,,,,,,
 200807987,939914,Substantiated (Charges),,11/28/2009,No,,,,,,Command Discipline - B
 200808038,897264,Substantiated (Command Discipline),,11/28/2012,No,,,,,,Vacation: 2 days
-200808337,918992,Substantiated (Instructions),,10/28/2009,No,,,,,,
+200808337,918992,Substantiated (Instructions),,10/28/2009,No,,,,,,No penalty
 200808337,941198,Substantiated (Command Discipline),,10/28/2009,No,,,,,,
-200808337,941678,Substantiated (Instructions),,10/28/2009,No,,,,,,
+200808337,941678,Substantiated (Instructions),,10/28/2009,No,,,,,,No penalty
 200808351,894398,Substantiated (Command Discipline),,11/28/2009,No,,,,,,Command Discipline - B
 200808381,935452,Substantiated (Charges),,11/28/2009,No,,,,,,Instructions
 200808476,940013,Substantiated (Charges),,03/28/2010,No,,,,,,
@@ -2956,7 +2956,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200813882,941926,Substantiated (Charges),,03/28/2010,No,,,,,,Instructions
 200814000,920081,Substantiated (Charges),,03/28/2010,No,,,,,,Command Discipline - B
 200814000,921317,Substantiated (Charges),,03/28/2010,No,,,,,,Command Discipline - B
-200814000,938455,Substantiated (Charges),,03/28/2010,No,,,,,,
+200814000,938455,Substantiated (Charges),,03/28/2010,No,,,,,,Command Discipline - B
 200814086,918073,Substantiated (Command Discipline),,11/28/2009,No,,,,,,
 200814161,903330,Substantiated (Charges),,03/28/2010,No,,,,,,Instructions
 200814508,920558,Substantiated (Charges),,07/28/2012,No,,,,,,Vacation: 15 days
@@ -2976,13 +2976,13 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200815654,932283,Substantiated (Charges),,04/28/2010,No,,,,,,Command Discipline - B
 200815666,928822,Substantiated (Charges),,04/28/2010,No,,,,,,Instructions
 200815666,946318,Substantiated (Charges),,04/28/2010,No,,,,,,Instructions
-200815740,932364,Substantiated (Charges),,05/28/2010,No,,,,,,
-200815749,913932,Substantiated (Charges),,03/28/2010,No,,,,,,
-200815749,914665,Substantiated (Charges),,03/28/2010,No,,,,,,
+200815740,932364,Substantiated (Charges),,05/28/2010,No,,,,,,No penalty
+200815749,913932,Substantiated (Charges),,03/28/2010,No,,,,,,No penalty
+200815749,914665,Substantiated (Charges),,03/28/2010,No,,,,,,No penalty
 200815762,915183,Substantiated (Charges),,04/28/2010,No,,,,,,Instructions
 200815770,944773,Substantiated (Command Discipline),,04/28/2010,No,,,,,,Command Discipline - B
 200815907,890433,Substantiated (Charges),,03/28/2010,No,,,,,,
-200816184,935874,Substantiated (Charges),,02/28/2010,No,,,,,,
+200816184,935874,Substantiated (Charges),,02/28/2010,No,,,,,,No penalty
 200816329,902731,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Instructions
 200816329,916961,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Instructions
 200816433,944536,Substantiated (Command Discipline),,04/28/2010,No,,,,,,Instructions
@@ -2990,11 +2990,11 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200816489,933512,Substantiated (Instructions),,04/28/2010,No,,,,,,Command Discipline - B
 200816537,936882,Substantiated (Charges),,02/28/2010,No,,,,,,Instructions
 200816563,904170,Substantiated (Charges),,02/28/2010,No,,,,,,Instructions
-200816563,921667,Substantiated (Charges),,02/28/2010,No,,,,,,
+200816563,921667,Substantiated (Charges),,02/28/2010,No,,,,,,No penalty
 200816660,933359,Substantiated (Charges),,04/28/2010,No,,,,,,Instructions
-200816688,923959,Substantiated (Charges),,01/28/2011,No,,,,,,
-200816831,898185,Substantiated (Charges),,08/28/2010,No,,,,,,
-200816831,905195,Substantiated (Charges),,08/28/2010,No,,,,,,
+200816688,923959,Substantiated (Charges),,01/28/2011,No,,,,,,No penalty
+200816831,898185,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
+200816831,905195,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
 200816900,937913,Substantiated (Charges),,05/28/2010,No,,,,,,Instructions
 200817109,929981,Substantiated (Instructions),,04/28/2010,No,,,,,,Instructions
 200817161,916004,Substantiated (Command Discipline),,04/28/2010,No,,,,,,Command Discipline - B
@@ -3002,7 +3002,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200817341,932379,Substantiated (Charges),,01/28/2012,No,,,,,,Vacation: 10 days
 200817399,913798,Substantiated (Instructions),,08/28/2010,No,,,,,,Instructions
 200817446,931134,Substantiated (Instructions),,04/28/2010,No,,,,,,Instructions
-200817524,941888,Substantiated (Command Discipline),,05/28/2010,No,,,,,,
+200817524,941888,Substantiated (Command Discipline),,05/28/2010,No,,,,,,No penalty
 200817544,942227,Substantiated (Command Discipline),,01/28/2012,No,,,,,,Vacation: 10 days
 200817564,943734,Substantiated (Instructions),,11/28/2009,No,,,,,,Command Discipline - B
 200817681,942461,Substantiated (Charges),,04/28/2010,No,,,,,,Instructions
@@ -3011,8 +3011,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200817795,932906,Substantiated (Charges),,05/28/2010,No,,,,,,Instructions
 200817859,887507,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200817893,924977,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Command Discipline - B
-200818053,925243,Substantiated (Charges),,07/28/2010,No,,,,,,
-200818053,928335,Substantiated (Charges),,07/28/2010,No,,,,,,
+200818053,925243,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
+200818053,928335,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
 200818060,922996,Substantiated (Charges),,12/28/2012,No,,,,,,Instructions
 200818219,934865,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Instructions
 200818332,945658,Substantiated (Charges),,06/28/2010,No,,,,,,
@@ -3029,7 +3029,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200900118,914243,Substantiated (Charges),,04/28/2010,No,,,,,,Command Discipline - A
 200900237,934386,Substantiated (Charges),,06/28/2010,No,,,,,,Instructions
 200900281,928017,Substantiated (Charges),,06/28/2010,No,,,,,,No penalty
-200900336,941483,Substantiated (Charges),,07/28/2010,No,,,,,,
+200900336,941483,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
 200900466,936387,Substantiated (Command Discipline),,06/28/2010,No,,,,,,Command Discipline - B
 200900497,939774,Substantiated (Charges),,06/28/2010,No,,,,,,Command Discipline - B
 200900520,930975,Substantiated (Charges),,06/28/2010,No,,,,,,Instructions
@@ -3052,10 +3052,10 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200901190,888765,Substantiated (No Recommendations),,01/28/2011,No,,,,,,Instructions
 200901207,936751,Substantiated (No Recommendations),,07/28/2010,No,,,,,,Command Discipline - B
 200901207,940443,Substantiated (No Recommendations),,07/28/2010,No,,,,,,Command Discipline - B
-200901295,912061,Substantiated (Command Discipline),,07/28/2010,No,,,,,,
+200901295,912061,Substantiated (Command Discipline),,07/28/2010,No,,,,,,Instructions
 200901351,945848,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Instructions
 200901351,946726,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Instructions
-200901627,901448,Substantiated (Charges),,07/28/2010,No,,,,,,
+200901627,901448,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
 200901627,925306,Substantiated (Charges),,07/28/2010,No,,,,,,Command Discipline - B
 200901627,936261,Substantiated (Charges),,07/28/2010,No,,,,,,Command Discipline - B
 200901627,938113,Substantiated (Charges),,07/28/2010,No,,,,,,Command Discipline - B
@@ -3068,7 +3068,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200902024,920460,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200902024,946246,Substantiated (Charges),,06/28/2011,No,,,,,,Vacation: 20 days
 200902154,903564,Substantiated (Charges),,07/28/2010,No,,,,,,Command Discipline - B
-200902157,932010,Substantiated (Charges),,07/28/2010,No,,,,,,
+200902157,932010,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
 200902183,934328,Substantiated (Command Discipline),,09/28/2010,No,,,,,,Command Discipline - B
 200902227,942525,Substantiated (Charges),,07/28/2010,No,,,,,,Instructions
 200902231,934442,Substantiated (Command Discipline),,07/28/2010,No,,,,,,Command Discipline - A
@@ -3078,23 +3078,23 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200902342,911966,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200902342,931522,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200902418,938976,Substantiated (Command Discipline),,07/28/2010,No,,,,,,Command Discipline - B
-200902434,895863,Substantiated (Charges),,07/28/2010,No,,,,,,
+200902434,895863,Substantiated (Charges),,07/28/2010,No,,,,,,No penalty
 200902437,937455,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Instructions
-200902437,938884,Substantiated (Command Discipline),,08/28/2010,No,,,,,,
+200902437,938884,Substantiated (Command Discipline),,08/28/2010,No,,,,,,No penalty
 200902449,944409,Substantiated (Charges),,07/28/2010,No,,,,,,Command Discipline - B
 200902534,947510,Substantiated (Charges),,08/28/2010,No,,,,,,Command Discipline - B
 200902534,947728,Substantiated (Charges),,02/28/2010,No,,,,,,Vacation: 15 days
 200902534,947736,Substantiated (Charges),,08/28/2010,No,,,,,,Command Discipline - B
 200902556,947300,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Instructions
 200902686,906453,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
-200902699,918320,Substantiated (Charges),,08/28/2010,No,,,,,,
+200902699,918320,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
 200902708,918887,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Command Discipline - B
 200902708,940463,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Command Discipline - B
 200902745,917086,Substantiated (Charges),,08/28/2010,No,,,,,,
 200902745,933155,Substantiated (Charges),,08/28/2010,No,,,,,,
 200902809,930985,Substantiated (Instructions),,08/28/2010,No,,,,,,Instructions
-200902907,945549,Substantiated (Charges),,08/28/2010,No,,,,,,
-200902907,946440,Substantiated (Charges),,08/28/2010,No,,,,,,
+200902907,945549,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
+200902907,946440,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
 200902914,914703,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Command Discipline - B
 200902928,926016,Substantiated (Instructions),,12/28/2011,No,,,,,,Vacation: 10 days
 200902928,937974,Substantiated (Instructions),,12/28/2011,No,,,,,,Vacation: 10 days
@@ -3104,17 +3104,17 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200902991,933235,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200902991,938461,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200903048,944762,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Instructions
-200903116,937453,Substantiated (Charges),,08/28/2010,No,,,,,,
+200903116,937453,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
 200903235,928822,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Command Discipline - B
 200903235,946283,Substantiated (Command Discipline),,05/28/2010,No,,,,,,Instructions
 200903496,881901,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
-200903548,947492,Substantiated (No Recommendations),,08/28/2010,No,,,,,,
+200903548,947492,Substantiated (No Recommendations),,08/28/2010,No,,,,,,No penalty
 200903567,896558,Substantiated (No Recommendations),,03/28/2011,No,,,,,,Vacation: 30 days
 200903569,931226,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Instructions
 200903569,939795,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Instructions
 200903652,929704,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200903789,947782,Substantiated (Command Discipline),,06/28/2011,No,,,,,,Instructions
-200903870,913894,Substantiated (Command Discipline),,09/28/2010,No,,,,,,
+200903870,913894,Substantiated (Command Discipline),,09/28/2010,No,,,,,,No penalty
 200903922,941351,Substantiated (Charges),,10/28/2012,No,,,,,,Vacation: 20 days
 200903936,942677,Substantiated (Command Discipline),,09/28/2010,No,,,,,,Command Discipline - B
 200903936,944092,Substantiated (Command Discipline),,09/28/2010,No,,,,,,Command Discipline - B
@@ -3126,39 +3126,39 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200904059,937148,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200904183,917694,Substantiated (Instructions),,03/28/2012,No,,,,,,Terminated
 200904260,919012,Substantiated (Command Discipline),,09/28/2010,No,,,,,,Instructions
-200904260,935804,Substantiated (Command Discipline),,09/28/2010,No,,,,,,
+200904260,935804,Substantiated (Command Discipline),,09/28/2010,No,,,,,,No penalty
 200904268,897333,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200904268,920305,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200904268,922926,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200904287,927401,Substantiated (No Recommendations),,09/28/2010,No,,,,,,Instructions
-200904316,945677,Substantiated (Charges),,09/28/2010,No,,,,,,
-200904342,906795,Substantiated (Charges),,08/28/2010,No,,,,,,
-200904467,917571,Substantiated (Charges),,09/28/2010,No,,,,,,
+200904316,945677,Substantiated (Charges),,09/28/2010,No,,,,,,No penalty
+200904342,906795,Substantiated (Charges),,08/28/2010,No,,,,,,No penalty
+200904467,917571,Substantiated (Charges),,09/28/2010,No,,,,,,No penalty
 200904499,903561,Substantiated (Charges),,10/28/2010,No,,,,,,Instructions
-200904543,939941,Substantiated (Charges),,09/28/2010,No,,,,,,
+200904543,939941,Substantiated (Charges),,09/28/2010,No,,,,,,No penalty
 200904657,947166,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200904891,937451,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200904983,929087,Substantiated (Command Discipline),,08/28/2010,No,,,,,,Instructions
 200905114,899570,Substantiated (No Recommendations),,09/28/2010,No,,,,,,Command Discipline - B
-200905114,916465,Substantiated (No Recommendations),,09/28/2010,No,,,,,,
+200905114,916465,Substantiated (No Recommendations),,09/28/2010,No,,,,,,No penalty
 200905169,920663,Substantiated (No Recommendations),,09/28/2010,No,,,,,,Instructions
 200905169,939886,Substantiated (No Recommendations),,09/28/2010,No,,,,,,Instructions
 200905169,939910,Substantiated (No Recommendations),,09/28/2010,No,,,,,,Instructions
-200905170,943976,Substantiated (Charges),,10/28/2010,No,,,,,,
+200905170,943976,Substantiated (Charges),,10/28/2010,No,,,,,,No penalty
 200905178,947843,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200905315,913793,Substantiated (Charges),,04/28/2013,No,,,,,,Vacation: 30 days
 200905319,935926,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200905319,938504,Substantiated (Charges),,09/28/2010,No,,,,,,Instructions
 200905364,937600,Substantiated (Instructions),,09/28/2010,No,,,,,,Instructions
-200905438,899753,Substantiated (Charges),,10/28/2010,No,,,,,,
+200905438,899753,Substantiated (Charges),,10/28/2010,No,,,,,,No penalty
 200905542,938464,Substantiated (Charges),,09/28/2010,No,,,,,,No penalty
 200905624,924463,Substantiated (Charges),,12/28/2012,No,,,,,,Vacation: 10 days
 200905624,925220,Substantiated (Charges),,12/28/2012,No,,,,,,Vacation: 5 days
 200905624,934299,Substantiated (Charges),,12/28/2012,No,,,,,,Vacation: 5 days
 200905792,945856,Substantiated (Command Discipline),,10/28/2010,No,,,,,,Instructions
 200905895,907150,Substantiated (Charges),,10/28/2010,No,,,,,,Instructions
-200906048,942855,Substantiated (No Recommendations),,09/28/2010,No,,,,,,
-200906048,945602,Substantiated (No Recommendations),,09/28/2010,No,,,,,,
+200906048,942855,Substantiated (No Recommendations),,09/28/2010,No,,,,,,No penalty
+200906048,945602,Substantiated (No Recommendations),,09/28/2010,No,,,,,,No penalty
 200906048,946685,Substantiated (No Recommendations),,09/28/2010,No,,,,,,Instructions
 200906309,944895,Substantiated (Command Discipline),,10/28/2010,No,,,,,,Command Discipline - B
 200906329,925519,Substantiated (Charges),,10/28/2010,No,,,,,,Instructions
@@ -3167,12 +3167,12 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200906871,925973,Substantiated (Charges),,10/28/2010,No,,,,,,Instructions
 200906896,944493,Substantiated (Charges),,10/28/2010,No,,,,,,Instructions
 200906896,944547,Substantiated (Charges),,10/28/2010,No,,,,,,Instructions
-200906997,923735,Substantiated (Charges),,11/28/2010,No,,,,,,
-200906997,928606,Substantiated (Charges),,11/28/2010,No,,,,,,
-200906997,929714,Substantiated (Charges),,11/28/2010,No,,,,,,
+200906997,923735,Substantiated (Charges),,11/28/2010,No,,,,,,No penalty
+200906997,928606,Substantiated (Charges),,11/28/2010,No,,,,,,No penalty
+200906997,929714,Substantiated (Charges),,11/28/2010,No,,,,,,No penalty
 200907056,914703,Substantiated (No Recommendations),,11/28/2010,No,,,,,,Command Discipline - B
 200907056,941471,Substantiated (No Recommendations),,11/28/2010,No,,,,,,Command Discipline - B
-200907060,928985,Substantiated (Charges),,10/28/2010,No,,,,,,
+200907060,928985,Substantiated (Charges),,10/28/2010,No,,,,,,No penalty
 200907129,945561,Substantiated (Charges),,11/28/2010,No,,,,,,Command Discipline - A
 200907185,918378,Substantiated (Command Discipline),,11/28/2010,No,,,,,,Instructions
 200907185,944831,Substantiated (Command Discipline),,11/28/2010,No,,,,,,Instructions
@@ -3183,17 +3183,17 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200907614,946058,Substantiated (Command Discipline),,11/28/2010,No,,,,,,Instructions
 200907720,903169,Substantiated (Charges),,11/28/2010,No,,,,,,Instructions
 200907720,930037,Substantiated (Charges),,11/28/2010,No,,,,,,Instructions
-200907961,918589,Substantiated (No Recommendations),,11/28/2010,No,,,,,,
+200907961,918589,Substantiated (No Recommendations),,11/28/2010,No,,,,,,Instructions
 200907961,937718,Substantiated (No Recommendations),,11/28/2010,No,,,,,,Instructions
 200907961,943029,Substantiated (No Recommendations),,11/28/2010,No,,,,,,Instructions
 200907980,932167,Substantiated (Charges),,02/28/2013,No,,,,,,Vacation: 5 days
 200908196,946685,Substantiated (Charges),,08/28/2010,No,,,,,,Command Discipline - B
 200908196,947233,Substantiated (Charges),,08/28/2010,No,,,,,,Instructions
 200908276,909777,Substantiated (Charges),,11/28/2010,No,,,,,,Instructions
-200908337,942071,Substantiated (Charges),,11/28/2010,No,,,,,,
+200908337,942071,Substantiated (Charges),,11/28/2010,No,,,,,,No penalty
 200908345,925940,Substantiated (Charges),,05/28/2012,No,,,,,,Suspension: 27 days / Vacation: 13 days
-200908459,895019,Substantiated (Instructions),,12/28/2010,No,,,,,,
-200908459,932175,Substantiated (Instructions),,12/28/2010,No,,,,,,
+200908459,895019,Substantiated (Instructions),,12/28/2010,No,,,,,,No penalty
+200908459,932175,Substantiated (Instructions),,12/28/2010,No,,,,,,No penalty
 200908472,907637,Substantiated (Charges),,12/28/2010,No,,,,,,Instructions
 200908472,939148,Substantiated (Charges),,12/28/2010,No,,,,,,Instructions
 200908490,932870,Substantiated (Command Discipline),,11/28/2010,No,,,,,,Instructions
@@ -3217,23 +3217,23 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200910434,938182,Substantiated (Charges),,10/28/2011,No,,,,,,Command Discipline - B
 200910435,921359,Substantiated (Charges),,12/28/2010,No,,,,,,Command Discipline - B
 200910655,918237,Substantiated (Charges),,03/28/2010,No,,,,,,Instructions
-200910763,943509,Substantiated (Charges),,12/28/2010,No,,,,,,
+200910763,943509,Substantiated (Charges),,12/28/2010,No,,,,,,No penalty
 200910763,945197,Substantiated (Charges),,12/28/2010,No,,,,,,Command Discipline - B
 200910763,945229,Substantiated (Charges),,12/28/2010,No,,,,,,Instructions
 200910811,929799,Substantiated (Charges),,12/28/2010,No,,,,,,Command Discipline - B
-200910811,931316,Substantiated (Charges),,12/28/2010,No,,,,,,
+200910811,931316,Substantiated (Charges),,12/28/2010,No,,,,,,No penalty
 200910823,941244,Substantiated (Charges),,01/28/2011,No,,,,,,Command Discipline - A
 200910823,941806,Substantiated (Charges),,01/28/2011,No,,,,,,Command Discipline - A
 200910870,926793,Substantiated (Command Discipline),,12/28/2010,No,,,,,,Instructions
 200910870,927980,Substantiated (Command Discipline),,12/28/2010,No,,,,,,Instructions
 200910968,904979,Substantiated (Charges),,03/28/2012,No,,,,,,No penalty
 200910968,923793,Substantiated (Charges),,03/28/2012,No,,,,,,No penalty
-200911033,939839,Substantiated (Charges),,12/28/2010,No,,,,,,
-200911048,932225,Substantiated (Instructions),,12/28/2010,No,,,,,,
+200911033,939839,Substantiated (Charges),,12/28/2010,No,,,,,,No penalty
+200911048,932225,Substantiated (Instructions),,12/28/2010,No,,,,,,No penalty
 200911128,937552,Substantiated (Command Discipline),,01/28/2011,No,,,,,,Command Discipline - B
 200911243,940463,Substantiated (Command Discipline),,12/28/2010,No,,,,,,Instructions
-200911393,924451,Substantiated (Command Discipline),,01/28/2011,No,,,,,,
-200911393,927457,Substantiated (Command Discipline),,01/28/2011,No,,,,,,
+200911393,924451,Substantiated (Command Discipline),,01/28/2011,No,,,,,,No penalty
+200911393,927457,Substantiated (Command Discipline),,01/28/2011,No,,,,,,No penalty
 200911528,882881,Substantiated (Command Discipline),,01/28/2011,No,,,,,,Command Discipline - B
 200911584,936360,Substantiated (Charges),,01/28/2011,No,,,,,,Command Discipline - B
 200911614,931015,Substantiated (Charges),,11/28/2011,No,,,,,,Vacation: 8 days
@@ -3245,33 +3245,33 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200912126,916020,Substantiated (Instructions),,01/28/2011,No,,,,,,Command Discipline - B
 200912203,919899,Substantiated (Charges),,01/28/2011,No,,,,,,Instructions
 200912234,933325,Substantiated (Charges),,01/28/2011,No,,,,,,Command Discipline - B
-200912258,931439,Substantiated (Charges),,02/28/2011,No,,,,,,
+200912258,931439,Substantiated (Charges),,02/28/2011,No,,,,,,No penalty
 200912262,942227,Substantiated (Charges),,01/28/2012,No,,,,,,Vacation: 10 days
 200912272,946656,Substantiated (Charges),,01/28/2011,No,,,,,,Instructions
 200912386,947778,Substantiated (Command Discipline),,01/28/2011,No,,,,,,Instructions
 200912408,937900,Substantiated (Charges),,10/28/2011,No,,,,,,Vacation: 1 day / Command Discipline - B
 200912408,941018,Substantiated (Charges),,10/28/2011,No,,,,,,Vacation: 2 days
-200912522,928017,Substantiated (No Recommendations),,02/28/2011,No,,,,,,
+200912522,928017,Substantiated (No Recommendations),,02/28/2011,No,,,,,,No penalty
 200912543,894586,Substantiated (Charges),,02/28/2011,No,,,,,,Instructions
 200912658,926694,Substantiated (Charges),,11/28/2012,No,,,,,,Vacation: 30 days / Probation:
 200912708,938828,Substantiated (Command Discipline),,02/28/2011,No,,,,,,Instructions
 200912836,943585,Substantiated (Charges),,02/28/2011,No,,,,,,Instructions
-200912836,944424,Substantiated (Charges),,02/28/2011,No,,,,,,
-200912837,923628,Substantiated (Instructions),,02/28/2011,No,,,,,,
-200912837,937486,Substantiated (Instructions),,02/28/2011,No,,,,,,
-200912901,924537,Substantiated (Charges),,02/28/2011,No,,,,,,
+200912836,944424,Substantiated (Charges),,02/28/2011,No,,,,,,No penalty
+200912837,923628,Substantiated (Instructions),,02/28/2011,No,,,,,,No penalty
+200912837,937486,Substantiated (Instructions),,02/28/2011,No,,,,,,No penalty
+200912901,924537,Substantiated (Charges),,02/28/2011,No,,,,,,No penalty
 200912901,946662,Substantiated (Charges),,02/28/2011,No,,,,,,Command Discipline - B
 200912901,947592,Substantiated (Charges),,02/28/2011,No,,,,,,Instructions
-200912907,914412,Substantiated (Charges),,03/28/2011,No,,,,,,
-200912907,925201,Substantiated (Charges),,03/28/2011,No,,,,,,
-200912984,944754,Substantiated (Charges),,03/28/2011,No,,,,,,
+200912907,914412,Substantiated (Charges),,03/28/2011,No,,,,,,No penalty
+200912907,925201,Substantiated (Charges),,03/28/2011,No,,,,,,No penalty
+200912984,944754,Substantiated (Charges),,03/28/2011,No,,,,,,No penalty
 200913187,924571,Substantiated (Charges),,02/28/2011,No,,,,,,
 200913187,934293,Substantiated (Charges),,02/28/2011,No,,,,,,Command Discipline - B
 200913209,940534,Substantiated (Command Discipline),,02/28/2011,No,,,,,,Command Discipline - B
-200913242,892982,Substantiated (Charges),,03/28/2011,No,,,,,,
+200913242,892982,Substantiated (Charges),,03/28/2011,No,,,,,,No penalty
 200913301,894213,Substantiated (Charges),,02/28/2011,No,,,,,,Instructions
 200913333,929211,Substantiated (Charges),,01/28/2011,No,,,,,,Instructions
-200913333,938601,Substantiated (Charges),,01/28/2011,No,,,,,,
+200913333,938601,Substantiated (Charges),,01/28/2011,No,,,,,,No penalty
 200913683,927377,Substantiated (Charges),,02/28/2011,No,,,,,,Command Discipline - B
 200913776,931241,Substantiated (Charges),,01/28/2011,No,,,,,,Instructions
 200913776,940094,Substantiated (Charges),,01/28/2011,No,,,,,,Instructions
@@ -3281,7 +3281,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200913931,945229,Substantiated (Charges),,02/28/2011,No,,,,,,Instructions
 200913984,927864,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
 200913984,937741,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
-200914027,933512,Substantiated (Command Discipline),,04/28/2011,No,,,,,,
+200914027,933512,Substantiated (Command Discipline),,04/28/2011,No,,,,,,No penalty
 200914079,929699,Substantiated (Charges),,02/28/2011,No,,,,,,Instructions
 200914103,928369,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
 200914103,932940,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
@@ -3292,8 +3292,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200914197,944393,Substantiated (Command Discipline),,03/28/2011,No,,,,,,Instructions
 200914237,932543,Substantiated (Command Discipline),,03/28/2011,No,,,,,,Command Discipline - A
 200914325,939263,Substantiated (Charges),,04/28/2011,No,,,,,,Command Discipline - B
-200914325,943444,Substantiated (Charges),,04/28/2011,No,,,,,,
-200914335,944812,Substantiated (No Recommendations),,04/28/2011,No,,,,,,
+200914325,943444,Substantiated (Charges),,04/28/2011,No,,,,,,No penalty
+200914335,944812,Substantiated (No Recommendations),,04/28/2011,No,,,,,,No penalty
 200914676,920284,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
 200914743,938947,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
 200914841,935652,Substantiated (Instructions),,03/28/2011,No,,,,,,Instructions
@@ -3305,15 +3305,15 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200915588,947980,Substantiated (Charges),,04/28/2011,No,,,,,,Instructions
 200915588,947985,Substantiated (Charges),,04/28/2011,No,,,,,,Command Discipline - B
 200915730,940338,Substantiated (Charges),,04/28/2011,No,,,,,,Instructions
-200915850,902298,Substantiated (Charges),,05/28/2011,No,,,,,,
+200915850,902298,Substantiated (Charges),,05/28/2011,No,,,,,,No penalty
 200915895,943748,Substantiated (Instructions),,01/28/2011,No,,,,,,Resigned
 200915938,927059,Substantiated (Charges),,04/28/2011,No,,,,,,Instructions
-200915956,897116,Substantiated (Charges),,04/28/2011,No,,,,,,
+200915956,897116,Substantiated (Charges),,04/28/2011,No,,,,,,No penalty
 200915956,897173,Substantiated (Charges),,04/28/2011,No,,,,,,Command Discipline - B
 200915956,942165,Substantiated (Charges),,01/28/2013,No,,,,,,Vacation: 30 days
 200915966,926015,Substantiated (Charges),,03/28/2011,No,,,,,,
 200916010,933022,Substantiated (Charges),,04/28/2011,No,,,,,,Instructions
-200916098,940188,Substantiated (Charges),,05/28/2011,No,,,,,,
+200916098,940188,Substantiated (Charges),,05/28/2011,No,,,,,,No penalty
 200916126,946789,Substantiated (Command Discipline),,04/28/2011,No,,,,,,Instructions
 200916126,947785,Substantiated (Command Discipline),,04/28/2011,No,,,,,,Instructions
 200916205,943567,Substantiated (Charges),,04/28/2011,No,,,,,,Instructions
@@ -3325,7 +3325,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200916472,939842,Substantiated (Command Discipline),,04/28/2011,No,,,,,,Command Discipline - B
 200916523,945144,Substantiated (Charges),,03/28/2011,No,,,,,,Command Discipline - B
 200916563,939299,Substantiated (Charges),,04/28/2011,No,,,,,,Instructions
-200916856,934404,Substantiated (Charges),,05/28/2011,No,,,,,,
+200916856,934404,Substantiated (Charges),,05/28/2011,No,,,,,,No penalty
 200917059,946019,Substantiated (Command Discipline),,04/28/2011,No,,,,,,Instructions
 200917093,906713,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
 200917093,916345,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
@@ -3336,12 +3336,12 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200917472,946119,Substantiated (Charges),,05/28/2011,No,,,,,,No penalty
 200917537,928345,Substantiated (Charges),,01/28/2012,No,,,,,,Vacation: 2 days
 200917674,934606,Substantiated (Charges),,01/28/2011,No,,,,,,Instructions
-200917930,937999,Substantiated (Charges),,05/28/2011,No,,,,,,
+200917930,937999,Substantiated (Charges),,05/28/2011,No,,,,,,No penalty
 200917930,938662,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
 200918099,931108,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
 200918208,916982,Substantiated (Command Discipline),,05/28/2011,No,,,,,,Instructions
 200918246,927098,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
-200918246,939263,Substantiated (Charges),,05/28/2011,No,,,,,,
+200918246,939263,Substantiated (Charges),,05/28/2011,No,,,,,,No penalty
 200918631,947246,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
 200918657,938337,Substantiated (Command Discipline),,05/28/2011,No,,,,,,No penalty
 200918758,899928,Substantiated (Charges),,06/28/2011,No,,,,,,Command Discipline - B
@@ -3362,12 +3362,12 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200919798,917749,Substantiated (Command Discipline),,02/28/2013,No,,,,,,Vacation: 5 days
 201000200,911249,Substantiated (Charges),,06/28/2011,No,,,,,,Instructions
 201000200,926505,Substantiated (Charges),,06/28/2011,No,,,,,,Instructions
-201000245,901000,Substantiated (Charges),,07/28/2011,No,,,,,,
+201000245,901000,Substantiated (Charges),,07/28/2011,No,,,,,,No penalty
 201000285,927666,Substantiated (Charges),,05/28/2011,No,,,,,,Command Discipline - B
-201000312,941163,Substantiated (Charges),,06/28/2011,No,,,,,,
+201000312,941163,Substantiated (Charges),,06/28/2011,No,,,,,,No penalty
 201000312,942180,Substantiated (Charges),,06/28/2011,No,,,,,,Instructions
-201000408,946681,Substantiated (Charges),,06/28/2011,No,,,,,,
-201000408,947369,Substantiated (Charges),,06/28/2011,No,,,,,,
+201000408,946681,Substantiated (Charges),,06/28/2011,No,,,,,,No penalty
+201000408,947369,Substantiated (Charges),,06/28/2011,No,,,,,,No penalty
 201000416,942706,Substantiated (Command Discipline),,06/28/2011,No,,,,,,Instructions
 201000595,930943,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201000702,944289,Substantiated (Instructions),,07/28/2011,No,,,,,,Command Discipline - B
@@ -3379,17 +3379,17 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201000960,901755,Substantiated (Instructions),,07/28/2011,No,,,,,,Instructions
 201001345,928934,Substantiated (Charges),,07/28/2011,No,,,,,,Command Discipline - B
 201001405,929087,Substantiated (Command Discipline),,07/28/2011,No,,,,,,Instructions
-201001405,942760,Substantiated (Command Discipline),,07/28/2011,No,,,,,,
+201001405,942760,Substantiated (Command Discipline),,07/28/2011,No,,,,,,No penalty
 201001407,937101,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201001407,940050,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201001417,925310,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201001417,930185,Substantiated (Charges),,07/28/2011,No,,,,,,Command Discipline - B
 201001417,933921,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201001485,929108,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
-201001485,944133,Substantiated (Charges),,07/28/2011,No,,,,,,
-201001607,934833,Substantiated (Command Discipline),,06/28/2011,No,,,,,,
-201001607,935723,Substantiated (Command Discipline),,06/28/2011,No,,,,,,
-201001623,937235,Substantiated (Charges),,07/28/2011,No,,,,,,
+201001485,944133,Substantiated (Charges),,07/28/2011,No,,,,,,No penalty
+201001607,934833,Substantiated (Command Discipline),,06/28/2011,No,,,,,,No penalty
+201001607,935723,Substantiated (Command Discipline),,06/28/2011,No,,,,,,No penalty
+201001623,937235,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201001623,938343,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201001696,933607,Substantiated (Charges),,06/28/2011,No,,,,,,Command Discipline - B
 201001696,941148,Substantiated (Charges),,06/28/2011,No,,,,,,Command Discipline - B
@@ -3400,11 +3400,11 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201001911,939363,Substantiated (Charges),,08/28/2011,No,,,,,,Instructions
 201001911,941481,Substantiated (Charges),,08/28/2011,No,,,,,,Instructions
 201001995,901615,Substantiated (Charges),,07/28/2011,No,,,,,,Command Discipline - B
-201002110,929087,Substantiated (No Recommendations),,08/28/2011,No,,,,,,
+201002110,929087,Substantiated (No Recommendations),,08/28/2011,No,,,,,,No penalty
 201002346,935713,Substantiated (Charges),,08/28/2011,No,,,,,,Command Discipline - B
 201002346,937572,Substantiated (Charges),,08/28/2011,No,,,,,,Command Discipline - B
-201002346,941416,Substantiated (Charges),,08/28/2011,No,,,,,,
-201002626,932645,Substantiated (Charges),,07/28/2011,No,,,,,,
+201002346,941416,Substantiated (Charges),,08/28/2011,No,,,,,,No penalty
+201002626,932645,Substantiated (Charges),,07/28/2011,No,,,,,,No penalty
 201002667,947489,Substantiated (Charges),,07/28/2011,No,,,,,,Instructions
 201002696,925662,Substantiated (Charges),,08/28/2011,No,,,,,,Command Discipline - B
 201002696,944331,Substantiated (Charges),,08/28/2011,No,,,,,,Command Discipline - B
@@ -3412,16 +3412,16 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201002757,919848,Substantiated (Charges),,08/28/2011,No,,,,,,Instructions
 201002757,930601,Substantiated (Charges),,08/28/2011,No,,,,,,Instructions
 201002757,932593,Substantiated (Charges),,08/28/2011,No,,,,,,Instructions
-201002939,940388,Substantiated (Command Discipline),,08/28/2011,No,,,,,,
-201002939,941137,Substantiated (Command Discipline),,08/28/2011,No,,,,,,
-201002999,925131,Substantiated (Charges),,09/28/2011,No,,,,,,
+201002939,940388,Substantiated (Command Discipline),,08/28/2011,No,,,,,,No penalty
+201002939,941137,Substantiated (Command Discipline),,08/28/2011,No,,,,,,No penalty
+201002999,925131,Substantiated (Charges),,09/28/2011,No,,,,,,No penalty
 201002999,930943,Substantiated (Charges),,09/28/2011,No,,,,,,Instructions
-201002999,932511,Substantiated (Charges),,09/28/2011,No,,,,,,
+201002999,932511,Substantiated (Charges),,09/28/2011,No,,,,,,No penalty
 201003003,946917,Substantiated (Charges),,09/28/2011,No,,,,,,Instructions
 201003201,938863,Substantiated (Charges),,09/28/2011,No,,,,,,Instructions
 201003201,947701,Substantiated (Charges),,09/28/2011,No,,,,,,Command Discipline - B
 201003242,897425,Substantiated (Command Discipline),,06/28/2010,No,,,,,,Instructions
-201003271,924643,Substantiated (Charges),,08/28/2011,No,,,,,,
+201003271,924643,Substantiated (Charges),,08/28/2011,No,,,,,,No penalty
 201003744,945762,Substantiated (Charges),,02/28/2015,No,,,,,,
 201003780,929243,Substantiated (Charges),,09/28/2011,No,,,,,,Instructions
 201003866,932475,Substantiated (Charges),,09/28/2011,No,,,,,,Instructions
@@ -3460,20 +3460,20 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201007012,946953,Substantiated (Command Discipline),,10/28/2011,No,,,,,,Instructions
 201007038,938161,Substantiated (Instructions),,11/28/2011,No,,,,,,Instructions
 201007137,924845,Substantiated (Charges),,11/28/2011,No,,,,,,Instructions
-201007137,934591,Substantiated (Charges),,11/28/2011,No,,,,,,
+201007137,934591,Substantiated (Charges),,11/28/2011,No,,,,,,Instructions
 201007140,942190,Substantiated (Charges),,11/28/2011,No,,,,,,Command Discipline - B
 201007170,906620,Substantiated (Charges),,05/28/2011,No,,,,,,Instructions
 201007219,939510,Substantiated (Charges),,05/28/2013,No,,,,,,Command Discipline - B
 201007219,940791,Substantiated (Charges),,11/28/2011,No,,,,,,Command Discipline - B
 201007271,938614,Substantiated (No Recommendations),,11/28/2011,No,,,,,,Command Discipline - B
-201007681,928322,Substantiated (Charges),,12/28/2011,No,,,,,,
+201007681,928322,Substantiated (Charges),,12/28/2011,No,,,,,,No penalty
 201007681,938817,Substantiated (Charges),,12/28/2011,No,,,,,,Instructions
 201007750,931824,Substantiated (Charges),,12/28/2011,No,,,,,,Instructions
 201007764,914202,Substantiated (Charges),,12/28/2011,No,,,,,,Command Discipline - B
 201007764,921915,Substantiated (Charges),,12/28/2011,No,,,,,,Command Discipline - B
 201007862,919899,Substantiated (Charges),,12/28/2011,No,,,,,,Command Discipline - B
 201007956,920969,Substantiated (Command Discipline),,12/28/2011,No,,,,,,Instructions
-201007956,929258,Substantiated (Command Discipline),,12/28/2011,No,,,,,,
+201007956,929258,Substantiated (Command Discipline),,12/28/2011,No,,,,,,No penalty
 201008109,939868,Substantiated (Instructions),,12/28/2011,No,,,,,,Instructions
 201008561,906434,Substantiated (Charges),,12/28/2011,No,,,,,,Instructions
 201008561,938017,Substantiated (Charges),,12/28/2011,No,,,,,,Instructions
@@ -3481,7 +3481,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201008648,919712,Substantiated (Charges),,12/28/2011,No,,,,,,Command Discipline - B
 201008878,939173,Substantiated (Charges),,12/28/2011,No,,,,,,Command Discipline - B
 201009008,922334,Substantiated (Charges),,12/28/2011,No,,,,,,Command Discipline - B
-201009029,946278,Substantiated (Charges),,12/28/2011,No,,,,,,
+201009029,946278,Substantiated (Charges),,12/28/2011,No,,,,,,No penalty
 201009081,948355,Substantiated (Instructions),,12/28/2011,No,,,,,,Instructions
 201009477,924993,Substantiated (Command Discipline),,01/28/2012,No,,,,,,Instructions
 201009516,938179,Substantiated (Instructions),,01/28/2012,No,,,,,,Instructions
@@ -3507,8 +3507,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201010902,924817,Substantiated (Charges),,01/28/2013,No,,,,,,Vacation: 35 days
 201010966,933594,Substantiated (Charges),,02/28/2012,No,,,,,,Instructions
 201010966,936360,Substantiated (Charges),,02/28/2013,No,,,,,,Vacation: 45 days / Probation:
-201010981,917738,Substantiated (Charges),,01/28/2012,No,,,,,,
-201011093,916406,Substantiated (Charges),,01/28/2012,No,,,,,,
+201010981,917738,Substantiated (Charges),,01/28/2012,No,,,,,,No penalty
+201011093,916406,Substantiated (Charges),,01/28/2012,No,,,,,,Instructions
 201011187,931343,Substantiated (Command Discipline),,12/28/2011,No,,,,,,Instructions
 201011187,934977,Substantiated (Command Discipline),,12/28/2011,No,,,,,,Instructions
 201011266,948001,Substantiated (Command Discipline),,01/28/2012,No,,,,,,Instructions
@@ -3533,51 +3533,51 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201012712,923516,Substantiated (Charges),,02/28/2012,No,,,,,,Instructions
 201012765,941873,Substantiated (Charges),,02/28/2012,No,,,,,,Instructions
 201012888,940975,Substantiated (Charges),,05/28/2012,No,,,,,,
-201012950,928137,Substantiated (Charges),,03/28/2012,No,,,,,,
+201012950,928137,Substantiated (Charges),,03/28/2012,No,,,,,,No penalty
 201013035,944665,Substantiated (Charges),,03/28/2012,No,,,,,,Instructions
 201013036,928609,Substantiated (Charges),,03/28/2012,No,,,,,,Instructions
 201013036,937792,Substantiated (Charges),,05/28/2013,No,,,,,,Vacation: 10 days
-201013122,917294,Substantiated (Charges),,03/28/2012,No,,,,,,
+201013122,917294,Substantiated (Charges),,03/28/2012,No,,,,,,No penalty
 201013257,930120,Substantiated (Command Discipline),,03/28/2012,No,,,,,,Instructions
 201013421,928092,Substantiated (Charges),,03/28/2012,No,,,,,,Instructions
 201013502,947669,Substantiated (Charges),,02/28/2012,No,,,,,,Instructions
 201013502,947905,Substantiated (Charges),,02/28/2012,No,,,,,,Instructions
-201013566,940117,Substantiated (Charges),,04/28/2012,No,,,,,,
-201013631,931010,Substantiated (Charges),,04/28/2012,No,,,,,,
-201013631,934345,Substantiated (Charges),,04/28/2012,No,,,,,,
+201013566,940117,Substantiated (Charges),,04/28/2012,No,,,,,,No penalty
+201013631,931010,Substantiated (Charges),,04/28/2012,No,,,,,,No penalty
+201013631,934345,Substantiated (Charges),,04/28/2012,No,,,,,,No penalty
 201013767,936537,Substantiated (Command Discipline),,03/28/2012,No,,,,,,Instructions
-201013820,898556,Substantiated (Command Discipline),,04/28/2012,No,,,,,,
-201013820,905871,Substantiated (Command Discipline),,04/28/2012,No,,,,,,
+201013820,898556,Substantiated (Command Discipline),,04/28/2012,No,,,,,,Instructions
+201013820,905871,Substantiated (Command Discipline),,04/28/2012,No,,,,,,Instructions
 201013820,929254,Substantiated (Command Discipline),,04/28/2012,No,,,,,,Command Discipline - B
 201013835,926004,Substantiated (Charges),,04/28/2012,No,,,,,,Command Discipline - B
 201013906,919815,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
 201013918,937764,Substantiated (No Recommendations),,04/28/2012,No,,,,,,Command Discipline - B
 201013994,945511,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
-201013994,948175,Substantiated (Charges),,04/28/2012,No,,,,,,
+201013994,948175,Substantiated (Charges),,04/28/2012,No,,,,,,No penalty
 201013997,920007,Substantiated (Charges),,11/28/2011,No,,,,,,Instructions
 201013997,937101,Substantiated (Charges),,08/28/2011,No,,,,,,Instructions
-201014101,939841,Substantiated (Charges),,04/28/2012,No,,,,,,
+201014101,939841,Substantiated (Charges),,04/28/2012,No,,,,,,No penalty
 201014270,940155,Substantiated (Command Discipline),,04/28/2012,No,,,,,,Instructions
 201014270,941200,Substantiated (Command Discipline),,04/28/2012,No,,,,,,Command Discipline - B
-201014287,946704,Substantiated (Charges),,04/28/2012,No,,,,,,
+201014287,946704,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
 201014287,946999,Substantiated (Charges),,04/28/2012,No,,,,,,Command Discipline - B
 201014287,947633,Substantiated (Charges),,04/28/2012,No,,,,,,Command Discipline - B
 201014332,921270,Substantiated (Charges),,04/28/2012,No,,,,,,Command Discipline - B
 201014370,931015,Substantiated (Command Discipline),,04/28/2012,No,,,,,,Command Discipline - B
-201014490,941471,Substantiated (Charges),,04/28/2012,No,,,,,,
+201014490,941471,Substantiated (Charges),,04/28/2012,No,,,,,,No penalty
 201014544,934550,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
-201014720,918772,Substantiated (Instructions),,04/28/2012,No,,,,,,
+201014720,918772,Substantiated (Instructions),,04/28/2012,No,,,,,,No penalty
 201015083,911794,Substantiated (Charges),,11/28/2013,No,,,,,,Suspension: 40 days
-201015205,921596,Substantiated (Charges),,04/28/2012,No,,,,,,
+201015205,921596,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
 201015277,915804,Substantiated (Charges),,04/28/2012,No,,,,,,Command Discipline - B
 201015352,916385,Substantiated (Charges),,05/28/2012,No,,,,,,Command Discipline - B
 201015443,900233,Substantiated (Command Discipline),,05/28/2012,No,,,,,,Command Discipline - B
-201015506,918006,Substantiated (Charges),,05/28/2012,No,,,,,,
+201015506,918006,Substantiated (Charges),,05/28/2012,No,,,,,,Command Discipline - B
 201015610,944724,Substantiated (Command Discipline),,05/28/2012,No,,,,,,Instructions
 201015749,918730,Substantiated (Charges),,03/28/2014,No,,,,,,Instructions
 201015863,931802,Substantiated (Charges),,01/28/2013,No,,,,,,Vacation: 30 days
 201015877,944463,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
-201015877,944543,Substantiated (Charges),,05/28/2012,No,,,,,,
+201015877,944543,Substantiated (Charges),,05/28/2012,No,,,,,,No penalty
 201015904,944685,Substantiated (Instructions),,05/28/2012,No,,,,,,Instructions
 201016064,941905,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201016064,942285,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
@@ -3585,18 +3585,18 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201016116,934012,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201016174,945260,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201016180,930121,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
-201016221,943923,Substantiated (Command Discipline),,05/28/2012,No,,,,,,
-201016221,948191,Substantiated (Command Discipline),,05/28/2012,No,,,,,,
-201016311,927655,Substantiated (Command Discipline),,04/28/2012,No,,,,,,
+201016221,943923,Substantiated (Command Discipline),,05/28/2012,No,,,,,,Instructions
+201016221,948191,Substantiated (Command Discipline),,05/28/2012,No,,,,,,Instructions
+201016311,927655,Substantiated (Command Discipline),,04/28/2012,No,,,,,,No penalty
 201016396,939240,Substantiated (Charges),,07/28/2014,No,,,,,,Suspension: 32 days / Vacation: 20 days
 201016728,941926,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
 201016728,944132,Substantiated (Charges),,04/28/2012,No,,,,,,Instructions
 201016735,927427,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201016735,945984,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201016910,920257,Substantiated (Charges),,06/28/2012,No,,,,,,Instructions
-201017094,918740,Substantiated (Charges),,06/28/2012,No,,,,,,
-201017094,933270,Substantiated (Charges),,06/28/2012,No,,,,,,
-201017220,937575,Substantiated (Charges),,06/28/2012,No,,,,,,
+201017094,918740,Substantiated (Charges),,06/28/2012,No,,,,,,No penalty
+201017094,933270,Substantiated (Charges),,06/28/2012,No,,,,,,No penalty
+201017220,937575,Substantiated (Charges),,06/28/2012,No,,,,,,No penalty
 201017328,947762,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201017343,906678,Substantiated (Charges),,05/28/2012,No,,,,,,Instructions
 201017393,939125,Substantiated (Charges),,06/28/2012,No,,,,,,Instructions
@@ -3647,7 +3647,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201102161,936968,Substantiated (Command Discipline),,08/28/2012,No,,,,,,Instructions
 201102161,940338,Substantiated (Command Discipline),,08/28/2012,No,,,,,,Vacation: 3 days
 201102302,906761,Substantiated (Command Discipline),,08/28/2012,No,,,,,,No penalty
-201102302,938774,Substantiated (Command Discipline),,08/28/2012,No,,,,,,
+201102302,938774,Substantiated (Command Discipline),,08/28/2012,No,,,,,,No penalty
 201102375,903854,Substantiated (Command Discipline),,09/28/2012,No,,,,,,No penalty
 201102375,922404,Substantiated (Command Discipline),,09/28/2012,No,,,,,,No penalty
 201102448,949240,Substantiated (Charges),,08/28/2012,No,,,,,,No penalty
@@ -3700,7 +3700,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201104149,940723,Substantiated (Charges),,09/28/2012,No,,,,,,Instructions
 201104278,947807,Substantiated (Charges),,09/28/2012,No,,,,,,No penalty
 201104299,920813,Substantiated (Charges),,09/28/2012,No,,,,,,No penalty
-201104299,925243,Substantiated (Charges),,09/28/2012,No,,,,,,
+201104299,925243,Substantiated (Charges),,09/28/2012,No,,,,,,No penalty
 201104417,930576,Substantiated (Charges),,10/28/2012,No,,,,,,No penalty
 201104417,945604,Substantiated (Charges),,10/28/2012,No,,,,,,No penalty
 201104522,949704,Substantiated (Charges),,10/28/2012,No,,,,,,Command Discipline - B
@@ -4037,7 +4037,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201201095,943816,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,Forfeit vacation 5 days,,Closed: Guilty after trial,02/09/2015,Forfeit vacation 3 days
 201201240,922935,Substantiated (Command Discipline),,06/28/2013,No,,,,,,Command Discipline - B
 201201306,901423,Substantiated (Charges),,,Yes,Forfeit vacation 10 days,Forfeit vacation 5 days,,Closed: Guilty after trial,01/23/2015,Forfeit vacation 5 days
-201201331,933111,Substantiated (Instructions),,05/28/2013,No,,,,,,
+201201331,933111,Substantiated (Instructions),,05/28/2013,No,,,,,,No penalty
 201201331,943807,Substantiated (Instructions),,05/28/2013,No,,,,,,No penalty
 201201341,943106,Substantiated (Charges),,,Yes,,,Instructions,"Closed: Plea set aside, Formalized Training",04/14/2016,Formalized Training
 201201436,941280,Substantiated (Command Discipline),,06/28/2013,No,,,,,,Command Discipline - B
@@ -4087,7 +4087,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201202811,930564,Substantiated (Charges),,,Yes,,,Forfeit vacation 7 days,"Closed: Plea set aside, Comm. Disc. B",08/26/2014,Command Discipline B
 201202811,933137,Substantiated (Charges),,,Yes,,,Forfeit vacation 7 days,"Closed: Plea set aside, Comm. Disc. B",08/26/2014,Forfeit vacation 3 days / Command Discipline B
 201202811,934354,Substantiated (Charges),,,Yes,,,Forfeit vacation 7 days,"Closed: Plea set aside, Comm. Disc. B",08/26/2014,Command Discipline B
-201202858,914462,Substantiated (Charges),,07/28/2013,No,,,,,,
+201202858,914462,Substantiated (Charges),,07/28/2013,No,,,,,,No penalty
 201202858,931458,Substantiated (Charges),,07/28/2013,No,,,,,,Command Discipline - B
 201202863,938538,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,,,Closed: Not guilty after trial,06/17/2015,
 201202863,944944,Substantiated (Charges),,,Yes,Forfeit vacation 10 days,Reprimand,,Closed: Guilty after trial,06/17/2015,Formalized Training / Reprimand
@@ -4379,7 +4379,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201300702,930421,Substantiated (Command Discipline),,10/28/2013,No,,,,,,No penalty
 201300739,949199,Substantiated (Charges),,,Yes,,,Reprimand,"Closed: Plea set aside, Formalized Training",07/29/2016,Formalized Training
 201300854,907118,Substantiated (Charges),,,Yes,,,Instructions,"Closed: Plea set aside, Comm. Disc. A",04/15/2016,Command Discipline A
-201300926,935599,Substantiated (Command Discipline),,08/28/2014,No,,,,,,
+201300926,935599,Substantiated (Command Discipline),,08/28/2014,No,,,,,,Command Discipline - B
 201300926,941148,Substantiated (Command Discipline),,08/28/2014,No,,,,,,Command Discipline - B
 201301007,946459,Substantiated (Instructions),,07/28/2014,No,,,,,,No penalty
 201301007,947157,Substantiated (Instructions),,07/28/2014,No,,,,,,No penalty
@@ -4425,7 +4425,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201302407,951148,Substantiated (Command Discipline),,08/28/2014,No,,,,,,Command Discipline - A
 201302407,952255,Substantiated (Command Discipline),,08/28/2014,No,,,,,,Command Discipline - A
 201302410,939844,Substantiated (Charges),,,Yes,,,Instructions,"Closed: Plea set aside, Formalized Training",04/14/2016,Formalized Training
-201302430,953440,Substantiated (Command Discipline),,02/28/2014,No,,,,,,
+201302430,953440,Substantiated (Command Discipline),,02/28/2014,No,,,,,,Command Discipline - A
 201302532,951232,Substantiated (Command Discipline),,05/28/2014,No,,,,,,Instructions
 201302641,950440,Substantiated (Instructions),,07/28/2014,No,,,,,,Instructions
 201302680,923384,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,Forfeit vacation 3 days,,Closed: Guilty after trial,06/22/2015,Forfeit vacation 3 days
@@ -4528,13 +4528,13 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201305421,930695,Substantiated (Command Discipline),,12/28/2014,No,,,,,,Instructions
 201305421,942705,Substantiated (Command Discipline),,12/28/2014,No,,,,,,Instructions
 201305427,932592,Substantiated (Charges),,,Yes,Forfeit vacation 5 days,,,Closed: Not guilty after trial,01/07/2016,
-201305448,921402,Substantiated (Command Discipline),,12/28/2014,No,,,,,,
+201305448,921402,Substantiated (Command Discipline),,12/28/2014,No,,,,,,Command Discipline - A
 201305448,926032,Substantiated (Command Discipline),,12/28/2014,No,,,,,,Command Discipline - B
 201305459,939435,Substantiated (Instructions),,12/28/2014,No,,,,,,Instructions
 201305469,921949,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 5 days,,Closed: Guilty after trial,09/23/2015,Forfeit vacation 5 days
 201305544,930170,Substantiated (Instructions),,10/28/2014,No,,,,,,Command Discipline - B
 201305607,930127,Substantiated (Formalized Training),,12/28/2014,No,,,,,,Formalized Training
-201305607,933211,Substantiated (Formalized Training),,12/28/2014,No,,,,,,
+201305607,933211,Substantiated (Formalized Training),,12/28/2014,No,,,,,,Formalized Training
 201305607,936561,Substantiated (Formalized Training),,12/28/2014,No,,,,,,Formalized Training
 201305628,933359,Substantiated (Charges),,,Yes,,,Forfeit vacation 6 days,Closed: Resolved by plea,01/07/2016,Forfeit vacation 6 days
 201305640,935991,Substantiated (Command Discipline),,11/28/2014,No,,,,,,Command Discipline - A
@@ -4563,7 +4563,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201306200,927674,Substantiated (Charges),,,Yes,,,Instructions,"Closed: Plea set aside, Formalized Training",04/14/2016,Formalized Training
 201306200,937408,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,Forfeit vacation 10 days,,Closed: Guilty after trial,03/11/2016,Forfeit vacation 10 days
 201306235,935733,Substantiated (Charges),,,Yes,Forfeit vacation 10 days,,,Closed: Not guilty after trial,09/21/2015,
-201306407,916512,Substantiated (Command Discipline),,12/28/2014,No,,,,,,
+201306407,916512,Substantiated (Command Discipline),,12/28/2014,No,,,,,,No penalty
 201306539,948997,Substantiated (Charges),,,Yes,Forfeit vacation 5 days,,,Closed: Not guilty after trial,07/28/2016,
 201306539,949007,Substantiated (Charges),,,Yes,Forfeit vacation 10 days,,,Closed: Not guilty after trial,07/28/2016,
 201306708,940092,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 15 days,,Closed: Guilty after trial,02/04/2016,Forfeit vacation 15 days
@@ -4576,15 +4576,15 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201307133,949822,Substantiated (Instructions),,12/28/2014,No,,,,,,Instructions
 201307168,927291,Substantiated (Charges),,,Yes,,,Forfeit vacation 5 days,Closed: Resolved by plea,05/23/2016,Forfeit vacation 5 days
 201307172,950021,Substantiated (Command Discipline),,01/28/2015,No,,,,,,Command Discipline - A
-201307203,953492,Substantiated (Command Discipline),,01/28/2015,No,,,,,,
+201307203,953492,Substantiated (Command Discipline),,01/28/2015,No,,,,,,No penalty
 201307224,907213,Substantiated (Charges),,,Yes,Forfeit vacation 7 days,Forfeit vacation 7 days,,Closed: Guilty after trial,05/27/2016,Forfeit vacation 7 days
 201307224,936227,Substantiated (Charges),,,Yes,Forfeit vacation 7 days,Forfeit vacation 7 days,,Closed: Guilty after trial,05/27/2016,Forfeit vacation 7 days
 201307224,940331,Substantiated (Charges),,,Yes,Forfeit vacation 7 days,Forfeit vacation 1 days,,Closed: Guilty after trial,05/27/2016,Forfeit vacation 1 days
 201307266,906146,Substantiated (Charges),,,Yes,Dismissal Probation,Forfeit vacation 15 days,,Closed: Guilty after trial,02/16/2016,Forfeit vacation 15 days
-201307307,938238,Substantiated (Instructions),,02/28/2015,No,,,,,,
+201307307,938238,Substantiated (Instructions),,02/28/2015,No,,,,,,No penalty
 201307349,938868,Substantiated (Formalized Training),,01/28/2015,No,,,,,,Formalized Training
 201307368,934381,Substantiated (Command Discipline),,11/28/2014,No,,,,,,Command Discipline - B
-201307407,951877,Substantiated (Command Discipline),,02/28/2015,No,,,,,,
+201307407,951877,Substantiated (Command Discipline),,02/28/2015,No,,,,,,No penalty
 201307413,936162,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 7 days,,Closed: Guilty after trial,02/22/2016,Forfeit vacation 7 days
 201307413,947466,Substantiated (Command Discipline),,02/28/2015,No,,,,,,Instructions
 201307434,901207,Substantiated (Instructions),,08/28/2014,No,,,,,,Instructions
@@ -4649,7 +4649,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201309131,932291,Substantiated (Charges),,,Yes,Forfeit vacation 5 days,,,Closed: Not guilty after trial,06/27/2016,
 201309144,899633,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,,,Closed: Not guilty after trial,01/07/2016,Instructions
 201309144,920093,Substantiated (Instructions),,03/28/2015,No,,,,,,Instructions
-201309144,939173,Substantiated (Instructions),,03/28/2015,No,,,,,,
+201309144,939173,Substantiated (Instructions),,03/28/2015,No,,,,,,Instructions
 201309144,941456,Substantiated (Instructions),,03/28/2015,No,,,,,,Instructions
 201309152,948806,Substantiated (Formalized Training),,03/28/2015,No,,,,,,Command Discipline - A / Instructions
 201309187,948608,Substantiated (Charges),,,Yes,,,Forfeit vacation 8 days,Closed: Resolved by plea,07/27/2016,Forfeit vacation 8 days
@@ -4661,7 +4661,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201309400,946207,Substantiated (Command Discipline),,04/28/2015,No,,,,,,Command Discipline - B
 201309427,935328,Substantiated (Formalized Training),,04/28/2015,No,,,,,,Formalized Training
 201309427,944399,Substantiated (Formalized Training),,04/28/2015,No,,,,,,Formalized Training
-201309523,920865,Substantiated (Instructions),,04/28/2015,No,,,,,,
+201309523,920865,Substantiated (Instructions),,04/28/2015,No,,,,,,No penalty
 201309598,935926,Substantiated (Command Discipline),,,No,,,,,,
 201309598,947552,Substantiated (Command Discipline),,09/28/2014,No,,,,,,No penalty
 201309660,919057,Substantiated (Command Discipline),,04/28/2015,No,,,,,,Command Discipline - A
@@ -4669,7 +4669,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201309714,898114,Substantiated (Formalized Training),,04/28/2015,No,,,,,,Command Level Instructions
 201309714,952806,Substantiated (Command Discipline),,,No,,,,,,
 201309796,915404,Substantiated (Charges),,,Yes,,,Forfeit vacation 8 days,Closed: Resolved by plea,09/08/2015,Forfeit vacation 8 days
-201309919,911453,Substantiated (Command Discipline),,04/28/2015,No,,,,,,
+201309919,911453,Substantiated (Command Discipline),,04/28/2015,No,,,,,,No penalty
 201309936,946871,Substantiated (Command Discipline),,04/28/2015,No,,,,,,Formalized Training
 201310051,919140,Substantiated (Formalized Training),,04/28/2015,No,,,,,,Formalized Training
 201310095,953018,Substantiated (Instructions),,05/28/2015,No,,,,,,Instructions
@@ -4677,7 +4677,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201310099,940088,Substantiated (Charges),,,Yes,,,Forfeit vacation 5 days,Closed: Resolved by plea,04/15/2016,Forfeit vacation 5 days
 201310099,942611,Substantiated (Command Discipline B),,05/28/2015,No,,,,,,Command Discipline - A
 201310161,944098,Substantiated (Charges),,,Yes,Reprimand,,,Closed: Not guilty after trial,07/28/2016,
-201310183,924326,Substantiated (Command Discipline),,12/28/2014,No,,,,,,
+201310183,924326,Substantiated (Command Discipline),,12/28/2014,No,,,,,,No penalty
 201310200,898238,Substantiated (Instructions),,07/28/2014,No,,,,,,Instructions
 201310229,926798,Substantiated (Instructions),,04/28/2015,No,,,,,,Formalized Training
 201310229,953845,Substantiated (Instructions),,04/28/2015,No,,,,,,Formalized Training
@@ -4705,7 +4705,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201310465,952610,Substantiated (Charges),,,Yes,,,Forfeit vacation 10 days,Closed: Resolved by plea,04/15/2016,Forfeit vacation 5 days
 201310476,923891,Substantiated (Charges),,,Yes,Forfeit vacation 20 days,,,Closed: Not guilty after trial,10/14/2016,
 201310485,938420,Substantiated (Charges),,,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,10/14/2016,Forfeit vacation 3 days
-201310494,906146,Substantiated (Command Discipline),,05/28/2015,No,,,,,,
+201310494,906146,Substantiated (Command Discipline),,05/28/2015,No,,,,,,Command Discipline - B
 201310514,944336,Substantiated (Instructions),,03/28/2015,No,,,,,,Formalized Training
 201310547,939039,Substantiated (Charges),,,Yes,Dismissal Probation,Forfeit vacation 25 days,,Closed: Guilty after trial,07/28/2016,Forfeit vacation 25 days
 201310593,950716,Substantiated (Charges),,,Yes,,,Forfeit vacation 6 days,Closed: Resolved by plea,05/25/2016,Forfeit vacation 6 days
@@ -4713,10 +4713,10 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201310632,920660,Substantiated (Instructions),,05/28/2015,No,,,,,,Instructions
 201310644,924039,Substantiated (Charges),,,Yes,Forfeit vacation 30 days,,,Closed: Not guilty after trial,04/15/2016,
 201310644,934070,Substantiated (Charges),,,Yes,Forfeit vacation 30 days,Forfeit vacation 3 days,,Closed: Guilty after trial,04/15/2016,Forfeit vacation 3 days
-201310677,938852,Substantiated (Formalized Training),,05/28/2015,No,,,,,,
+201310677,938852,Substantiated (Formalized Training),,05/28/2015,No,,,,,,No penalty
 201310677,939204,Substantiated (Formalized Training),,05/28/2015,No,,,,,,Command Discipline - A
 201310799,925375,Substantiated (Command Discipline),,05/28/2015,No,,,,,,
-201310805,953436,Substantiated (Command Discipline),,05/28/2015,No,,,,,,
+201310805,953436,Substantiated (Command Discipline),,05/28/2015,No,,,,,,No penalty
 201310827,948723,Substantiated (Instructions),,06/28/2015,No,,,,,,Formalized Training
 201310891,948608,Substantiated (Command Discipline B),,05/28/2015,No,,,,,,Instructions
 201310891,950994,Substantiated (Formalized Training),,05/28/2015,No,,,,,,Instructions
@@ -4752,7 +4752,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201311584,939039,Substantiated (Charges),,,Yes,Dismissal Probation,,,Closed: Not guilty after trial,07/28/2016,
 201311584,941907,Substantiated (Charges),,,Yes,,,Forfeit vacation 10 days,Closed: Resolved by plea,06/21/2016,Forfeit vacation 10 days
 201311594,944909,Substantiated (Command Discipline),,06/28/2015,No,,,,,,Command Discipline - A
-201311595,916347,Substantiated (Instructions),,06/28/2015,No,,,,,,
+201311595,916347,Substantiated (Instructions),,06/28/2015,No,,,,,,No penalty
 201311645,914501,Substantiated (Command Discipline),,,No,,,,,,
 201311645,942286,Substantiated (Formalized Training),,06/28/2015,No,,,,,,Formalized Training
 201311701,947033,Substantiated (Charges),,,Yes,Forfeit vacation 8 days,Forfeit vacation 3 days,,Closed: Guilty after trial,04/07/2016,Forfeit vacation 3 days
@@ -4834,7 +4834,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201401347,921204,Substantiated (Command Discipline A),,07/28/2015,No,,,,,,Instructions
 201401347,933977,Substantiated (Formalized Training),,07/28/2015,No,,,,,,Instructions
 201401361,917341,Substantiated (Command Discipline A),,08/28/2015,No,,,,,,Command Discipline - A
-201401361,944850,Substantiated (Formalized Training),,08/28/2015,No,,,,,,
+201401361,944850,Substantiated (Formalized Training),,08/28/2015,No,,,,,,Command Discipline - A
 201401420,941054,Substantiated (Charges),,,Yes,Forfeit vacation 15 days,Forfeit vacation 15 days,,Closed: Guilty after trial,03/22/2016,Forfeit vacation 15 days
 201401420,942655,Substantiated (Charges),,,Yes,Forfeit vacation 10 days,Forfeit vacation 8 days,,Closed: Guilty after trial,03/22/2016,Forfeit vacation 8 days
 201401450,924767,Substantiated (Command Discipline A),,12/28/2015,No,,,,,,Instructions
@@ -4843,7 +4843,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201401477,915737,Substantiated (Instructions),,07/28/2015,No,,,,,,Command Level Instructions
 201401583,951169,Substantiated (Command Discipline B),,11/28/2016,No,,,,,,Vacation: 30 days / Probation: 360 days
 201401621,949213,Substantiated (Command Discipline A),,08/28/2015,No,,,,,,Command Level Instructions
-201401653,952456,Substantiated (Instructions),,07/28/2015,No,,,,,,
+201401653,952456,Substantiated (Instructions),,07/28/2015,No,,,,,,Instructions
 201401749,932699,Substantiated (Command Discipline B),,08/28/2015,No,,,,,,Command Discipline - B
 201401749,948283,Substantiated (Formalized Training),,08/28/2015,No,,,,,,Instructions
 201401799,927098,Substantiated (Charges),,,Yes,,,Forfeit vacation 5 days,Closed: Resolved by plea,09/13/2016,Forfeit vacation 5 days
@@ -9146,7 +9146,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202101815,956461,Substantiated (Command Discipline B),Substantiated (Command Discipline B),09/28/2022,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202101824,955540,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2022,No,,,,,,Command Discipline - A
 202101825,948899,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202101848,936874,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, without discipline",01/09/2023,
+202101848,936874,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, without discipline",04/29/2022,
 202101848,940544,Substantiated (Command Discipline B),Substantiated (Command Discipline B),06/28/2022,No,,,,,,No penalty
 202101908,968496,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/28/2022,No,,,,,,No penalty
 202101926,950444,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
