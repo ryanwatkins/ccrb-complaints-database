@@ -8000,7 +8000,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202000492,962490,Substantiated (Formalized Training),Substantiated (Formalized Training),06/28/2022,No,,,,,,No penalty
 202000492,963815,Substantiated (Formalized Training),Substantiated (Formalized Training),06/28/2022,No,,,,,,No penalty
 202000492,965125,Substantiated (Formalized Training),Substantiated (Command Discipline A),06/28/2022,No,,,,,,No penalty
-202000545,948439,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202000545,948439,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202000559,943343,Substantiated (Command Discipline B),Substantiated (Command Discipline B),04/28/2022,No,,,,,,No penalty
 202000559,943951,Substantiated (Command Discipline A),Substantiated (Command Discipline A),04/28/2022,No,,,,,,No penalty
 202000571,935969,Substantiated (Formalized Training),Substantiated (Command Discipline A),02/28/2022,No,,,,,,Command Discipline - A
@@ -8444,7 +8444,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202003747,938132,Substantiated (Formalized Training),Substantiated (Formalized Training),07/28/2022,No,,,,,,No penalty
 202003747,941854,Substantiated (Command Discipline B),Substantiated (Command Discipline B),07/28/2022,No,,,,,,No penalty
 202003753,956922,Substantiated (Command Discipline A),,12/28/2021,No,,,,,,Command Discipline - A
-202003770,933356,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202003770,933356,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,Forfeit vacation 10 days,,,Closed: Not guilty after trial,04/18/2023,
 202003770,960108,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003772,960224,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003772,963727,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
