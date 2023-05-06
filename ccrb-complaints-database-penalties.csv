@@ -2535,7 +2535,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 200700837,928499,Substantiated (Command Discipline),,04/28/2011,No,,,,,,
 200700880,937671,Substantiated (Charges),,06/28/2008,No,,,,,,Command Discipline - B
 200700923,897131,Substantiated (Instructions),,06/28/2008,No,,,,,,No penalty
-200700923,938612,Substantiated (Instructions),,06/28/2008,No,,,,,,
+200700923,938612,Substantiated (Instructions),,06/28/2008,No,,,,,,Instructions
 200700923,938866,Substantiated (Instructions),,06/28/2008,No,,,,,,No penalty
 200700941,941540,Substantiated (Charges),,07/28/2008,No,,,,,,Command Discipline - A
 200700950,916540,Substantiated (Charges),,07/28/2008,No,,,,,,Instructions
@@ -8697,7 +8697,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202006070,876768,Substantiated (Charges),,,Yes,Terminated,Forfeit vacation 40 days,,Closed: Guilty after trial,11/04/2021,Forfeit vacation 40 days
 202006095,946099,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202006095,964532,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202006125,965481,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
+202006125,965481,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,Forfeit vacation 10 days,Forfeit vacation 5 days,,Closed: Guilty after trial,05/05/2023,Forfeit vacation 5 days
 202006126,959234,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202006156,948376,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2022,No,,,,,,No penalty
 202006159,917574,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
