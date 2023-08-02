@@ -9998,7 +9998,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202200672,965033,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202200678,945080,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202200687,938547,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
-202200687,958363,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202200687,958363,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Closed: Other,08/01/2023,Command Discipline B
 202200687,966482,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202200710,970749,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, without discipline",06/27/2023,Dismissed
 202200726,920198,Substantiated (Command Discipline A),Substantiated (Command Discipline A),06/28/2023,No,,,,,,No penalty
@@ -10233,8 +10233,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202203035,954887,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202203035,959133,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202203038,941107,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202203080,932167,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202203080,951815,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202203080,932167,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: SOL Expired in APU,08/01/2023,
+202203080,951815,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: SOL Expired in APU,08/01/2023,
 202203229,963967,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202203286,966968,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202203334,958401,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
