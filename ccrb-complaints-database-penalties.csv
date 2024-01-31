@@ -9111,7 +9111,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202101557,960049,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2023,No,,,,,,No penalty
 202101557,960316,Substantiated (Command Discipline A),Substantiated (Command Discipline B),02/28/2023,No,,,,,,No penalty
 202101631,928668,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/28/2022,No,,,,,,Retired
-202101651,962679,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202101651,962679,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,"Closed: Plea set aside, Without discipline",01/30/2024,
 202101666,930285,Substantiated (Command Discipline B),Substantiated (Command Discipline B),01/28/2023,No,,,,,,No penalty
 202101697,947940,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202101702,933818,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
@@ -10619,7 +10619,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202206072,950361,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Closed: SOL Expired prior to APU,03/24/2023,
 202206073,966036,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 202206079,972469,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202206095,969475,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202206095,969475,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, without discipline",01/15/2024,
 202206124,921970,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2023,No,,,,,,No penalty
 202206144,963875,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,Yes,,,,Pending,,APU - Decision Pending
 202206144,966116,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,Yes,,,,Pending,,APU - Decision Pending
