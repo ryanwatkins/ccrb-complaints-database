@@ -9233,8 +9233,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202102541,954455,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,10/16/2023,Forfeit vacation 3 days / Command Discipline A
 202102541,955381,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,Forfeit vacation 8 days,Closed: Resolved by plea,10/16/2023,Forfeit vacation 8 days / Command Discipline B
 202102542,932461,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202102554,951689,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202102554,954693,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202102554,951689,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,02/27/2024,Forfeit vacation 3 days / Command Discipline A
+202102554,954693,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,02/27/2024,Forfeit vacation 3 days / Command Discipline A
 202102575,930412,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202102575,960296,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/28/2022,No,,,,,,No penalty
 202102575,961121,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/28/2022,No,,,,,,No penalty
@@ -9304,7 +9304,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202103114,966766,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202103122,965166,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202103150,952740,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2023,No,,,,,,Command Discipline - A
-202103150,960728,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202103150,960728,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,Closed: Resolved by plea,02/27/2024,Forfeit vacation 10 days / Command Discipline B
 202103180,967657,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/28/2022,No,,,,,,No penalty
 202103192,946347,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202103206,964146,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
@@ -10190,7 +10190,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202202427,965752,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/31/2023,No,,,,,,Command Discipline - A
 202202457,966808,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2023,No,,,,,,Command Discipline - A
 202202475,935186,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2023,No,,,,,,Command Discipline - A
-202202485,939118,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202202485,939118,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,"Closed: Plea set aside, Comm. Disc. B",02/27/2024,Forfeit vacation 10 days / Command Discipline B
 202202487,969400,Substantiated (Formalized Training),Substantiated (Formalized Training),10/25/2023,No,,,,,,Formalized Training
 202202489,945618,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202202497,950858,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
@@ -10204,7 +10204,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202202531,962769,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/25/2023,No,,,,,,Command Discipline - A
 202202539,968540,Substantiated (Command Discipline A),Substantiated (Command Discipline B),10/25/2023,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202202539,968749,Substantiated (Command Discipline B),Substantiated (Command Discipline B),10/25/2023,No,,,,,,Command Discipline - B (Vacation: 5 days)
-202202546,969993,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
+202202546,969993,Substantiated (Formalized Training),Substantiated (Formalized Training),01/31/2024,No,,,,,,Formalized Training
 202202547,953903,Substantiated (Command Discipline A),Substantiated (Command Discipline B),10/31/2023,No,,,,,,Command Discipline - B (Vacation: 2 days)
 202202547,957094,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202202547,968703,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/31/2023,No,,,,,,Command Discipline - A (Vacation: 2 days)
@@ -10289,7 +10289,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202203095,936304,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202203117,950575,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/31/2023,No,,,,,,Command Discipline - A
 202203131,933698,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202203167,955120,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
+202203167,955120,Substantiated (Formalized Training),Substantiated (Formalized Training),01/31/2024,No,,,,,,Formalized Training
 202203229,963967,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202203232,965108,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202203247,968364,Substantiated (Command Discipline A),Substantiated (Command Discipline A),11/30/2023,No,,,,,,Command Discipline - A
@@ -10395,7 +10395,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204053,945712,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204060,958076,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",12/19/2023,Forfeit vacation 1 days
 202204062,945659,Substantiated (Command Discipline A),Substantiated (Command Discipline A),11/30/2023,No,,,,,,Command Discipline - A
-202204079,958827,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
+202204079,958827,Substantiated (Formalized Training),Substantiated (Formalized Training),01/31/2024,No,,,,,,Formalized Training
 202204081,961338,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/31/2023,No,,,,,,Command Discipline - B
 202204101,937246,Substantiated (Command Discipline A),Substantiated (Command Discipline A),03/28/2023,No,,,,,,Command Discipline - A
 202204105,963641,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
@@ -10407,7 +10407,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204167,940908,Substantiated (Formalized Training),Substantiated (Formalized Training),11/30/2023,No,,,,,,Closed Administratively (Command Discipline - B) / Vacation: 2 days
 202204168,939495,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/31/2023,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202204215,968846,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,Command Discipline - A
-202204266,963953,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/29/2023,No,,,,,,No penalty
+202204266,963953,Substantiated (Command Discipline A),Substantiated (Command Discipline B),01/31/2024,No,,,,,,No penalty
 202204273,956704,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",12/26/2023,Command Discipline A
 202204281,962913,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/31/2023,No,,,,,,No penalty
 202204283,938863,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,No penalty
@@ -10423,7 +10423,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204310,968142,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/31/2023,No,,,,,,No penalty
 202204323,955075,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204324,962567,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,Command Discipline - A
-202204326,959835,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
+202204326,959835,Substantiated (Formalized Training),Substantiated (Formalized Training),01/31/2024,No,,,,,,Formalized Training
 202204338,949392,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202204339,944653,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204339,972438,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
@@ -10434,11 +10434,11 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204356,967306,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,Command Discipline - A
 202204364,964827,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,No penalty
 202204373,965876,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,Command Discipline - A
-202204394,950005,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204394,967492,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204394,950005,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
+202204394,967492,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
 202204396,970076,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204404,939832,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",01/03/2024,Command Discipline A
-202204404,970773,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/22/2023,No,,,,,,No penalty
+202204404,970773,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204433,933845,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202204475,963030,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204475,965185,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
@@ -10446,25 +10446,25 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204476,965430,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202204476,966073,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202204476,971446,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
-202204491,945584,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204491,945584,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
 202204496,945645,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204504,939271,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/31/2023,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202204516,948661,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202204516,950705,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202204530,921687,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204530,962555,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
-202204550,942981,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204550,947565,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204550,970141,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204530,921687,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
+202204530,962555,Substantiated (Command Discipline A),Substantiated (Command Discipline B),01/31/2024,No,,,,,,Command Discipline - B (Vacation: 1 day)
+202204550,942981,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202204550,947565,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202204550,970141,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204555,965342,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202204558,968390,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204558,968489,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204558,968390,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202204558,968489,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204559,959452,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204559,968704,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202204559,970263,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202204573,968066,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
-202204585,953911,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204585,965108,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204585,953911,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202204585,965108,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204599,965069,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204631,953989,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204639,943905,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
@@ -10472,23 +10472,23 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204641,963030,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202204641,964483,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204641,967471,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204644,968665,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204644,968665,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204654,949112,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,No penalty
 202204654,949581,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/31/2023,No,,,,,,No penalty
 202204669,954551,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202204681,965032,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204715,951644,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202204681,965032,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202204715,951644,Substantiated (Command Discipline A),Substantiated (Command Discipline B),01/31/2024,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202204715,964483,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202204715,967471,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,Yes,,,,Pending,,APU - Decision Pending
-202204727,968364,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204727,969431,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204727,968364,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202204727,969431,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204730,963096,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/31/2023,No,,,,,,No penalty
-202204759,953469,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204759,954700,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204759,958061,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204759,964528,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
-202204759,966225,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204774,956704,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204759,953469,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A (Vacation: 3 days)
+202204759,954700,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A (Vacation: 3 days)
+202204759,958061,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A (Vacation: 3 days)
+202204759,964528,Substantiated (Command Discipline A),Substantiated (Command Discipline B),01/31/2024,No,,,,,,Command Discipline - B (Vacation: 3 days)
+202204759,966225,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A (Vacation: 3 days)
+202204774,956704,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204792,969369,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204804,957283,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202204804,960190,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
@@ -10502,24 +10502,24 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202204868,964413,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202204868,966993,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202204897,946241,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,Yes,,,,Pending,,APU - Decision Pending
-202204897,949193,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202204903,963069,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202204897,949193,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
+202204903,963069,Substantiated (Command Discipline B),Substantiated (Command Discipline B),01/31/2024,No,,,,,,No penalty
 202204903,965002,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204911,954551,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202204945,949473,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202204951,939544,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202204951,939544,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
 202204973,932247,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202204973,965891,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202205003,968364,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202205011,962705,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202205003,968364,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202205011,962705,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
 202205032,959016,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,Yes,,,,Pending,,APU - Decision Pending
 202205073,954897,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202205105,941021,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202205105,960976,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
-202205115,967457,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202205105,941021,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,No penalty
+202205105,960976,Substantiated (Command Discipline B),Substantiated (Command Discipline B),01/31/2024,No,,,,,,No penalty
+202205115,967457,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
 202205119,934460,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202205119,945912,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202205126,935642,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202205126,935642,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
 202205140,947874,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202205146,937726,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202205161,968316,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
@@ -10546,12 +10546,12 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202205394,948898,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202205427,940773,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202205441,968202,Substantiated (Command Discipline B),Substantiated (Command Discipline B),02/07/2024,No,,,,,,No penalty
-202205448,967774,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
+202205448,967774,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Command Discipline - A
 202205450,952889,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202205455,947569,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202205456,968704,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202205463,932718,Substantiated (Command Discipline B),Substantiated (Command Discipline A),02/14/2024,No,,,,,,No penalty
-202205492,942751,Substantiated (Formalized Training),Substantiated (Command Discipline A),,No,,,,,,
+202205492,942751,Substantiated (Formalized Training),Substantiated (Command Discipline A),01/31/2024,No,,,,,,Closed Administratively (Command Discipline - B) / Vacation: 0.13 days
 202205516,959915,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202205522,934403,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202205522,968502,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
@@ -10945,7 +10945,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202300769,950021,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202300781,949063,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202300781,954646,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202300786,951915,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
+202300786,951915,Substantiated (Formalized Training),Substantiated (Formalized Training),01/31/2024,No,,,,,,Formalized Training
 202300835,937911,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202300847,972383,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202300851,970760,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
@@ -10994,7 +10994,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202305261,942490,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202305261,974262,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202305294,959060,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202305294,966304,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202305294,966304,Substantiated (Command Discipline B),Substantiated (Command Discipline B),01/31/2024,No,,,,,,No penalty
 202305351,967927,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202305351,970488,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202305937,946480,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
