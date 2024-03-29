@@ -10684,7 +10684,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202206631,957002,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202206638,949106,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202206638,958401,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
-202206654,947487,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202206654,947487,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202206660,949460,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202206667,942297,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202206668,963375,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
@@ -11109,7 +11109,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202303823,950968,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2024,No,,,,,,Command Discipline - A
 202303867,937651,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202303867,953738,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202303867,961214,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202303867,961214,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202303881,950594,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",03/18/2024,Command Discipline A
 202303893,939846,Substantiated (Command Discipline B),Substantiated (Command Discipline B),02/14/2024,No,,,,,,No penalty
 202304131,951784,Substantiated (Command Discipline B),Substantiated (Command Discipline B),11/30/2023,No,,,,,,No penalty
