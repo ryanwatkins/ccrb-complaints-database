@@ -7883,7 +7883,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201909958,955068,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2021,No,,,,,,Command Discipline - A
 201909958,955381,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",07/01/2020,Forfeit vacation 3 days
 201909972,945747,Substantiated (Command Discipline A),Substantiated (Command Discipline A),11/28/2021,No,,,,,,No penalty
-201910019,941474,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+201910019,941474,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,Forfeit vacation 5 days,Closed: Resolved by plea,07/09/2024,Forfeit vacation
 201910059,929740,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 201910059,948739,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",11/14/2019,Command Discipline A
 201910059,953256,Substantiated (Charges),Substantiated (Charges),,Yes,,,Command Discipline B 10 days,Closed: Resolved by plea,10/16/2023,Forfeit vacation 10 days / Command Discipline B
@@ -11112,7 +11112,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202300412,941021,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202300412,955410,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202300418,965696,Substantiated (Command Discipline A),Substantiated (Command Discipline A),05/31/2024,No,,,,,,Command Discipline - A
-202300421,961064,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: Charges not served,07/03/2024,
+202300421,961064,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, without discipline",07/03/2024,
 202300421,967328,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202300424,943906,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202300424,946987,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
