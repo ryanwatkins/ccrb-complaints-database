@@ -9259,8 +9259,6 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202102843,942549,Substantiated (Command Discipline A),Substantiated (Command Discipline A),11/28/2022,No,,,,,,Command Discipline - A
 202102843,948606,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Closed: SOL Expired prior to APU,06/21/2023,
 202102843,963376,Substantiated (Command Discipline A),Substantiated (Command Discipline A),11/28/2022,No,,,,,,Command Discipline - A
-202102845,931742,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Closed: Retired,10/25/2022,
-202102845,943075,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Closed: Dismissed by APU,06/27/2024,
 202102863,944576,Substantiated (Command Discipline B),Substantiated (Command Discipline B),10/28/2022,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202102864,941058,Substantiated (Formalized Training),Substantiated (Formalized Training),11/28/2022,No,,,,,,Formalized Training
 202102864,960525,Substantiated (Formalized Training),Substantiated (Formalized Training),11/28/2022,No,,,,,,Formalized Training
@@ -11257,7 +11255,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202301118,966136,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202301140,958935,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202301140,961582,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202301141,973741,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202301141,973741,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202301145,948967,Substantiated (Command Discipline A),Substantiated (Command Discipline A),05/31/2024,No,,,,,,No penalty
 202301152,949076,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202301170,940553,Substantiated (Formalized Training),Substantiated (Formalized Training),06/21/2024,No,,,,,,No penalty
