@@ -8459,7 +8459,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202003799,948524,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202003805,955616,Substantiated (Command Discipline B),Substantiated (Command Discipline B),05/28/2022,No,,,,,,No penalty
 202003805,961077,Substantiated (Command Discipline B),Substantiated (Command Discipline B),05/28/2022,No,,,,,,No penalty
-202003813,934429,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202003813,934429,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,"Closed: Plea set aside, Without discipline",09/09/2024,
 202003813,941621,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Closed: SOL Expired prior to APU,01/09/2023,
 202003815,923789,Substantiated (Charges),Substantiated (Charges),,Yes,Dismissal Probation,,,Closed: Not guilty after trial,06/20/2023,
 202003815,960090,Substantiated (Charges),Substantiated (Charges),,Yes,Forfeit vacation 25 days,Forfeit vacation 3 days,,Closed: Guilty after trial,06/20/2023,Forfeit vacation 5 days
@@ -11408,7 +11408,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202301966,934788,Substantiated (Command Discipline A),Substantiated (Command Discipline A),06/14/2024,No,,,,,,Command Discipline - A
 202301966,942598,Substantiated (Command Discipline A),Substantiated (Command Discipline A),06/14/2024,No,,,,,,Command Discipline - A
 202301966,960778,Substantiated (Command Discipline A),Substantiated (Command Discipline A),06/14/2024,No,,,,,,Command Discipline - A
-202301978,955410,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202301978,955410,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,"Closed: Retained, without discipline",09/09/2024,
 202301978,960976,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202301981,967931,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/30/2024,No,,,,,,No penalty
 202301981,969542,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/30/2024,No,,,,,,No penalty
