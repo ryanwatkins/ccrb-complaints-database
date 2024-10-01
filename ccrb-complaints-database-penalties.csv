@@ -11164,7 +11164,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202300576,955942,Substantiated (Command Discipline B),Substantiated (Command Discipline B),07/30/2024,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202300576,960511,Substantiated (Command Discipline B),Substantiated (Command Discipline B),07/30/2024,No,,,,,,Command Discipline - B (Vacation: 5 days)
 202300585,969307,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202300597,935027,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202300597,935027,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,Closed: Resolved by plea,09/30/2024,Forfeit vacation 10 days / Command Discipline B
 202300597,964479,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202300622,970818,Substantiated (Formalized Training),Substantiated (Formalized Training),05/31/2024,No,,,,,,No penalty
 202300632,967579,Substantiated (Command Discipline A),Substantiated (Command Discipline A),06/30/2024,No,,,,,,Command Discipline - A
@@ -11740,7 +11740,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202303613,966599,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202303613,968867,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202303613,974781,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202303619,969092,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202303619,969092,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Closed: Resigned,09/30/2024,
 202303638,955224,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 202303646,954994,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202303674,947723,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
