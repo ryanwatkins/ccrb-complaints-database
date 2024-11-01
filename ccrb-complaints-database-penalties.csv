@@ -9634,7 +9634,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202105658,938182,Substantiated (Command Discipline B),Substantiated (Command Discipline B),03/28/2023,No,,,,,,No penalty
 202105658,967599,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Closed: Resigned,09/04/2024,
 202105658,969426,Substantiated (Command Discipline B),Substantiated (Command Discipline B),03/28/2023,No,,,,,,Command Discipline - B (Vacation: 5 days)
-202105659,961110,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202105659,961110,Substantiated (Charges),Substantiated (Charges),,Yes,Forfeit vacation 30 days,Forfeit vacation 25 days,,Closed: Not guilty after trial but Discipline Imposed,10/31/2024,Forfeit vacation 25 days
 202105664,930874,Substantiated (Command Discipline A),Substantiated (Command Discipline A),03/28/2023,No,,,,,,Command Discipline - A
 202105664,957429,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202105666,967818,Substantiated (Command Discipline A),Substantiated (Command Discipline A),03/28/2023,No,,,,,,No penalty
@@ -11804,7 +11804,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202303911,968742,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 202303926,971968,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202303937,944467,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
-202303940,969524,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202303940,969524,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",10/31/2024,Forfeit vacation 5 days
 202303940,974534,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 202303945,964969,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202303956,970299,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
