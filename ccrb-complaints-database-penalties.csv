@@ -9265,7 +9265,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202102908,938461,Substantiated (Command Discipline A),Substantiated (Command Discipline A),10/28/2022,No,,,,,,Command Discipline - A
 202102950,956837,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202102973,964985,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/28/2022,No,,,,,,No penalty
-202102981,939932,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202102981,939932,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,12/18/2024,Forfeit vacation 3 days / Command Discipline A
 202102981,963842,Substantiated (Command Discipline B),Substantiated (Command Discipline B),11/28/2022,No,,,,,,No penalty
 202102981,963996,Substantiated (Command Discipline B),Substantiated (Command Discipline B),11/28/2022,No,,,,,,No penalty
 202102983,950637,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: SOL Expired prior to APU,06/27/2023,
@@ -12162,7 +12162,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202305894,968483,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202305905,952243,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202305905,960257,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202305905,974997,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202305905,974997,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202305937,946480,Substantiated (Formalized Training),Substantiated (Formalized Training),06/14/2024,No,,,,,,Formalized Training
 202305966,950998,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202305967,954274,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
