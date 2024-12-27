@@ -12256,7 +12256,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202306512,968704,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202306512,969387,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202306526,947148,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202306526,960272,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202306526,960272,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",12/26/2024,Command Discipline A
 202306526,960317,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202306526,964325,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202306529,970299,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
