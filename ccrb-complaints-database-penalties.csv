@@ -8851,7 +8851,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202007689,959678,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/28/2022,No,,,,,,No penalty
 202007689,963620,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/28/2022,No,,,,,,No penalty
 202007689,967233,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/28/2022,No,,,,,,No penalty
-202007690,967579,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202007690,967579,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 20 days,Closed: Resolved by plea,02/05/2025,Forfeit vacation 20 days
 202007703,966518,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/28/2022,No,,,,,,No penalty
 202007713,943276,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2023,No,,,,,,No penalty
 202007713,962021,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Closed: Charges not served,07/26/2023,
@@ -9594,7 +9594,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202105330,947398,Substantiated (Command Discipline A),Substantiated (Command Discipline A),03/28/2023,No,,,,,,Command Discipline - A
 202105350,943025,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Closed: SOL Expired prior to APU,08/22/2023,
 202105350,965634,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: SOL Expired prior to APU,08/22/2023,
-202105358,967579,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202105358,967579,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 20 days,Closed: Resolved by plea,02/05/2025,Forfeit vacation 20 days
 202105373,966640,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202105381,931483,Substantiated (Command Discipline A),Substantiated (Command Discipline B),03/28/2023,No,,,,,,Command Discipline - B
 202105402,953469,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 3 days,Closed: Resolved by plea,03/25/2024,Forfeit vacation 3 days / Command Discipline A
@@ -12705,9 +12705,9 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202311084,958550,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202311084,968351,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202311238,954588,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202311238,960385,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
-202311238,963432,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
-202311238,969307,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202311238,960385,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
+202311238,963432,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
+202311238,969307,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202311624,976403,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202311624,976430,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202312032,975129,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
