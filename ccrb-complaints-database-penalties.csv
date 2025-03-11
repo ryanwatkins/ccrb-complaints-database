@@ -11550,7 +11550,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202302600,967431,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",08/28/2024,Forfeit vacation 1 days
 202302631,950096,Substantiated (Command Discipline A),Substantiated (Command Discipline A),08/09/2024,No,,,,,,No penalty
 202302631,956272,Substantiated (Command Discipline A),Substantiated (Command Discipline A),08/09/2024,No,,,,,,No penalty
-202302640,951797,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202302640,951797,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 20 days,Closed: Resolved by plea,03/10/2025,Forfeit vacation 20 days / Formalized Training
 202302646,971078,Substantiated (Command Discipline B),Substantiated (Command Discipline B),05/10/2024,No,,,,,,No penalty
 202302646,972320,Substantiated (Command Discipline B),Substantiated (Command Discipline B),05/10/2024,No,,,,,,No penalty
 202302649,968463,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
@@ -12633,7 +12633,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202308611,970319,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202308616,972768,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202308616,972897,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202308618,967967,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
+202308618,967967,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
 202308620,952338,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,Yes,,,,Pending,,APU - Decision Pending
 202308665,965915,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202308665,967479,Substantiated (Command Discipline B),Substantiated (Command Discipline B),01/21/2025,No,,,,,,No penalty
