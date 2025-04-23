@@ -12897,7 +12897,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202310448,974711,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202310466,963927,Substantiated (Command Discipline B),Substantiated (Command Discipline B),04/10/2025,No,,,,,,No penalty
 202310478,964910,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202310494,940848,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202310494,940848,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,"Closed: Retained, with discipline",04/21/2025,Forfeit vacation 1 days
 202310494,961961,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202310501,965946,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202310501,968150,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
@@ -12959,6 +12959,9 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202310802,976217,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202310808,931303,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202310832,959654,Substantiated (Command Discipline A),Substantiated (Command Discipline B),11/30/2024,No,,,,,,No penalty
+202310856,954948,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202310856,967774,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202310856,968036,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202310877,968329,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202310918,964865,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202310999,965515,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
