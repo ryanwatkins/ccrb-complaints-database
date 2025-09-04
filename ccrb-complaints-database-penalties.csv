@@ -10630,7 +10630,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202206188,952400,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/28/2024,No,,,,,,Command Discipline - A (Vacation: 0.25 days)
 202206213,968887,Substantiated (Command Discipline B),Substantiated (Charges),,No,,,,,,
 202206257,967018,Substantiated (Command Discipline A),Substantiated (Command Discipline B),03/29/2024,No,,,,,,Command Discipline - B (Vacation: 5 days)
-202206270,938008,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,Formalized Training,Closed: Resolved by plea,08/29/2025,
+202206270,938008,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,Formalized Training,Closed: Resolved by plea,08/29/2025,Formalized Training
 202206279,934913,Substantiated (Command Discipline A),Substantiated (Command Discipline A),03/29/2024,No,,,,,,No penalty
 202206279,946917,Substantiated (Command Discipline A),Substantiated (Command Discipline A),03/29/2024,No,,,,,,No penalty
 202206290,945105,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
@@ -12369,7 +12369,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202307024,967589,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/31/2025,No,,,,,,No penalty
 202307029,956187,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/02/2024,No,,,,,,No penalty
 202307040,948500,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
-202307044,962820,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202307044,962820,Substantiated (Charges),Substantiated (Charges),,Yes,Forfeit vacation 20 days,,,Closed: Not guilty after trial,09/03/2025,
 202307047,946659,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/21/2025,No,,,,,,No penalty
 202307047,971819,Substantiated (Formalized Training),Substantiated (Formalized Training),01/21/2025,No,,,,,,Formalized Training
 202307059,959824,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
