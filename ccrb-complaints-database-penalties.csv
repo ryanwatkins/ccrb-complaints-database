@@ -8189,7 +8189,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202002550,936525,Substantiated (Command Discipline A),Substantiated (Command Discipline B),07/28/2022,No,,,,,,No penalty
 202002550,953624,Substantiated (Charges),Substantiated (Charges),,Yes,Terminated,Forfeit vacation 5 days,,Closed: Guilty after trial-PC Approved,02/23/2024,Forfeit vacation 5 days
 202002571,938148,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Closed: Other,01/16/2025,
-202002605,954455,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202002605,954455,Substantiated (Charges),Substantiated (Charges),,Yes,,,Formalized Training,Closed: Resolved by plea,12/18/2025,Formalized Training
 202002611,953086,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/28/2022,No,,,,,,No penalty
 202002611,953739,Substantiated (Command Discipline A),Substantiated (Command Discipline A),07/28/2022,No,,,,,,No penalty
 202002623,930285,Substantiated (Command Discipline A),Substantiated (Command Discipline A),08/28/2022,No,,,,,,No penalty
@@ -12494,7 +12494,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202307817,951056,Substantiated (Formalized Training),Substantiated (Formalized Training),03/14/2025,No,,,,,,Formalized Training
 202307817,967207,Substantiated (Formalized Training),Substantiated (Formalized Training),03/14/2025,No,,,,,,Formalized Training
 202307817,968801,Substantiated (Formalized Training),Substantiated (Formalized Training),03/14/2025,No,,,,,,Formalized Training
-202307821,948471,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202307821,948471,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,Closed: Resolved by plea,12/18/2025,Forfeit vacation 10 days / Command Discipline B
 202307826,941197,Substantiated (Formalized Training),Substantiated (Formalized Training),03/14/2025,No,,,,,,Formalized Training
 202307826,942310,Substantiated (Formalized Training),Substantiated (Formalized Training),03/14/2025,No,,,,,,Formalized Training
 202307826,946958,Substantiated (Formalized Training),Substantiated (Formalized Training),03/14/2025,No,,,,,,Formalized Training
@@ -13920,7 +13920,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202406179,974028,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/05/2025,No,,,,,,Command Discipline - A
 202406179,974188,Substantiated (Command Discipline B),Substantiated (Command Discipline B),12/05/2025,No,,,,,,Command Discipline - B (Vacation: 1 day)
 202406179,975052,Substantiated (Command Discipline A),Substantiated (Command Discipline A),12/05/2025,No,,,,,,Command Discipline - A
-202406182,966501,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,No,,,,,,
+202406182,966501,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/18/2025,No,,,,,,Command Discipline - A (Formalized Training)
 202406184,932190,Substantiated (Formalized Training),Substantiated (Formalized Training),,No,,,,,,
 202406189,968053,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202406191,960674,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
