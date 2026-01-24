@@ -6173,7 +6173,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 201607782,954096,Substantiated (Command Discipline A),,03/28/2018,No,,,,,,Instructions
 201607783,936994,Substantiated (Formalized Training),,03/28/2018,No,,,,,,Formalized Training
 201607788,898737,Substantiated (Charges),,,Yes,Dismissal Probation 30 days,Dismissal Probation 30 days,,Closed: Guilty after trial-PC Approved,06/13/2019,Dismissal Probation 30 days
-201607838,946971,Substantiated (Charges),,,Yes,,,,Pending,,APU - Decision Pending
+201607838,946971,Substantiated (Charges),,,Yes,,,,"Closed: Previously adjudicated, discipline not reported",01/23/2026,
 201607855,957344,Substantiated (Command Lvl Instructions),,01/28/2018,No,,,,,,Formalized Training
 201607870,930421,Substantiated (Command Discipline B),,11/28/2017,No,,,,,,Formalized Training
 201607913,926259,Substantiated (Command Discipline A),,01/28/2018,No,,,,,,No penalty
@@ -9476,7 +9476,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202104384,950499,Substantiated (Command Discipline B),Substantiated (Command Discipline B),01/28/2023,No,,,,,,Command Discipline - B (Vacation: 1 day)
 202104394,962583,Substantiated (Command Discipline B),Substantiated (Command Discipline B),02/28/2023,No,,,,,,No penalty
 202104414,962159,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/28/2023,No,,,,,,Command Discipline - A
-202104429,957452,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, discipline not reported",10/02/2025,Forfeit vacation 26 days
+202104429,957452,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",10/02/2025,Forfeit vacation 26 days
 202104435,934798,Substantiated (Command Discipline B),Substantiated (Command Discipline B),03/28/2023,No,,,,,,No penalty
 202104459,964803,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 20 days,Closed: Resolved by plea,07/27/2024,Forfeit vacation 15 days
 202104470,936340,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/28/2023,No,,,,,,Command Discipline - A
