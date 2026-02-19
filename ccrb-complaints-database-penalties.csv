@@ -12374,7 +12374,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202307047,946659,Substantiated (Command Discipline A),Substantiated (Command Discipline A),01/21/2025,No,,,,,,No penalty
 202307047,971819,Substantiated (Formalized Training),Substantiated (Formalized Training),01/21/2025,No,,,,,,Formalized Training
 202307059,959824,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202307065,956511,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202307065,956511,Substantiated (Charges),Substantiated (Charges),,Yes,,,Forfeit vacation 10 days,Closed: Resolved by plea,02/18/2026,Forfeit vacation 10 days / Command Discipline B
 202307068,960745,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/31/2024,No,,,,,,No penalty
 202307068,971511,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/31/2024,No,,,,,,No penalty
 202307069,964150,Substantiated (Command Discipline A),Substantiated (Command Discipline B),12/12/2025,No,,,,,,Closed Administratively (Command Discipline - A) / Instructions
@@ -14042,8 +14042,8 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202407348,962470,Substantiated (Formalized Training),Substantiated (Formalized Training),01/23/2026,No,,,,,,Formalized Training
 202407348,972367,Substantiated (Formalized Training),Substantiated (Formalized Training),01/23/2026,No,,,,,,Formalized Training
 202407368,973254,Substantiated (Formalized Training),Substantiated (Formalized Training),01/09/2026,No,,,,,,Formalized Training
-202407385,959339,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
-202407385,971270,Substantiated (Command Discipline A),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
+202407385,959339,Substantiated (Command Discipline A),Substantiated (Command Discipline B),01/30/2026,No,,,,,,Command Discipline - B (Vacation: 1 day)
+202407385,971270,Substantiated (Command Discipline A),Substantiated (Command Discipline B),01/30/2026,No,,,,,,Command Discipline - B
 202407407,966537,Substantiated (Formalized Training),Substantiated (Formalized Training),01/09/2026,No,,,,,,Formalized Training
 202407409,944113,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202407438,973461,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
