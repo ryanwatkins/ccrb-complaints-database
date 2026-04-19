@@ -12970,7 +12970,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202310894,958691,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202310913,954556,Substantiated (Formalized Training),Substantiated (Formalized Training),06/06/2025,No,,,,,,Formalized Training
 202310918,964865,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
-202310923,966165,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202310923,966165,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, with discipline",04/17/2026,Dismissal Probation 365 days
 202310969,929963,Substantiated (Formalized Training),Substantiated (Formalized Training),12/31/2025,No,,,,,,Closed Administratively
 202310971,939746,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Retained, without discipline",05/21/2025,
 202310973,973008,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
@@ -13472,7 +13472,7 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202402288,954862,Substantiated (Command Discipline A),Substantiated (Command Discipline B),09/19/2025,No,,,,,,Command Discipline - B
 202402298,958691,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202402298,963987,Substantiated (Command Discipline A),Substantiated (Command Discipline A),08/29/2025,No,,,,,,Command Discipline - A
-202402300,936827,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
+202402300,936827,Substantiated (Charges),Substantiated (Charges),,Yes,,,,"Closed: Previously adjudicated, discipline not reported",04/17/2026,
 202402300,959671,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202402317,970299,Substantiated (Command Discipline A),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202402317,971968,Substantiated (Command Discipline A),Substantiated (Command Discipline A),09/19/2025,No,,,,,,Command Discipline - A
@@ -14668,13 +14668,13 @@ Complaint Id,Tax ID,CCRB Substantiated Officer Disposition,Board Discipline Reco
 202503211,950321,Substantiated (Command Discipline B),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
 202504219,976119,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202504588,958745,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202504588,960033,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202504588,960033,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202504588,968957,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
 202504727,971916,Substantiated (Formalized Training),Substantiated (Formalized Training),03/31/2026,No,,,,,,Formalized Training
 202504933,950110,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202504956,967382,Substantiated (Command Discipline A),Substantiated (Command Discipline A),,No,,,,,,
-202505194,968422,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
-202505194,974778,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
+202505194,968422,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
+202505194,974778,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,Yes,,,,Pending,,APU - Decision Pending
 202505210,978503,Substantiated (Command Discipline B),Substantiated (Command Discipline B),,No,,,,,,
 202505886,971638,Substantiated (Command Discipline A),Substantiated (Command Discipline A),02/06/2026,No,,,,,,Command Discipline - A (Warned and Admonished)
 202505886,975105,Substantiated (Charges),Substantiated (Charges),,Yes,,,,Pending,,APU - Decision Pending
