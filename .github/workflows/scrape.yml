@@ -8,18 +8,32 @@ on:
 
 jobs:
   scheduled:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-slim
+
     steps:
     - name: Check out this repo
       uses: actions/checkout@v6
+
+    - name: Enable Corepack (Yarn)
+      run: |-
+        npm install -g corepack
+        corepack enable
+
     - name: Setup node
       uses: actions/setup-node@v6
       with:
-        node-version: '24'
+        node-version-file: '.nvmrc'
+        cache: 'yarn'
+        cache-dependency-path: yarn.lock
+
     - name: Install and run
       run: |-
-        yarn install
+        yarn install --immutable
+
+    - name: Run
+      run: |-
         yarn start
+
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
